@@ -1,0 +1,38 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  guide: CollectionEntry<'guides'>;
+  featured?: boolean;
+}
+
+const { guide, featured = false } = Astro.props;
+const { title, excerpt } = guide.data;
+const slug = guide.slug;
+---
+
+<article class={`group bg-white border border-champagne hover:border-sage rounded-xl overflow-hidden transition-all hover:shadow-md ${featured ? 'p-8' : 'p-6'}`}>
+  <div class="flex flex-col h-full">
+    <div class="inline-flex items-center gap-1.5 text-xs font-medium text-sage uppercase tracking-widest mb-3">
+      <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+      </svg>
+      Guide
+    </div>
+    <h3 class={`font-display font-semibold text-charcoal group-hover:text-rose-gold transition-colors leading-snug mb-3 ${featured ? 'text-2xl' : 'text-xl'}`}>
+      <a href={`/guides/${slug}`} class="hover:underline underline-offset-2">
+        {title}
+      </a>
+    </h3>
+    <p class="text-sm text-charcoal-light leading-relaxed flex-1 mb-4">{excerpt}</p>
+    <a
+      href={`/guides/${slug}`}
+      class="inline-flex items-center gap-1 text-sm font-medium text-rose-gold hover:text-rose-gold-light transition-colors"
+    >
+      Read guide
+      <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+      </svg>
+    </a>
+  </div>
+</article>

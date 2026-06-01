@@ -1,0 +1,28 @@
+---
+interface Props {
+  label: string;
+  href?: string;
+  variant?: 'default' | 'sage' | 'rose';
+}
+
+const { label, href, variant = 'default' } = Astro.props;
+
+const classes = {
+  default: 'bg-champagne text-charcoal',
+  sage: 'bg-sage/20 text-sage-dark',
+  rose: 'bg-rose-gold/10 text-rose-gold',
+}[variant];
+---
+
+{href ? (
+  <a
+    href={href}
+    class={`inline-block px-3 py-1 rounded-full text-xs font-medium uppercase tracking-wide transition-opacity hover:opacity-80 ${classes}`}
+  >
+    {label}
+  </a>
+) : (
+  <span class={`inline-block px-3 py-1 rounded-full text-xs font-medium uppercase tracking-wide ${classes}`}>
+    {label}
+  </span>
+)}

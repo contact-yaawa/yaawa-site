@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../components/layout/BaseLayout.astro';
+
+const canonicalURL = new URL('/about', Astro.site).toString();
+---
+
+<BaseLayout
+  title="About YAAWA"
+  description="YAAWA (You Ask And We Answer) helps couples make wedding decisions with confidence through clear, balanced, practical answers."
+  canonicalURL={canonicalURL}
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="mb-12">
+      <h1 class="font-display text-5xl font-bold text-charcoal mb-6">
+        About YAAWA
+      </h1>
+      <p class="text-2xl font-display font-light text-charcoal-light italic">
+        You Ask. We Answer.
+      </p>
+    </div>
+
+    <div class="prose-answer space-y-6">
+      <p class="text-lg text-charcoal leading-relaxed">
+        Planning a wedding means making hundreds of decisions, often for the first time, while navigating strong opinions from every direction. YAAWA exists to give couples a place to find clear, honest, balanced answers to the questions that actually matter.
+      </p>
+
+      <h2>Our Mission</h2>
+      <p>
+        Help couples make wedding decisions with confidence. Not by telling them what to do — but by giving them the information, context, and balanced perspectives they need to decide for themselves.
+      </p>
+
+      <h2>Where the Questions Come From</h2>
+      <p>
+        Our questions are sourced from real conversations — the debates, dilemmas, and genuine uncertainties that couples share online every day. We focus on the questions people actually have, not the ones wedding industry content assumes they should have.
+      </p>
+
+      <h2>How We Write Answers</h2>
+      <p>
+        Every answer on YAAWA follows the same philosophy:
+      </p>
+      <ul>
+        <li>Answer the question directly and immediately</li>
+        <li>Provide balanced perspectives — traditional etiquette, modern thinking, and practical reality</li>
+        <li>Avoid clickbait and manufactured controversy</li>
+        <li>Be practical, not preachy</li>
+        <li>Feel like advice from an experienced wedding planner who genuinely cares</li>
+      </ul>
+
+      <h2>What We Are Not</h2>
+      <p>
+        YAAWA is not a vendor marketplace. We don't sell listings or take commissions. We don't push particular services, brands, or approaches. Our only goal is helping you make good decisions.
+      </p>
+
+      <div class="mt-12 bg-champagne/40 border border-champagne rounded-xl p-8">
+        <h2 class="font-display text-2xl font-bold text-charcoal mb-2">Our Promise</h2>
+        <p class="text-charcoal leading-relaxed">
+          Clear answers to wedding questions. Every time. No agenda, no judgment, no pressure. Just the honest, practical information you need to plan your wedding your way.
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

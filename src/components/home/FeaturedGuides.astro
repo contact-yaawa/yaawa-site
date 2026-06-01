@@ -1,0 +1,36 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import GuideCard from '../ui/GuideCard.astro';
+
+interface Props {
+  guides: CollectionEntry<'guides'>[];
+}
+
+const { guides } = Astro.props;
+---
+
+<section class="py-16 px-4 sm:px-6 lg:px-8">
+  <div class="max-w-6xl mx-auto">
+    <div class="flex items-end justify-between mb-8">
+      <div>
+        <p class="text-xs font-semibold text-sage uppercase tracking-widest mb-2">In Depth</p>
+        <h2 class="font-display text-3xl font-bold text-charcoal">Featured Guides</h2>
+      </div>
+      <a href="/guides" class="text-sm font-medium text-rose-gold hover:text-rose-gold-light transition-colors hidden sm:block">
+        View all guides →
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      {guides.map((guide, i) => (
+        <GuideCard guide={guide} featured={i === 0} />
+      ))}
+    </div>
+
+    <div class="mt-6 text-center sm:hidden">
+      <a href="/guides" class="text-sm font-medium text-rose-gold hover:text-rose-gold-light transition-colors">
+        View all guides →
+      </a>
+    </div>
+  </div>
+</section>

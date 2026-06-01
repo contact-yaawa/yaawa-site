@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-ivory: #F8F5F0;
+  --color-champagne: #E8DCCB;
+  --color-sage: #A8B5A2;
+  --color-sage-dark: #8a9f83;
+  --color-charcoal: #333333;
+  --color-charcoal-light: #555555;
+  --color-rose-gold: #B76E79;
+  --color-rose-gold-light: #c98a94;
+  --color-white: #ffffff;
+
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
+  --font-size-6xl: 3.75rem;
+
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: var(--font-body);
+  background-color: var(--color-ivory);
+  color: var(--color-charcoal);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  line-height: 1.2;
+}
+
+/* Prose styles for Markdown content */
+.prose-answer {
+  font-family: var(--font-body);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  color: var(--color-charcoal);
+}
+
+.prose-answer h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--color-charcoal);
+}
+
+.prose-answer h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.prose-answer p {
+  margin-bottom: 1.25rem;
+}
+
+.prose-answer ul,
+.prose-answer ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.prose-answer li {
+  margin-bottom: 0.375rem;
+}
+
+.prose-answer strong {
+  font-weight: 600;
+  color: var(--color-charcoal);
+}
+
+.prose-answer blockquote {
+  border-left: 3px solid var(--color-sage);
+  padding-left: 1rem;
+  margin-left: 0;
+  font-style: italic;
+  color: var(--color-charcoal-light);
+}
+
+.prose-answer a {
+  color: var(--color-rose-gold);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-answer a:hover {
+  color: var(--color-rose-gold-light);
+}

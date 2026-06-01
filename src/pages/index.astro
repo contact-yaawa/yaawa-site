@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../components/layout/BaseLayout.astro';
+import Hero from '../components/home/Hero.astro';
+import PopularQuestions from '../components/home/PopularQuestions.astro';
+import CategoriesGrid from '../components/home/CategoriesGrid.astro';
+import FeaturedGuides from '../components/home/FeaturedGuides.astro';
+import WhyTrustUs from '../components/home/WhyTrustUs.astro';
+
+const allAnswers = await getCollection('answers');
+const allCategories = await getCollection('categories');
+const allGuides = await getCollection('guides');
+
+const popularAnswers = allAnswers
+  .sort((a, b) => b.data.created.getTime() - a.data.created.getTime())
+  .slice(0, 4);
+
+const featuredGuides = allGuides.slice(0, 2);
+
+const answerCounts: Record<string, number> = {};
+allAnswers.forEach(a => {
+  answerCounts[a.data.category] = (answerCounts[a.data.category] || 0) + 1;
+});
+
+const canonicalURL = new URL('/', Astro.site).toString();
+---
+
+<BaseLayout
+  title="YAAWA — Wedding Questions Answered with Confidence"
+  description="Trusted answers, practical advice, and real-world insights for every wedding decision. Browse questions about etiquette, budget, guest lists, and more."
+  canonicalURL={canonicalURL}
+>
+  <Hero />
+  <PopularQuestions answers={popularAnswers} />
+  <CategoriesGrid categories={allCategories} answerCounts={answerCounts} />
+  <FeaturedGuides guides={featuredGuides} />
+  <WhyTrustUs />
+</BaseLayout>

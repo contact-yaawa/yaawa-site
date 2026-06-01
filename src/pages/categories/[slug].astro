@@ -1,0 +1,63 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import Breadcrumb from '../../components/ui/Breadcrumb.astro';
+import AnswerCard from '../../components/ui/AnswerCard.astro';
+
+export async function getStaticPaths() {
+  const categories = await getCollection('categories');
+  return categories.map(cat => ({
+    params: { slug: cat.id },
+    props: { category: cat },
+  }));
+}
+
+const { category } = Astro.props;
+const { name, description, icon } = category.data;
+const slug = category.id;
+
+const allAnswers = await getCollection('answers');
+const answers = allAnswers
+  .filter(a => a.data.category === slug)
+  .sort((a, b) => b.data.created.getTime() - a.data.created.getTime());
+
+const canonicalURL = new URL(`/categories/${slug}`, Astro.site).toString();
+---
+
+<BaseLayout
+  title={`${name} — Wedding Questions`}
+  description={`${description} Browse all YAAWA answers in the ${name} category.`}
+  canonicalURL={canonicalURL}
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="mb-8">
+      <Breadcrumb crumbs={[
+        { label: 'Home', href: '/' },
+        { label: 'Categories', href: '/categories' },
+        { label: name },
+      ]} />
+    </div>
+
+    <header class="mb-10 flex items-start gap-5">
+      <span class="text-5xl flex-shrink-0" role="img" aria-label={name}>{icon}</span>
+      <div>
+        <h1 class="font-display text-4xl font-bold text-charcoal mb-2">{name}</h1>
+        <p class="text-charcoal-light text-lg">{description}</p>
+        <p class="text-sm text-sage mt-2">{answers.length} {answers.length === 1 ? 'answer' : 'answers'}</p>
+      </div>
+    </header>
+
+    {answers.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {answers.map(answer => <AnswerCard answer={answer} />)}
+      </div>
+    ) : (
+      <div class="text-center py-16 bg-champagne/30 rounded-2xl">
+        <p class="text-charcoal-light font-display text-xl mb-4">No answers in this category yet.</p>
+        <a href="/answers" class="text-sm text-rose-gold hover:text-rose-gold-light transition-colors">
+          Browse all answers →
+        </a>
+      </div>
+    )}
+  </div>
+</BaseLayout>

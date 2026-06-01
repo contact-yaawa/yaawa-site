@@ -1,0 +1,29 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import GuideCard from '../../components/ui/GuideCard.astro';
+
+const guides = await getCollection('guides');
+
+const canonicalURL = new URL('/guides', Astro.site).toString();
+---
+
+<BaseLayout
+  title="Wedding Planning Guides"
+  description="In-depth guides for every major wedding planning decision — from setting your budget to building your guest list."
+  canonicalURL={canonicalURL}
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="mb-10">
+      <p class="text-xs font-semibold text-sage uppercase tracking-widest mb-2">In Depth</p>
+      <h1 class="font-display text-4xl font-bold text-charcoal mb-4">Planning Guides</h1>
+      <p class="text-charcoal-light max-w-2xl">
+        Comprehensive guides to the decisions that matter most in wedding planning.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      {guides.map(guide => <GuideCard guide={guide} />)}
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,85 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import Breadcrumb from '../../components/ui/Breadcrumb.astro';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map(guide => ({
+    params: { slug: guide.slug },
+    props: { guide },
+  }));
+}
+
+const { guide } = Astro.props;
+const { title, excerpt } = guide.data;
+const { Content } = await render(guide);
+
+const canonicalURL = new URL(`/guides/${guide.slug}`, Astro.site).toString();
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: excerpt,
+  publisher: {
+    '@type': 'Organization',
+    name: 'YAAWA',
+    url: Astro.site?.toString(),
+  },
+  mainEntityOfPage: canonicalURL,
+};
+---
+
+<BaseLayout
+  title={title}
+  description={excerpt}
+  canonicalURL={canonicalURL}
+  structuredData={structuredData}
+  type="article"
+>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12" data-pagefind-body>
+    <div class="mb-8">
+      <Breadcrumb crumbs={[
+        { label: 'Home', href: '/' },
+        { label: 'Guides', href: '/guides' },
+        { label: title },
+      ]} />
+    </div>
+
+    <header class="mb-10">
+      <div class="inline-flex items-center gap-1.5 text-xs font-medium text-sage uppercase tracking-widest mb-4">
+        <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+        </svg>
+        Complete Guide
+      </div>
+
+      <h1 class="font-display text-4xl sm:text-5xl font-bold text-charcoal leading-tight mb-4">
+        {title}
+      </h1>
+
+      <p class="text-lg text-charcoal-light leading-relaxed">
+        {excerpt}
+      </p>
+    </header>
+
+    <div class="prose-answer">
+      <Content />
+    </div>
+  </article>
+
+  <!-- CTA -->
+  <section class="bg-champagne/30 py-14">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h2 class="font-display text-2xl font-bold text-charcoal mb-3">Have More Questions?</h2>
+      <p class="text-charcoal-light mb-6">Browse all our wedding answers for specific questions you need answered.</p>
+      <a
+        href="/answers"
+        class="inline-block px-6 py-3 bg-rose-gold text-white font-medium rounded-xl hover:bg-rose-gold-light transition-colors"
+      >
+        Browse All Answers
+      </a>
+    </div>
+  </section>
+</BaseLayout>

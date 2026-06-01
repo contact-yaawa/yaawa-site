@@ -1,0 +1,29 @@
+---
+interface Props {
+  name: string;
+  slug: string;
+  description: string;
+  icon: string;
+  count?: number;
+}
+
+const { name, slug, description, icon, count } = Astro.props;
+---
+
+<a
+  href={`/categories/${slug}`}
+  class="group flex flex-col bg-white border border-champagne hover:border-sage rounded-xl p-6 transition-all hover:shadow-md"
+>
+  <div class="flex items-start justify-between mb-3">
+    <span class="text-3xl" role="img" aria-label={name}>{icon}</span>
+    {count !== undefined && (
+      <span class="text-xs text-charcoal-light bg-champagne px-2 py-0.5 rounded-full">
+        {count} {count === 1 ? 'answer' : 'answers'}
+      </span>
+    )}
+  </div>
+  <h3 class="font-display text-lg font-semibold text-charcoal group-hover:text-rose-gold transition-colors mb-2">
+    {name}
+  </h3>
+  <p class="text-sm text-charcoal-light leading-relaxed line-clamp-2">{description}</p>
+</a>

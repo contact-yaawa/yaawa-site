@@ -1,0 +1,52 @@
+---
+import SearchBar from '../search/SearchBar.astro';
+---
+
+<section class="bg-ivory pt-16 pb-20 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
+  <!-- Subtle decorative background -->
+  <div class="absolute inset-0 pointer-events-none">
+    <div class="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-champagne/30 to-transparent"></div>
+    <div class="absolute bottom-0 left-0 w-64 h-64 rounded-full bg-sage/10 blur-3xl -translate-x-1/2 translate-y-1/2"></div>
+  </div>
+
+  <div class="max-w-4xl mx-auto text-center relative">
+    <!-- Eyebrow -->
+    <div class="inline-flex items-center gap-2 text-xs font-medium text-rose-gold uppercase tracking-widest mb-6 bg-rose-gold/10 px-4 py-2 rounded-full">
+      <span>Wedding Planning Answers</span>
+    </div>
+
+    <!-- Headline -->
+    <h1 class="font-display text-4xl sm:text-5xl lg:text-6xl font-bold text-charcoal leading-tight mb-6">
+      Wedding Questions
+      <span class="text-rose-gold italic">Answered</span>
+      <br class="hidden sm:block" />
+      with Confidence
+    </h1>
+
+    <!-- Subheadline -->
+    <p class="text-lg sm:text-xl text-charcoal-light max-w-2xl mx-auto leading-relaxed mb-10">
+      Trusted answers, practical advice, and real-world insights for every wedding decision.
+    </p>
+
+    <!-- Search -->
+    <div class="max-w-xl mx-auto mb-8">
+      <SearchBar size="lg" placeholder="Ask a wedding question..." />
+    </div>
+
+    <!-- CTAs -->
+    <div class="flex items-center justify-center gap-4 flex-wrap">
+      <a
+        href="/answers"
+        class="px-6 py-3 bg-rose-gold text-white font-medium rounded-xl hover:bg-rose-gold-light transition-colors shadow-sm"
+      >
+        Browse Answers
+      </a>
+      <a
+        href="/categories"
+        class="px-6 py-3 bg-white border border-champagne text-charcoal font-medium rounded-xl hover:border-sage transition-colors"
+      >
+        Explore Categories
+      </a>
+    </div>
+  </div>
+</section>

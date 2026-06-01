@@ -1,0 +1,90 @@
+---
+const navLinks = [
+  { href: '/answers', label: 'Answers' },
+  { href: '/categories', label: 'Categories' },
+  { href: '/guides', label: 'Guides' },
+  { href: '/about', label: 'About' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="bg-ivory border-b border-champagne sticky top-0 z-50">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16">
+      <!-- Logo -->
+      <a href="/" class="flex items-center gap-2 group">
+        <span class="font-display text-2xl font-bold text-charcoal group-hover:text-rose-gold transition-colors">
+          YAAWA
+        </span>
+        <span class="hidden sm:block text-xs text-charcoal-light uppercase tracking-widest mt-1">
+          You Ask. We Answer.
+        </span>
+      </a>
+
+      <!-- Desktop Nav -->
+      <nav class="hidden md:flex items-center gap-1">
+        {navLinks.map(link => (
+          <a
+            href={link.href}
+            class={`px-4 py-2 rounded-md text-sm font-medium transition-colors ${
+              currentPath.startsWith(link.href)
+                ? 'text-rose-gold bg-rose-gold/10'
+                : 'text-charcoal hover:text-rose-gold hover:bg-rose-gold/5'
+            }`}
+          >
+            {link.label}
+          </a>
+        ))}
+      </nav>
+
+      <!-- Mobile Menu Button -->
+      <button
+        id="mobile-menu-btn"
+        class="md:hidden p-2 rounded-md text-charcoal hover:text-rose-gold hover:bg-champagne transition-colors"
+        aria-label="Toggle menu"
+        aria-expanded="false"
+      >
+        <svg id="menu-open-icon" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+        <svg id="menu-close-icon" class="w-5 h-5 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Nav -->
+  <div id="mobile-menu" class="md:hidden hidden border-t border-champagne">
+    <nav class="max-w-6xl mx-auto px-4 py-3 flex flex-col gap-1">
+      {navLinks.map(link => (
+        <a
+          href={link.href}
+          class={`px-4 py-2.5 rounded-md text-sm font-medium transition-colors ${
+            currentPath.startsWith(link.href)
+              ? 'text-rose-gold bg-rose-gold/10'
+              : 'text-charcoal hover:text-rose-gold hover:bg-champagne'
+          }`}
+        >
+          {link.label}
+        </a>
+      ))}
+    </nav>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  const openIcon = document.getElementById('menu-open-icon');
+  const closeIcon = document.getElementById('menu-close-icon');
+
+  btn?.addEventListener('click', () => {
+    const isOpen = !menu?.classList.contains('hidden');
+    menu?.classList.toggle('hidden');
+    openIcon?.classList.toggle('hidden', !isOpen);
+    closeIcon?.classList.toggle('hidden', isOpen);
+    btn.setAttribute('aria-expanded', String(!isOpen));
+  });
+</script>

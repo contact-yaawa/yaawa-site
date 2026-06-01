@@ -1,0 +1,132 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import Breadcrumb from '../../components/ui/Breadcrumb.astro';
+import Badge from '../../components/ui/Badge.astro';
+import ProConList from '../../components/ui/ProConList.astro';
+import AnswerCard from '../../components/ui/AnswerCard.astro';
+
+export async function getStaticPaths() {
+  const answers = await getCollection('answers');
+  return answers.map(answer => ({
+    params: { slug: answer.slug },
+    props: { answer },
+  }));
+}
+
+const { answer } = Astro.props;
+const { title, excerpt, category, created, updated, quickAnswer, pros, cons, recommendation } = answer.data;
+const { Content } = await render(answer);
+
+// Related answers: same category, not this one, take 3
+const allAnswers = await getCollection('answers');
+const related = allAnswers
+  .filter(a => a.data.category === category && a.slug !== answer.slug)
+  .sort((a, b) => b.data.created.getTime() - a.data.created.getTime())
+  .slice(0, 3);
+
+const allCategories = await getCollection('categories');
+const categoryData = allCategories.find(c => c.id === category);
+
+const createdDate = new Date(created).toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+const updatedDate = new Date(updated).toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+
+const canonicalURL = new URL(`/answers/${answer.slug}`, Astro.site).toString();
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: excerpt,
+  datePublished: new Date(created).toISOString(),
+  dateModified: new Date(updated).toISOString(),
+  publisher: {
+    '@type': 'Organization',
+    name: 'YAAWA',
+    url: Astro.site?.toString(),
+  },
+  mainEntityOfPage: canonicalURL,
+};
+---
+
+<BaseLayout
+  title={title}
+  description={excerpt}
+  canonicalURL={canonicalURL}
+  structuredData={structuredData}
+  type="article"
+>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12" data-pagefind-body>
+    <!-- Breadcrumb -->
+    <div class="mb-8">
+      <Breadcrumb crumbs={[
+        { label: 'Home', href: '/' },
+        { label: 'Answers', href: '/answers' },
+        { label: title },
+      ]} />
+    </div>
+
+    <!-- Header -->
+    <header class="mb-10">
+      <div class="flex items-center gap-3 mb-4">
+        <Badge
+          label={categoryData?.data.name ?? category}
+          href={`/categories/${category}`}
+          variant="default"
+        />
+        <time class="text-sm text-charcoal-light" datetime={new Date(created).toISOString()}>
+          {createdDate}
+        </time>
+        {created.getTime() !== updated.getTime() && (
+          <span class="text-xs text-charcoal-light/60">
+            Updated {updatedDate}
+          </span>
+        )}
+      </div>
+
+      <h1 class="font-display text-4xl sm:text-5xl font-bold text-charcoal leading-tight mb-6">
+        {title}
+      </h1>
+
+      <!-- Quick Answer callout -->
+      <div class="border-l-4 border-sage bg-champagne/40 rounded-r-xl px-6 py-5">
+        <p class="text-xs font-semibold text-sage uppercase tracking-widest mb-2">Quick Answer</p>
+        <p class="text-charcoal leading-relaxed font-medium italic">{quickAnswer}</p>
+      </div>
+    </header>
+
+    <!-- Pros & Cons -->
+    <ProConList pros={pros} cons={cons} />
+
+    <!-- Main content -->
+    <div class="prose-answer">
+      <Content />
+    </div>
+
+    <!-- Recommendation -->
+    {recommendation && (
+      <div class="mt-10 border-l-4 border-rose-gold bg-rose-gold/5 rounded-r-xl px-6 py-5">
+        <p class="text-xs font-semibold text-rose-gold uppercase tracking-widest mb-2">Our Recommendation</p>
+        <p class="text-charcoal leading-relaxed">{recommendation}</p>
+      </div>
+    )}
+  </article>
+
+  <!-- Related answers -->
+  {related.length > 0 && (
+    <section class="bg-champagne/30 py-14">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="font-display text-2xl font-bold text-charcoal mb-6">
+          Related Questions
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {related.map(r => <AnswerCard answer={r} />)}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

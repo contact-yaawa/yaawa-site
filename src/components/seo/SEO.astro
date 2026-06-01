@@ -1,0 +1,45 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonicalURL: string;
+  ogImage?: string;
+  structuredData?: object;
+  type?: 'website' | 'article';
+}
+
+const {
+  title,
+  description,
+  canonicalURL,
+  ogImage = '/og-default.png',
+  structuredData,
+  type = 'website',
+} = Astro.props;
+
+const fullTitle = title.includes('YAAWA') ? title : `${title} | YAAWA`;
+const fullOgImage = ogImage.startsWith('http') ? ogImage : new URL(ogImage, Astro.site).toString();
+---
+
+<title>{fullTitle}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonicalURL} />
+
+<!-- OpenGraph -->
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:type" content={type} />
+<meta property="og:image" content={fullOgImage} />
+<meta property="og:site_name" content="YAAWA" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={fullOgImage} />
+
+<!-- Structured Data -->
+{structuredData && (
+  <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+)}

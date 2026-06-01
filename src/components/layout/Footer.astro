@@ -1,0 +1,109 @@
+---
+const answerLinks = [
+  { href: '/answers/is-a-cash-bar-rude', label: 'Is a Cash Bar Rude?' },
+  { href: '/answers/should-i-invite-coworkers', label: 'Invite Coworkers?' },
+  { href: '/answers/child-free-wedding', label: 'Child-Free Wedding?' },
+  { href: '/answers/parents-contribution', label: "Parents' Contribution" },
+];
+
+const guideLinks = [
+  { href: '/guides/wedding-budget-guide', label: 'Budget Guide' },
+  { href: '/guides/guest-list-guide', label: 'Guest List Guide' },
+];
+
+const categoryLinks = [
+  { href: '/categories/etiquette', label: 'Etiquette' },
+  { href: '/categories/budget', label: 'Budget' },
+  { href: '/categories/guest-list', label: 'Guest List' },
+  { href: '/categories/family-issues', label: 'Family Issues' },
+];
+---
+
+<footer class="bg-charcoal text-white mt-20">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
+      <!-- Brand -->
+      <div class="md:col-span-1">
+        <a href="/" class="font-display text-2xl font-bold text-white hover:text-champagne transition-colors">
+          YAAWA
+        </a>
+        <p class="mt-3 text-sm text-white/60 leading-relaxed">
+          Clear answers to every wedding question. Practical advice from real experience.
+        </p>
+      </div>
+
+      <!-- Answers -->
+      <div>
+        <h3 class="text-xs font-semibold uppercase tracking-widest text-champagne mb-4">Answers</h3>
+        <ul class="space-y-2">
+          {answerLinks.map(link => (
+            <li>
+              <a href={link.href} class="text-sm text-white/70 hover:text-white transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+          <li>
+            <a href="/answers" class="text-sm text-sage hover:text-white transition-colors font-medium">
+              View all answers →
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Guides -->
+      <div>
+        <h3 class="text-xs font-semibold uppercase tracking-widest text-champagne mb-4">Guides</h3>
+        <ul class="space-y-2">
+          {guideLinks.map(link => (
+            <li>
+              <a href={link.href} class="text-sm text-white/70 hover:text-white transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+          <li>
+            <a href="/guides" class="text-sm text-sage hover:text-white transition-colors font-medium">
+              View all guides →
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Categories + About -->
+      <div>
+        <h3 class="text-xs font-semibold uppercase tracking-widest text-champagne mb-4">Categories</h3>
+        <ul class="space-y-2">
+          {categoryLinks.map(link => (
+            <li>
+              <a href={link.href} class="text-sm text-white/70 hover:text-white transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+          <li>
+            <a href="/categories" class="text-sm text-sage hover:text-white transition-colors font-medium">
+              All categories →
+            </a>
+          </li>
+        </ul>
+
+        <div class="mt-6">
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-champagne mb-3">Company</h3>
+          <ul class="space-y-2">
+            <li><a href="/about" class="text-sm text-white/70 hover:text-white transition-colors">About</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-12 pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <p class="text-xs text-white/40">
+        &copy; {new Date().getFullYear()} YAAWA &mdash; You Ask And We Answer
+      </p>
+      <p class="text-xs text-white/40">
+        Helping couples make wedding decisions with confidence.
+      </p>
+    </div>
+  </div>
+</footer>
