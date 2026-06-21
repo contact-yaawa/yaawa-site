@@ -1,5 +1,5 @@
 ---
-title: "How to handle grief during wedding?"
+title: "How do you handle grief during a wedding?"
 slug: handling-grief-wedding
 category: "family-issues"
 excerpt: "Handling grief during a wedding is a deeply personal and challenging experience."
