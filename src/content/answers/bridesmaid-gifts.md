@@ -1,6 +1,6 @@
 ---
-title: "(10k) Bridesmaid gifts?"
-slug: 10k-bridesmaid-gifts
+title: "Bridesmaid gifts?"
+slug: bridesmaid-gifts
 category: "gifts"
 excerpt: "Choosing bridesmaid gifts is a thoughtful way to thank the women who stand by you on your big day."
 created: 2026-06-29
