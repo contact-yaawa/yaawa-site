@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 }
 
 const { guide } = Astro.props;
-const { title, excerpt } = guide.data;
+const { title, excerpt, created, updated } = guide.data;
 const { Content } = await render(guide);
 
 const canonicalURL = new URL(`/guides/${guide.slug}`, Astro.site).toString();
@@ -22,6 +22,8 @@ const structuredData = {
   '@type': 'Article',
   headline: title,
   description: excerpt,
+  datePublished: new Date(created).toISOString(),
+  dateModified: new Date(updated).toISOString(),
   publisher: {
     '@type': 'Organization',
     name: 'YAAWA',
