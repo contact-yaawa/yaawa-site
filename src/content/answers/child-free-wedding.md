@@ -1,10 +1,10 @@
 ---
-title: "Is It Okay to Have a Child-Free Wedding?"
+title: "Child-Free Wedding Etiquette: Is It Okay?"
 slug: "child-free-wedding"
 category: "etiquette"
 created: 2026-01-25
 updated: 2026-01-25
-excerpt: "Everything you need to know about hosting a child-free wedding — how to communicate it, handle pushback, and keep relationships intact."
+excerpt: "Child-free wedding etiquette, wording examples, and practical ways to communicate an adults-only celebration without creating family drama."
 quickAnswer: "Yes, it is absolutely acceptable to have a child-free wedding. It's your celebration, and limiting it to adults is a legitimate choice. What matters is how you communicate the decision — clearly, early, and with no exceptions that contradict the rule."
 pros:
   - "More relaxed, adult atmosphere for the reception"

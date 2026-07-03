@@ -1,10 +1,10 @@
 ---
-title: "Is a Cash Bar Rude?"
+title: "Cash Bar Wedding Etiquette: Is It Rude?"
 slug: "is-a-cash-bar-rude"
 category: "etiquette"
 created: 2026-01-15
 updated: 2026-01-15
-excerpt: "Learn whether cash bars are considered rude at weddings and when they can work well for your celebration."
+excerpt: "Cash bar wedding etiquette explained, including when guests may object, how to word it clearly, and budget-friendly bar alternatives."
 quickAnswer: "A cash bar is generally considered impolite in traditional American wedding etiquette, but it's increasingly accepted when budget constraints are real and guests are informed in advance. Consider a beer-and-wine-only open bar as a middle ground."
 pros:
   - "Significantly reduces wedding costs — alcohol is often 15–25% of total budget"

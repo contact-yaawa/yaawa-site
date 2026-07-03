@@ -1,10 +1,10 @@
 ---
-title: "How Much Should Parents Contribute to a Wedding?"
+title: "Wedding Parent Contributions: How Much Is Fair?"
 slug: "parents-contribution"
 category: "budget"
 created: 2026-02-01
 updated: 2026-02-01
-excerpt: "Understanding typical parental contributions to weddings and how to have the money conversation without damaging relationships."
+excerpt: "How to discuss wedding parent contributions, set expectations, handle unequal help, and keep financial support from controlling your plans."
 quickAnswer: "There is no universal standard. Parental contributions vary enormously based on family finances, cultural expectations, and individual relationships. Have the conversation early, accept what's genuinely offered, and never plan around money that hasn't been formally committed."
 pros:
   - "Parental contributions can significantly expand what's possible for your wedding"

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">YAAWA wedding answers</title>
+  <desc id="desc">Default social sharing image for YAAWA wedding advice pages.</desc>
+  <rect width="1200" height="630" fill="#fbf7f2"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="#ffffff" stroke="#d7b98e" stroke-width="3"/>
+  <text x="120" y="185" fill="#2f2a26" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-weight="700">YAAWA</text>
+  <text x="120" y="270" fill="#7d6f63" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="5">YOU ASK AND WE ANSWER</text>
+  <text x="120" y="385" fill="#2f2a26" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Wedding Questions,</text>
+  <text x="120" y="455" fill="#2f2a26" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Clear Answers.</text>
+  <line x1="120" y1="505" x2="470" y2="505" stroke="#b86f63" stroke-width="8" stroke-linecap="round"/>
+</svg>
