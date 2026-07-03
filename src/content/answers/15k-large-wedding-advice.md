@@ -1,6 +1,6 @@
 ---
-title: "15k large wedding advice?"
-slug: 15k-large-wedding-advice
+title: "Large wedding advice?"
+slug: large-wedding-advice
 category: "budget"
 excerpt: "Yes – you can host a large, memorable wedding on a $15,000 budget, but it requires careful prioritisation, creative cost‑saving strategies, and disciplined tracking of every expense."
 created: 2026-06-30

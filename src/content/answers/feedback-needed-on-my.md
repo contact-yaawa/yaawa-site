@@ -1,6 +1,6 @@
 ---
-title: "($10k) Feedback needed on my budget wedding ideas?"
-slug: 10k-feedback-needed-on-my
+title: "Feedback needed on my budget wedding ideas?"
+slug: feedback-needed-on-my
 category: "budget"
 excerpt: "A $10,000 wedding is absolutely doable, but it requires clear priorities, smart sourcing, and a willingness to get creative with every line‑item."
 created: 2026-06-29
