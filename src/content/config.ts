@@ -20,6 +20,8 @@ const guides = defineCollection({
   schema: z.object({
     title: z.string(),
     excerpt: z.string(),
+    created: z.coerce.date(),
+    updated: z.coerce.date(),
   }),
 });
 

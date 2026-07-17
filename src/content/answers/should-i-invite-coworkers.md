@@ -1,10 +1,10 @@
 ---
-title: "Should I Invite Coworkers to My Wedding?"
+title: "Inviting Coworkers to Your Wedding: Should You?"
 slug: "should-i-invite-coworkers"
 category: "guest-list"
 created: 2026-01-20
 updated: 2026-01-20
-excerpt: "How to decide whether to invite coworkers to your wedding without creating awkwardness at the office."
+excerpt: "How to decide whether to invite coworkers to your wedding, avoid office awkwardness, and set a consistent rule for colleagues."
 quickAnswer: "Invite coworkers you'd genuinely spend time with outside work. If you're only inviting some colleagues and not others, be discreet about the wedding at work to avoid hurt feelings. You're under no obligation to invite the entire office."
 pros:
   - "Strengthens genuine work friendships that matter to you"

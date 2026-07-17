@@ -1,7 +1,9 @@
 ---
-title: "Wedding Guest List Guide: Who to Invite and How to Decide"
+title: "Wedding Guest List Guide: Who to Invite"
 slug: "guest-list-guide"
-excerpt: "A practical framework for building your wedding guest list — from setting a target number to handling the hard conversations about who made the cut."
+excerpt: "Build your wedding guest list with clear rules for family, plus-ones, coworkers, children, waiting lists, and difficult invite decisions."
+created: 2026-06-01
+updated: 2026-06-01
 ---
 
 ## Why the Guest List Matters More Than Anything Else

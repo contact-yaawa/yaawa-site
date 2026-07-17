@@ -1,7 +1,9 @@
 ---
-title: "Wedding Budget Guide: How to Plan and Stick to Your Budget"
+title: "Wedding Budget Guide: Plan and Stay on Track"
 slug: "wedding-budget-guide"
-excerpt: "A practical guide to setting your wedding budget, allocating funds across categories, and avoiding the overspending traps that catch most couples."
+excerpt: "Set a realistic wedding budget, divide costs by category, compare vendor quotes, track actual spending, and avoid common overspending traps."
+created: 2026-06-01
+updated: 2026-06-01
 ---
 
 ## Start With the Total Number
