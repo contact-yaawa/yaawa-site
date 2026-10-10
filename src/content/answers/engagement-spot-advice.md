@@ -1,5 +1,5 @@
 ---
-title: "What are your opinions on this engagement spot?"
+title: "How do you choose a spot to propose?"
 slug: engagement-spot-advice
 category: "planning-timeline"
 excerpt: "Choosing an engagement spot is a deeply personal decision that can add a special touch to your wedding planning journey."

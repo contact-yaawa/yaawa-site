@@ -1,5 +1,5 @@
 ---
-title: "If you had to do it all over again…?"
+title: "What would couples do differently if they planned their wedding again?"
 slug: if-you-had-to-do
 category: "budget"
 excerpt: "If you could rewind and plan your wedding again, the biggest gift you’d give yourself is a realistic, line‑item budget created **before** you say “yes.” Start with a clear spending ceiling, allocate percentages to each major category, and stick to it—this alone prevents surprise costs, reduces stress, and lets you splurge where it truly matters."

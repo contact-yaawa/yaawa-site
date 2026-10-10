@@ -1,5 +1,5 @@
 ---
-title: "How much would a wedding venue like this cost?"
+title: "How much does a wedding venue cost?"
 slug: how-much-would-a-wedding
 category: "budget"
 excerpt: "The cost of a wedding venue can range dramatically—from as low as $1,500 for a modest community hall to $25,000 + for an upscale resort or historic mansion."

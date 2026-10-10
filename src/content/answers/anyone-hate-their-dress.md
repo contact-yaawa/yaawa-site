@@ -1,5 +1,5 @@
 ---
-title: "Anyone hate their dress?"
+title: "What can you do if you hate your wedding dress?"
 slug: anyone-hate-their-dress
 category: "fashion"
 excerpt: "It’s completely normal to feel uneasy or even start to hate your wedding dress—many brides experience doubts once the reality of the big day sets in."

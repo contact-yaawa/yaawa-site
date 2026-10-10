@@ -1,5 +1,5 @@
 ---
-title: "Creative ways to be asked of preference without spoiling surprise?"
+title: "How can you learn your partner's proposal preferences without spoiling the surprise?"
 slug: creative-ways-to-be-asked
 category: "etiquette"
 excerpt: "You can discover your partner’s preferences without ruining a surprise by using indirect, playful, and collaborative methods—like casual conversations, anonymous polls, shared mood boards, or enlisting trusted friends and family to gather intel."

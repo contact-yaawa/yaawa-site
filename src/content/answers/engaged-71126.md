@@ -1,5 +1,5 @@
 ---
-title: "Engaged 7/11/26?"
+title: "How should you plan your wedding wardrobe after getting engaged?"
 slug: engaged-71126
 category: "fashion"
 excerpt: "Getting engaged on 7/11/26 gives you plenty of time to plan a stylish wedding wardrobe without the last‑minute scramble."

@@ -1,5 +1,5 @@
 ---
-title: "finding videographers?"
+title: "How do you find a wedding videographer?"
 slug: finding-videographers
 category: "vendors"
 excerpt: "Finding the right wedding videographer is a blend of research, personality matching, and clear communication about style, budget, and deliverables."
@@ -40,7 +40,7 @@ Your answers will instantly filter out vendors whose style or pricing does not a
 ### 2. Where to Start Your Search  
 The internet is the most common launchpad, but a layered approach yields the best results.  
 
-- **Google & SEO:** Search terms like “wedding videographer [your city]”, “best wedding video packages”, or “affordable wedding videographer near me”. Look for websites that rank high and have clear portfolios.  
+- **Google:** Search terms like “wedding videographer [your city]”, “best wedding video packages”, or “affordable wedding videographer near me”. Look for websites that rank high and have clear portfolios.  
 - **Wedding Directories:** Platforms such as The Knot, WeddingWire, and Brides.com list vetted vendors with ratings and sample films.  
 - **Social Media:** Instagram hashtags (#NYCWeddingVideographer, #LondonWeddingVideo) and TikTok reels showcase short clips that reveal a videographer’s aesthetic instantly.  
 - **Word of Mouth:** Ask your photographer, venue coordinator, or recently married friends. Videographers often collaborate closely with photographers, so a recommendation from your photographer can be a strong indicator of compatibility.  

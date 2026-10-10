@@ -1,5 +1,5 @@
 ---
-title: "Uneven guest lists and table seatings?"
+title: "How do you handle uneven guest lists and table seating?"
 slug: uneven-guest-lists-and-table
 category: "guest-list"
 excerpt: "An uneven guest list can feel overwhelming, but with clear communication, smart RSVP tracking, and flexible table‑planning tools, you can turn the numbers into balanced seating charts that keep everyone comfortable and happy."
@@ -96,8 +96,4 @@ Yes, but it’s best to keep the floor plan flexible. Use lightweight tables or 
 Absolutely, especially if you frame it as an opportunity to meet new friends. You can write brief “table bios” or conversation starter cards to help break the ice. However, be mindful of older guests or those with special needs who may prefer familiar company.
 
 **How do I handle guests who RSVP’d “maybe” and never confirm?**  
-Set a firm RSVP deadline and follow up with a polite reminder a week before that date. If they still haven’t responded, treat them as a potential “flex” guest. Have a contingency plan—like an extra place setting at the flex table—so you’re not caught off guard if they do show up.  
-
----  
-
-Balancing an uneven guest list and table seating isn’t a hurdle; it’s a chance to showcase your creativity, thoughtfulness, and organizational skills. By establishing clear RSVP deadlines, leveraging technology for visual planning, and keeping a flexible mindset, you’ll turn numerical quirks into a harmonious celebration where every guest feels welcomed and cherished. Happy planning!
+Set a firm RSVP deadline and follow up with a polite reminder a week before that date. If they still haven’t responded, treat them as a potential “flex” guest. Have a contingency plan—like an extra place setting at the flex table—so you’re not caught off guard if they do show up.

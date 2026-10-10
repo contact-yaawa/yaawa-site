@@ -1,5 +1,5 @@
 ---
-title: "Help me choose accessories?"
+title: "How do you choose bridal accessories?"
 slug: help-me-choose-accessories
 category: "fashion"
 excerpt: "Choosing wedding accessories is all about balancing your personal style, the overall theme of your day, and practical comfort."

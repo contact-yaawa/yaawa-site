@@ -17,7 +17,6 @@ cons:
   - "Some guests might still assume a rehearsal is required and wonder about timing."
   - "Changing the name can feel “forced” if the event still includes a brief run‑through."
   - "Traditionalists may view a new label as a break from wedding etiquette norms."
-  - "SEO and searchability: using uncommon terms might make it harder for vendors to find your request online."
 recommendation: "Pick a name that feels authentic to you, clearly explains the event’s purpose, and is easy for guests to understand. A **welcome dinner** or **pre‑wedding celebration** works well for most couples because it signals a festive gathering before the big day without implying a formal rehearsal is taking place. Include a brief note on the invitation or website to explain the timing and agenda, and you’ll keep everyone on the same page while preserving the warm, inclusive vibe you want."
 ---
 
@@ -25,7 +24,6 @@ recommendation: "Pick a name that feels authentic to you, clearly explains the e
 ### Why the Name Matters  
 In wedding etiquette, the phrase “rehearsal dinner” carries a specific expectation: a modest, usually sit‑down meal held after the wedding party practices the ceremony. Historically, it was an opportunity for the couple’s families to thank those who helped with the wedding and for the groom’s side to host the bride’s side. Over time, the event has expanded—some couples add speeches, live music, or even a cocktail‑style reception. When the actual rehearsal is moved to a separate time (often a brief walk‑through on the wedding morning) or omitted altogether, the term “rehearsal dinner” can feel misleading.
 
-Search engine optimization (SEO) also plays a role. Couples researching “rehearsal dinner ideas” or “what to call a rehearsal dinner” will encounter a flood of traditional content. By using alternative phrasing such as “pre‑wedding reception” or “welcome dinner,” you not only differentiate your event but also capture niche search traffic—helpful if you’re sharing details on a wedding website or blog.
 
 ### Common Alternatives and Their Nuances  
 
@@ -73,14 +71,6 @@ Many cultures already have pre‑wedding gatherings with distinct names:
 
 If your heritage includes a named celebration, you can blend it with the rehearsal dinner concept. For instance, a **“Sangeet Welcome Dinner”** merges the musical focus of a Sangeet with a Western welcome dinner, providing a clear cultural cue while sidestepping the rehearsal terminology.
 
-### SEO Tips for Your Wedding Website  
-
-If you’re publishing details online, incorporate both the new name and the traditional term in your copy. Search engines treat related phrases as synonyms, so a paragraph like:
-
-> *“Our welcome dinner (also known as the rehearsal dinner) will be held on Friday night…”*  
-
-helps capture traffic from users searching either phrase. Use header tags (H2, H3) for the alternative name, embed the phrase naturally in alt‑text for images, and consider a short FAQ (the section below) to answer common queries.
-
 ### Budget Implications  
 
 Renaming the event does not inherently change the budget, but it can shift expectations. “Rehearsal dinner” often signals a modest, sit‑down affair; “pre‑wedding celebration” can give you permission to think bigger—perhaps a buffet, live band, or themed décor—without guests feeling they’re being over‑charged. Conversely, if you want to keep costs low, calling it a “family dinner” sets a modest tone, reducing pressure to splurge on elaborate rentals.
@@ -123,5 +113,3 @@ Treat it like the main wedding invitation timeline: send save‑the‑date notic
 **Can we host the event at a non‑restaurant venue, like a park or a family home?**  
 Absolutely. In fact, naming it a “Family Celebration” or “Outdoor Welcome Dinner” signals a casual setting and can make unconventional venues feel appropriate. Just be sure to address logistics (parking, restrooms, weather plan) in your communication.  
 
-**Is there a “right” way to phrase the name for SEO purposes?**  
-Combine the alternative term with the traditional phrase in key places: headline, meta description, and first paragraph. For example, “Welcome Dinner (also known as a rehearsal dinner) – a relaxed pre‑wedding gathering for families and friends.” This approach captures both search intents and educates readers.

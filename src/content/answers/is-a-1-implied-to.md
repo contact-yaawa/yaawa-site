@@ -1,5 +1,5 @@
 ---
-title: "Is a +1 implied to be a date, and not a friend?"
+title: "Does a plus-one have to be a date?"
 slug: is-a-1-implied-to
 category: "guest-list"
 excerpt: "In most wedding etiquette circles, a “+1” is assumed to be a date rather than a casual friend, unless you specifically indicate otherwise on the invitation or in a follow‑up note."

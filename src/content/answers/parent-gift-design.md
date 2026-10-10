@@ -1,5 +1,5 @@
 ---
-title: "Parent gift - design for future FIL?"
+title: "What's a good gift for your future father-in-law?"
 slug: parent-gift-design
 category: "gifts"
 excerpt: "A thoughtfully designed, personalized gift that reflects your future father‑in‑law’s interests, hobbies, or family legacy is usually the best choice."

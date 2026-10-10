@@ -1,5 +1,5 @@
 ---
-title: "What if somebody crashes your wedding ?"
+title: "What should you do if someone crashes your wedding?"
 slug: what-if-somebody-crashes-your
 category: "etiquette"
 excerpt: "If an uninvited guest shows up at your wedding, stay calm, assess the situation, and decide whether you can accommodate them without compromising your plans."

@@ -1,5 +1,5 @@
 ---
-title: "Sister Drama?"
+title: "How do you handle conflict with your sister during wedding planning?"
 slug: sister-drama
 category: "family-issues"
 excerpt: "Sister drama during wedding planning is common, and the best way to handle it is to set clear boundaries, communicate openly, and involve a neutral third party when needed."

@@ -1,5 +1,5 @@
 ---
-title: "Daily Chat & Quick Questions - July 07, 2026?"
+title: "How can you keep wedding planning manageable with a few minutes a day?"
 slug: daily-chat-and-quick-questions
 category: "planning-timeline"
 excerpt: "A “Daily Chat & Quick Questions” approach means setting aside a short, focused time each day—usually 10‑15 minutes—to tackle one specific wedding planning query or task."

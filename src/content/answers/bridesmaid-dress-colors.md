@@ -1,7 +1,7 @@
 ---
 title: "What are the best bridesmaid dress colors?"
 slug: bridesmaid-dress-colors
-category: "venues"
+category: "fashion"
 excerpt: "Choosing the best bridesmaid dress colors can greatly enhance the overall look and feel of your wedding day."
 created: 2026-07-02
 updated: 2026-07-02

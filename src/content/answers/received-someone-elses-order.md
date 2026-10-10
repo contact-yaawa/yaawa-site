@@ -1,5 +1,5 @@
 ---
-title: "Received someone else’s order?"
+title: "What should you do if you receive someone else's wedding order?"
 slug: received-someone-elses-order
 category: "fashion"
 excerpt: "If you discover that the dress, suit, or accessory you received is actually meant for someone else, stay calm and verify the mistake with the vendor right away."

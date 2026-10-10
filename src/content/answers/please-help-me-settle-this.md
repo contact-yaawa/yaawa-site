@@ -1,5 +1,5 @@
 ---
-title: "Please help me settle this issue on travel/children for BIL's wedding.?"
+title: "How should you handle travel and kids for a brother-in-law's wedding?"
 slug: please-help-me-settle-this
 category: "guest-list"
 excerpt: "When deciding whether to invite your brother‑in‑law’s family to travel with children to his wedding, weigh the logistical realities, the couple’s vision for the day, and the expectations of both families."
@@ -95,8 +95,4 @@ Set up a “Kids’ Corner” with age‑appropriate toys, coloring books, and a
 Absolutely. A tasteful sign placed near the kids’ lounge or family table signals inclusivity while keeping the overall décor sophisticated. Use elegant fonts and match the sign’s color palette to the wedding theme, so it blends seamlessly with the décor.
 
 **How do we handle differing opinions among siblings about bringing kids?**  
-Facilitate a brief family conference (in person or via video call) where each sibling can voice concerns. Encourage everyone to listen without interrupting, and then summarize the main points for the couple. The goal is to surface any hidden anxieties—such as fear of additional costs or worries about venue suitability—so the couple can address them directly.  
-
----  
-
-Navigating the travel and children question for a BIL’s wedding isn’t just about logistics; it’s about honoring family bonds while safeguarding the couple’s celebration vision. By gathering concrete information, offering thoughtful alternatives, and communicating openly, you’ll help the couple create a day that feels both inclusive and beautifully curated. Happy planning!
+Facilitate a brief family conference (in person or via video call) where each sibling can voice concerns. Encourage everyone to listen without interrupting, and then summarize the main points for the couple. The goal is to surface any hidden anxieties—such as fear of additional costs or worries about venue suitability—so the couple can address them directly.

@@ -1,5 +1,5 @@
 ---
-title: "Wedding advice on a $15k budget?"
+title: "How do you plan a wedding on a $15,000 budget?"
 slug: wedding-advice-15k-budget
 category: "budget"
 excerpt: "Yes, a $15,000 budget can produce a beautiful, memorable wedding—but it will require careful prioritisation, smart spending, and often a few creative compromises."
@@ -25,8 +25,6 @@ recommendation: "Start by defining your top three wedding priorities—whether i
 ### 1. Understanding the $15,000 Baseline  
 
 A $15,000 wedding budget sits in the middle‑range of U.S. wedding costs, which the latest *Wedding Report* places at an average of $28,000. While it’s not a “budget‑only” amount, it is modest enough that you’ll need to be intentional with every dollar. The key is to view the budget as a framework rather than a restriction—it tells you where you can splurge and where you can save.
-
-**SEO keyword tip:** “wedding budget $15,000 breakdown” is a phrase couples often search when they first encounter this price point.
 
 ### 2. Building a Realistic Cost Breakdown  
 

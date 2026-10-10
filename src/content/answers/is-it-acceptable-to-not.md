@@ -1,5 +1,5 @@
 ---
-title: "Is it acceptable to not attend a family members wedding because it's too far and expensive?"
+title: "Is it okay to skip a family member's wedding because it's too far and too expensive?"
 slug: is-it-acceptable-to-not
 category: "etiquette"
 excerpt: "Yes, it can be acceptable to decline a family member’s wedding when the travel distance and cost are prohibitive, but the decision should be handled with sensitivity, clear communication, and, if possible, an alternative way to show your love and support."
@@ -112,8 +112,4 @@ Yes, it’s acceptable to inquire politely about any group travel discounts, hot
 If relatives express disappointment, listen without becoming defensive. Acknowledge their feelings (“I understand this is important to you”) and restate your genuine reasons. Emphasize that your love for the couple hasn’t changed and that you’ll celebrate them in another way. Consistent, kind communication often softens criticism over time.
 
 **Will declining a wedding affect inheritance or other family obligations?**  
-In most cultures and legal systems, wedding attendance has no bearing on inheritance rights or formal family duties. However, if you sense that your decision is being used as leverage for unrelated matters, it may be worth discussing boundaries with a trusted family elder or a neutral mediator to keep the focus on the celebration itself.  
-
----  
-
-Navigating the delicate balance between financial practicality and familial affection is never easy, but with thoughtful communication, sincere gestures, and a clear understanding of your own priorities, you can honor your loved one’s wedding while staying true to your own wedding journey.
+In most cultures and legal systems, wedding attendance has no bearing on inheritance rights or formal family duties. However, if you sense that your decision is being used as leverage for unrelated matters, it may be worth discussing boundaries with a trusted family elder or a neutral mediator to keep the focus on the celebration itself.

@@ -1,5 +1,5 @@
 ---
-title: "Sent my wedding bouquet to be pressed and preserved, but the flowers that came back were not mine?"
+title: "What if your preserved wedding bouquet comes back with someone else's flowers?"
 slug: sent-my-wedding-bouquet-to
 category: "vendors"
 excerpt: "If the bouquet you received back from the preservation vendor isn’t the one you sent, start by gathering your order details and contacting the vendor right away."

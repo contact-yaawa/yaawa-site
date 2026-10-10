@@ -1,7 +1,7 @@
 ---
-title: "Ladies, it’s FINALLY official!! 💍 ✨?"
+title: "How should you announce your engagement?"
 slug: ladies-its-finally-official
-category: "etiquette"
+category: "planning-timeline"
 excerpt: "Congratulations!"
 created: 2026-09-18
 updated: 2026-09-18

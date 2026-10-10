@@ -1,5 +1,5 @@
 ---
-title: "Timing Planning Question/Advice?"
+title: "When should each phase of wedding planning start?"
 slug: timing-planning-questionadvice
 category: "planning-timeline"
 excerpt: "Start your wedding timeline as soon as you have a firm date, then break the planning into three main phases: 12‑18 months out for big decisions, 6‑12 months out for vendors and details, and the final 0‑6 months for logistics and day‑of coordination."
@@ -22,7 +22,7 @@ recommendation: "Create a master wedding timeline that starts 12‑18 months bef
 
 ## Detailed Explanation
 ### Why a Timeline Matters  
-A wedding is a series of interlocking moving parts—venue, caterer, photographer, dress, invitations, and countless tiny details. Without a timeline, you’re essentially trying to solve a giant jigsaw puzzle blindfolded. A well‑crafted schedule gives you a bird’s‑eye view, letting you prioritize high‑impact items (like securing the venue) while spreading out lower‑priority tasks (like choosing table linens) so they don’t overwhelm you. Moreover, search engines love content that addresses “wedding planning timeline” and related keywords, so a thorough guide like this not only helps you but also makes your planning resources easier for other couples to find.
+A wedding is a series of interlocking moving parts—venue, caterer, photographer, dress, invitations, and countless tiny details. Without a timeline, you’re essentially trying to solve a giant jigsaw puzzle blindfolded. A well‑crafted schedule gives you a bird’s‑eye view, letting you prioritize high‑impact items (like securing the venue) while spreading out lower‑priority tasks (like choosing table linens) so they don’t overwhelm you.
 
 ### The Three‑Phase Framework  
 
@@ -124,8 +124,4 @@ Yes, but you’ll need to be strategic. Focus first on non‑negotiables (venue,
 Missing the venue deposit deadline, delaying RSVP collection, and waiting too long to order attire are the top three. These errors often cause a ripple effect—late RSVPs can force a change in catering numbers, and delayed dress ordering can lead to rushed fittings or extra alteration costs.
 
 **How often should we revisit our wedding timeline?**  
-Set a recurring review—monthly if you’re more than a year out, bi‑weekly between 6‑12 months, and weekly in the final three months. Use these check‑ins to mark completed tasks, adjust dates, and re‑prioritize any new responsibilities that arise.  
-
----  
-
-By breaking your wedding planning into clear phases, using the right tools, and staying flexible, you’ll transform a daunting checklist into a manageable journey. Remember, the timeline is there to serve you—not to imprison you—so feel free to adjust it as life unfolds. Happy planning!
+Set a recurring review—monthly if you’re more than a year out, bi‑weekly between 6‑12 months, and weekly in the final three months. Use these check‑ins to mark completed tasks, adjust dates, and re‑prioritize any new responsibilities that arise.

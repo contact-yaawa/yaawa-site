@@ -1,5 +1,5 @@
 ---
-title: "Faux floral Bouquet 💐?"
+title: "Is a faux floral bouquet a good idea?"
 slug: faux-floral-bouquet
 category: "fashion"
 excerpt: "Yes – a faux floral bouquet can be a stunning, budget‑friendly alternative to fresh flowers, offering endless design flexibility and a longer shelf life."

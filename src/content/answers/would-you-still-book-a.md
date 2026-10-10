@@ -1,5 +1,5 @@
 ---
-title: "Would you still book a wedding venue if you got injured there during the tour?"
+title: "Should you still book a venue after getting injured there during a tour?"
 slug: would-you-still-book-a
 category: "venues"
 excerpt: "If you were injured during a venue tour, it’s perfectly reasonable to pause and reassess before signing a contract."
@@ -70,7 +70,7 @@ Ultimately, the decision rests on a blend of factual assessment and gut feeling.
 - **Injury Caused by Faulty Lighting** – The venue replaces the problematic fixture and offers a discount for the inconvenience. You ask for a backup lighting plan in the contract.  
 - **No Immediate Response from Staff** – You receive a delayed apology and no insurance proof. You decide to look for other venues, citing the lack of professionalism as a deal‑breaker.  
 - **Venue Offers a Full Refund and Waives All Fees** – You feel reassured and decide to re‑tour after repairs, ultimately confirming that the issue was isolated and the staff is now attentive.  
-- **Multiple Guests Report Past Injuries** – Research shows a pattern of safety complaints. You opt for a different location that prioritizes regular maintenance and safety audits.
+- **Multiple Guests Report Past Injuries** – That points to a pattern of safety problems, not a one-off accident. You opt for a different location that prioritizes regular maintenance and safety audits.
 
 ## Frequently Asked Questions
 **What should I ask the venue about liability and insurance after an injury?**  

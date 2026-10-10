@@ -1,5 +1,5 @@
 ---
-title: "Do you regret not getting specific wedding photos? Any wedding regrets in general?"
+title: "What wedding photos do couples regret not getting?"
 slug: do-you-regret-not-getting
 category: "vendors"
 excerpt: "Most couples discover after the vows that they wish they’d captured a few specific moments or styled shots that were left out of the day’s schedule."

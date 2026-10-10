@@ -123,8 +123,4 @@ If you sense that a diamond is important to them, consider incorporating a small
 Yes. Many couples reveal the engagement at a later gathering and then present the ring during that celebration. Just make sure the timing feels right for both of you, and that the ring isn’t the only highlight—celebrate the love story itself.  
 
 **Do I need to worry about legal or insurance issues without a ring?**  
-No. An engagement ring has no legal standing; the commitment is personal. However, once you acquire a ring, you might want to consider insurance for loss or damage, especially for high‑value pieces.  
-
----  
-
-Proposing without a ring can be a beautiful, intentional choice that reflects modern values, financial wisdom, and shared decision‑making. By listening to your partner’s preferences, communicating openly, and planning a fun ring‑shopping experience for the future, you’ll create a proposal story that feels genuine, memorable, and uniquely yours.
+No. An engagement ring has no legal standing; the commitment is personal. However, once you acquire a ring, you might want to consider insurance for loss or damage, especially for high‑value pieces.

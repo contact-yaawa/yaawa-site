@@ -1,5 +1,5 @@
 ---
-title: "Everything is F’ing AI?"
+title: "How is AI changing wedding fashion?"
 slug: everything-is-fing-ai
 category: "fashion"
 excerpt: "Artificial intelligence is reshaping wedding fashion—from AI‑generated dress sketches and virtual try‑ons to data‑driven fabric sourcing—but it’s not a magic substitute for human creativity."

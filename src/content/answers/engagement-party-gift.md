@@ -1,5 +1,5 @@
 ---
-title: "Engagement Party Gift??"
+title: "What should you bring as an engagement party gift?"
 slug: engagement-party-gift
 category: "gifts"
 excerpt: "An engagement party gift should celebrate the couple’s new chapter, fit your budget, and reflect your relationship with them."

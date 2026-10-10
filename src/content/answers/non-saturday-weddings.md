@@ -1,5 +1,5 @@
 ---
-title: "Non Saturday weddings?"
+title: "Should you have your wedding on a day other than Saturday?"
 slug: non-saturday-weddings
 category: "planning-timeline"
 excerpt: "Choosing a non‑Saturday wedding can be a brilliant way to stretch your budget, secure your favorite venue, and give guests a more relaxed experience."

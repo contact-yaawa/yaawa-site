@@ -1,6 +1,6 @@
 ---
-title: "(7-10k) How did you do ceremony seats/table set ups?"
-slug: 7-10k-how-did-you-do
+title: "How should you set up ceremony seating and reception tables?"
+slug: ceremony-seating-table-setup
 category: "venues"
 excerpt: "The best way to arrange ceremony seats and reception tables is to first map out your venue’s floor plan, decide on a seating style that matches your guest count and ceremony flow, and then use simple tools (graph paper, a free online floor‑plan app, or a printable template) to sketch the layout."
 created: 2026-07-10

@@ -1,5 +1,5 @@
 ---
-title: "UPDATE: Thoughts on this Color Palette?"
+title: "How do you know if your wedding color palette works?"
 slug: update-thoughts-on-this-color
 category: "fashion"
 excerpt: "Yes, the palette you’re considering can work beautifully for a wedding, especially if you align it with your venue, season, and personal style."

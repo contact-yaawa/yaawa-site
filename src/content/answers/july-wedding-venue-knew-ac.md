@@ -1,5 +1,5 @@
 ---
-title: "July wedding: Venue knew AC was compromised and said nothing (15k)?"
+title: "What can you do if your venue hid a broken AC before your July wedding?"
 slug: july-wedding-venue-knew-ac
 category: "venues"
 excerpt: "If your July wedding venue knew the air‑conditioning system was faulty and failed to tell you, you may have grounds for a claim—especially if the issue caused discomfort, health risks, or forced you to spend extra money."
@@ -138,8 +138,4 @@ Legal action after the event does not impact the ceremony itself, but it can aff
 Most small‑claims courts allow self‑representation, and the process is designed to be user‑friendly. However, a brief consultation with an attorney can help you craft a stronger demand letter or assess the viability of a larger claim. Many lawyers offer a free initial meeting.
 
 **What if the venue offers a partial refund but I think I deserve more?**  
-Consider the total cost of the inconvenience (extra rentals, guest discomfort, lost reputation). If the venue’s offer doesn’t cover these, counter‑offer with a clear calculation of your losses. Be prepared to negotiate; sometimes a compromise (e.g., 35 % refund plus a complimentary upgrade) satisfies both parties.  
-
----  
-
-Navigating a venue that concealed a faulty air‑conditioning system is frustrating, but with meticulous documentation, clear communication, and a strategic approach to dispute resolution, you can protect your wedding budget and preserve the joy of your special day. Remember, the goal isn’t just to recoup money—it’s to ensure that future couples receive the transparency and service they deserve. Good luck, and may your celebration stay cool, comfortable, and unforgettable.
+Consider the total cost of the inconvenience (extra rentals, guest discomfort, lost reputation). If the venue’s offer doesn’t cover these, counter‑offer with a clear calculation of your losses. Be prepared to negotiate; sometimes a compromise (e.g., 35 % refund plus a complimentary upgrade) satisfies both parties.

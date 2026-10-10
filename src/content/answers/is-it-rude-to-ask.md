@@ -29,7 +29,7 @@ recommendation: "If you decide to request money, frame it as an optional, second
 ### Understanding the Roots of the Etiquette Question  
 The idea that asking for money is “rude” stems from long‑standing wedding traditions. Historically, weddings were community celebrations where guests presented tangible items—think china, linens, or heirloom pieces—that could be displayed and used for years. Those gifts symbolized the community’s investment in the couple’s future. In many cultures, refusing a gift or appearing to ask for cash outright can be seen as disrespectful, because it seems to sidestep the personal touch that a handcrafted or thoughtfully chosen present provides.
 
-In the 21st century, however, the cost of weddings has skyrocketed. According to a 2023 wedding industry report, the average U.S. wedding now exceeds $30,000. Couples often face a dilemma: they want to honor tradition but also need realistic ways to fund the big day and the life that follows. This tension is why the question of cash gifts has resurfaced, and why the answer is no longer a simple “yes” or “no.”  
+In the 21st century, however, the cost of weddings has skyrocketed. Couples often face a dilemma: they want to honor tradition but also need realistic ways to fund the big day and the life that follows. This tension is why the question of cash gifts has resurfaced, and why the answer is no longer a simple “yes” or “no.”  
 
 ### When Money Requests Feel Appropriate  
 1. **Age‑and‑Culture Alignment** – Younger couples, especially those in urban areas, are more accustomed to cash registries, honeymoon funds, or “experience gifts.” If the majority of your guest list shares this outlook, a money request will likely be received without offense.  

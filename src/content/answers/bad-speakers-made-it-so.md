@@ -1,5 +1,5 @@
 ---
-title: "Bad Speakers made it so people could barely hear the ceremony :(?"
+title: "What went wrong if guests couldn't hear the ceremony over the speakers?"
 slug: bad-speakers-made-it-so
 category: "ceremony"
 excerpt: "If the ceremony was nearly silent because of poor speakers, it’s usually a sign that the audio system was under‑powered, incorrectly positioned, or not tested in advance."

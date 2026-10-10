@@ -1,5 +1,5 @@
 ---
-title: "Plus ones?"
+title: "How do plus-ones work at a wedding?"
 slug: plus-ones
 category: "guest-list"
 excerpt: "A plus‑one is an extra invitation you give to a guest so they can bring a date, usually a spouse, partner, or a close friend."

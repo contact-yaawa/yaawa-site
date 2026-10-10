@@ -1,5 +1,5 @@
 ---
-title: "Chicago & Surrounding Area Brides HELPPP?"
+title: "Where should you shop for a wedding dress in the Chicago area?"
 slug: chicago-and-surrounding-area-brides
 category: "fashion"
 excerpt: "Chicago brides have a wealth of options—from historic flagship boutiques on the Magnificent Mile to eclectic designers in Logan Square and custom dressmakers in the suburbs."
@@ -36,7 +36,7 @@ Understanding these zones helps you plot a logical itinerary, minimizes travel f
 
 ### 2. Setting a Realistic Budget  
 
-Budget is the foundation of any fashion decision. According to recent Midwest bridal surveys, the average Chicago bride spends **$2,500‑$5,000** on her gown, with an additional **$300‑$800** earmarked for alterations. Here’s a practical budgeting worksheet:  
+Budget is the foundation of any fashion decision. Here’s a practical budgeting worksheet:  
 
 | Item | Typical Range | Tips to Save |
 |------|---------------|--------------|

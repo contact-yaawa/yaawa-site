@@ -1,5 +1,5 @@
 ---
-title: "Dress dupe help! (Under 500)?"
+title: "How do you find a wedding dress dupe for under $500?"
 slug: dress-dupe-help-under-500
 category: "fashion"
 excerpt: "Yes—you can find beautiful wedding‑dress dupes for under $500 by focusing on key design elements, shopping smartly at sample sales, online marketplaces, and boutique “off‑the‑rack” collections."

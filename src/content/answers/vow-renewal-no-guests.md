@@ -172,8 +172,4 @@ You can hold a **two‑step renewal**: first a private exchange just for the two
 Hire a photographer who specializes in **portrait or “lifestyle” sessions**. Explain that the shoot is essentially a “wedding‑style portrait session,” and they’ll focus on capturing the vows, the ring exchange, and candid moments. Because there’s no crowd, the photographer can take their time, experiment with angles, and create a more cinematic result. You may also consider a **drone** for sweeping landscape shots if the location allows.
 
 **Is a vow renewal without guests considered a “micro‑wedding,” and does that affect vendor pricing?**  
-Yes, many vendors classify a two‑person ceremony as a micro‑wedding. Because the workload is dramatically reduced—no seating charts, fewer meals, no large set‑up—many providers offer discounted rates. When you request quotes, explicitly state the guest count (0 or 2) and ask about micro‑wedding or “intimate ceremony” pricing. This transparency helps you secure the same quality service at a lower cost.  
-
----  
-
-Renewing your vows without guests can be a profoundly personal, budget‑friendly, and memorable way to celebrate the journey you’ve shared. By clarifying your intentions, selecting a meaningful setting, involving the right professionals, and thoughtfully communicating with loved ones,
+Yes, many vendors classify a two‑person ceremony as a micro‑wedding. Because the workload is dramatically reduced—no seating charts, fewer meals, no large set‑up—many providers offer discounted rates. When you request quotes, explicitly state the guest count (0 or 2) and ask about micro‑wedding or “intimate ceremony” pricing. This transparency helps you secure the same quality service at a lower cost.

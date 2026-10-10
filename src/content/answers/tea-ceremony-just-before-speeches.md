@@ -1,5 +1,5 @@
 ---
-title: "Tea Ceremony Just Before Speeches?"
+title: "Should you hold a tea ceremony just before the speeches?"
 slug: tea-ceremony-just-before-speeches
 category: "ceremony"
 excerpt: "Yes, you can place a tea ceremony just before the speeches, but it works best when the ceremony is brief, seamlessly integrated into the program, and clearly communicated to guests."

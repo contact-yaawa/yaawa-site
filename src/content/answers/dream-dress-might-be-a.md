@@ -1,5 +1,5 @@
 ---
-title: "Dream dress might be a scam?"
+title: "How can you tell if a wedding dress seller is a scam?"
 slug: dream-dress-might-be-a
 category: "fashion"
 excerpt: "A “dream dress” can feel like a scam when the price, timeline, or promises don’t match reality, but it isn’t automatically fraudulent."
@@ -123,8 +123,4 @@ It’s possible, but riskier. Look for sellers that provide detailed size guides
 First, review your contract for delivery deadlines and any penalty clauses. Contact the designer immediately, documenting the conversation. If the delay threatens your wedding timeline, discuss possible compensation—such as discounted alterations, a partial refund, or an expedited shipping upgrade.
 
 **Are there affordable alternatives to a custom “dream dress”?**  
-Absolutely. Many brides opt for off‑the‑rack gowns that can be altered to fit perfectly, sample dresses sold at a discount, or second‑hand designer gowns. Rental services are also growing, allowing you to wear a high‑end design for a fraction of the purchase price while avoiding long‑term storage concerns.  
-
----  
-
-Finding your dream wedding dress should feel like an exciting adventure, not a source of anxiety. By setting clear expectations, demanding transparent communication, and protecting yourself with solid contracts, you can avoid scams while still stepping into a gown that makes you feel radiant on your special day. Happy dress hunting!
+Absolutely. Many brides opt for off‑the‑rack gowns that can be altered to fit perfectly, sample dresses sold at a discount, or second‑hand designer gowns. Rental services are also growing, allowing you to wear a high‑end design for a fraction of the purchase price while avoiding long‑term storage concerns.

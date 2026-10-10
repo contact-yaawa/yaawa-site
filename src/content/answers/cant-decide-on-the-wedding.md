@@ -1,5 +1,5 @@
 ---
-title: "Can’t decide on the wedding cake?"
+title: "How do you choose a wedding cake?"
 slug: cant-decide-on-the-wedding
 category: "vendors"
 excerpt: "Choosing a wedding cake is less about finding the “perfect” flavor and more about matching the cake to your style, budget, and guests’ needs."
@@ -146,7 +146,3 @@ Absolutely. This hybrid approach is increasingly popular because it provides a b
 
 **What should we do if the cake arrives damaged?**  
 First, document the damage with photos and contact the baker immediately—most vendors have a “repair or replace” policy if notified within 24‑48 hours. Keep the damaged cake sealed (e.g., in a cake box) as proof, and work with the venue’s staff to arrange a quick fix or replacement slice.
-
----  
-
-Choosing a wedding cake doesn’t have to feel like a daunting decision. By clarifying your priorities, setting a clear budget, tasting strategically, and keeping communication open with your baker and venue, you’ll find a sweet solution that reflects your love story and delights every guest. Happy planning, and enjoy that first bite together!

@@ -1,5 +1,5 @@
 ---
-title: "Confession: My Dad doesn't know I'm getting married. (He doesn't even know I'm in a relationship)?"
+title: "How do you tell a parent you're getting married when they don't know about your relationship?"
 slug: confession-my-dad-doesnt-know
 category: "family-issues"
 excerpt: "If your dad doesn’t know you’re in a relationship—or that you’re planning to get married—you’ll need to approach the conversation with thoughtfulness, timing, and a clear plan."

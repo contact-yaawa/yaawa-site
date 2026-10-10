@@ -1,5 +1,5 @@
 ---
-title: "What are your thoughts on this backyard wedding plan?"
+title: "How do you plan a backyard wedding?"
 slug: backyard-wedding-plan
 category: "venues"
 excerpt: "A backyard wedding can be a magical, intimate celebration that reflects your personal style while keeping costs manageable."
@@ -45,7 +45,7 @@ Many municipalities treat backyard events like any other public gathering. You�
 ### 5. Power, Lighting, and Audio  
 A backyard rarely has built‑in **three‑phase power** suitable for DJ equipment, catering appliances, and lighting rigs. Renting a **portable generator** with enough wattage (typically 5,000–7,000 W for a modest reception) solves the problem. Ensure the generator is placed downwind and far enough from the ceremony area to avoid noise interference.
 
-Lighting transforms an ordinary garden into a romantic setting. **String lights, uplighting, and lanterns** are SEO‑friendly keywords couples search for. Position uplights to highlight trees, a water feature, or a decorative arch. For evening ceremonies, **soft, warm white LEDs** create a cozy ambience without the harsh glare of floodlights.
+Lighting transforms an ordinary garden into a romantic setting. Position uplights to highlight trees, a water feature, or a decorative arch. For evening ceremonies, **soft, warm white LEDs** create a cozy ambience without the harsh glare of floodlights.
 
 ### 6. Restroom Solutions  
 If your home has only one bathroom, you’ll need **portable restrooms**—preferably upscale trailer units with hand‑washing stations. Estimate **one unit per 50 guests** for a 2‑hour event, adding an extra unit for accessibility compliance (ADA). The cost can range from $150 to $400 per unit, but it’s a worthwhile investment for guest comfort and health regulations.
@@ -74,7 +74,7 @@ A backyard wedding often requires **more set‑up time** than a pre‑installed 
 If the budget permits, hire a **day‑of coordinator** who knows outdoor logistics; they can manage vendor arrivals, troubleshoot weather issues, and keep the schedule on track while you enjoy the moment.
 
 ### 12. Sustainability Advantages  
-Backyard weddings lend themselves to **eco‑friendly practices**: reusable dishware, compostable cutlery, and locally sourced flowers reduce carbon footprints. You can also **reuse décor** for future family events or donate excess food to a local shelter. Emphasizing sustainability resonates with modern couples searching for “green wedding ideas,” boosting your SEO relevance.
+Backyard weddings lend themselves to **eco‑friendly practices**: reusable dishware, compostable cutlery, and locally sourced flowers reduce carbon footprints. You can also **reuse décor** for future family events or donate excess food to a local shelter.
 
 ### 13. Budget Breakdown  
 A quick reference for typical costs (mid‑range U.S. market):

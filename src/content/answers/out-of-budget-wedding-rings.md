@@ -1,6 +1,6 @@
 ---
-title: "(£10-15k) run out of budget for wedding rings?"
-slug: 10-15k-run-out-of-budget
+title: "What can you do if you've run out of budget for wedding rings?"
+slug: out-of-budget-wedding-rings
 category: "budget"
 excerpt: "Yes—you can stay within a £10‑15k total wedding budget even if you’ve run low on money for rings."
 created: 2026-07-08

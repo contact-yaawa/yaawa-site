@@ -1,6 +1,6 @@
 ---
-title: "(6-8k) Hidden Costs? 60 person wedding?"
-slug: 6-8k-hidden-costs-60-person
+title: "What hidden costs should you expect for a 60-person wedding?"
+slug: hidden-costs-60-person-wedding
 category: "budget"
 excerpt: "A 60‑person wedding may look modest on paper, but hidden costs—such as taxes, service fees, rentals, and last‑minute additions—can quickly add up to 15‑30 % of your original budget."
 created: 2026-08-25

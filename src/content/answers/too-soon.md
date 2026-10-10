@@ -1,5 +1,5 @@
 ---
-title: "Too soon?"
+title: "Is it too soon to start planning your wedding?"
 slug: too-soon
 category: "planning-timeline"
 excerpt: "There’s no one‑size‑fits‑all rule for when to start planning a wedding—what feels “too soon” for one couple might be just right for another."
@@ -78,10 +78,6 @@ If you’re still feeling unsure about the engagement, or if life events (career
 - **Focus on the “Big Picture”** – Discuss overall budget, wedding style, and guest count without signing contracts.  
 - **Save Aggressively** – Build a wedding fund to reduce financial pressure later.  
 - **Enjoy the Engagement** – Travel, take photos, and savor the moment; the wedding will still be there when you’re ready.  
-
-### SEO Tips Embedded in Your Planning  
-
-Search engines love content that answers common queries. When you’re researching, use specific keywords: “12‑month wedding timeline,” “when to book wedding venue,” “early wedding planning checklist,” “budgeting for a wedding 18 months out,” etc. This not only helps you find relevant articles faster but also ensures you’re aligning your planning steps with industry best practices.
 
 ## Common Scenarios
 - **Scenario 1: Engaged in January, wedding in June (5 months)** – Prioritize venue, caterer, and photographer immediately; choose a simple décor plan and consider a weekday or off‑season date to increase vendor availability.  

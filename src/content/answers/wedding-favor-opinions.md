@@ -1,5 +1,5 @@
 ---
-title: "Wedding favor opinions?"
+title: "Are wedding favors worth it?"
 slug: wedding-favor-opinions
 category: "gifts"
 excerpt: "Wedding favors can be a delightful way to thank guests, but they don’t have to break the bank."

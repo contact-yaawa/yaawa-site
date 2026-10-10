@@ -1,5 +1,5 @@
 ---
-title: "What should I consider if I am getting proposed to?"
+title: "What should you consider if you think you're about to be proposed to?"
 slug: getting-proposed
 category: "planning-timeline"
 excerpt: "Getting proposed to is a significant moment in any relationship, and it's important to consider various aspects before saying \"yes.\" Reflect on your emotional readiness, compatibility with your partner, financial stability, and future goals to ensure you're both on the same page."

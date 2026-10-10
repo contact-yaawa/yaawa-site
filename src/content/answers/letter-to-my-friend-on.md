@@ -1,5 +1,5 @@
 ---
-title: "Letter to my friend on her wedding day?"
+title: "What should you write in a letter to a friend on her wedding day?"
 slug: letter-to-my-friend-on
 category: "etiquette"
 excerpt: "A wedding‑day letter to your friend should be a sincere, personal note that celebrates your bond, offers heartfelt wishes, and acknowledges the significance of the day."

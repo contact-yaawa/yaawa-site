@@ -1,5 +1,5 @@
 ---
-title: "Northern IL / Southern WI Venue Recommendations?"
+title: "What are good wedding venues in Northern Illinois and Southern Wisconsin?"
 slug: northern-il-southern
 category: "venues"
 excerpt: "If you’re looking for a venue that blends the rustic charm of Northern Illinois with the scenic elegance of Southern Wisconsin, consider farms, historic mansions, and lakeside inns within a 60‑mile radius of the 4K area."

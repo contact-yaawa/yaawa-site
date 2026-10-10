@@ -1,5 +1,5 @@
 ---
-title: "Not having a typical Bachelorette?"
+title: "What are the alternatives to a typical bachelorette party?"
 slug: not-having-a-typical-bachelorette
 category: "etiquette"
 excerpt: "Choosing to skip a traditional bachelorette party is perfectly acceptable; what matters most is that the celebration reflects the bride’s personality and comfort level."

@@ -1,5 +1,5 @@
 ---
-title: "Do we like this for bridal party procession and bride entry for a romantic style wedding in the morning with about 60 ish feet to walk?"
+title: "How should you plan the processional for a morning wedding?"
 slug: do-we-like-this-for
 category: "ceremony"
 excerpt: "For a romantic‑style morning ceremony with a 60‑foot aisle, choose a processional that is gentle, relatively short (30‑45 seconds), and has a moderate tempo so the bridal party can walk gracefully without feeling rushed."

@@ -1,5 +1,5 @@
 ---
-title: "Looking for korean hanbok?"
+title: "Where can you find a Korean hanbok for a wedding?"
 slug: looking-for-korean-hanbok
 category: "fashion"
 excerpt: "Yes – you can find beautiful Korean hanbok for your wedding either by renting, buying, or commissioning a custom piece."

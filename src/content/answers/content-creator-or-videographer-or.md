@@ -1,5 +1,5 @@
 ---
-title: "content creator or videographer or neither?"
+title: "Should you hire a wedding content creator, a videographer, or neither?"
 slug: content-creator-or-videographer-or
 category: "vendors"
 excerpt: "A wedding content creator and a wedding videographer both capture moving moments, but they differ in style, deliverables, and cost."

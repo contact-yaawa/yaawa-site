@@ -1,5 +1,5 @@
 ---
-title: "Bridesmaid gifts?"
+title: "What are good bridesmaid gifts?"
 slug: bridesmaid-gifts
 category: "gifts"
 excerpt: "Choosing bridesmaid gifts is a thoughtful way to thank the women who stand by you on your big day."
@@ -41,7 +41,7 @@ Ordering early avoids the holiday rush and gives you buffer time for any revisio
 - **Engraved jewelry** – necklaces, bracelets, or charms that feature each bridesmaid’s initials or birthstone.  
 - **Custom illustration** – a hand‑drawn portrait of the bridal party or a stylized map of the wedding venue.
 
-These gifts become sentimental heirlooms, reminding bridesmaids of the special role they played. They also lend themselves well to SEO keywords like “personalized bridesmaid gifts” and “custom bridesmaid jewelry,” which helps couples discover them during online research.
+These gifts become sentimental heirlooms, reminding bridesmaids of the special role they played.
 
 #### b. Pampering & Wellness  
 - **Spa kits** – include a scented candle, bath salts, and a face mask for pre‑wedding relaxation.  

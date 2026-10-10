@@ -81,7 +81,7 @@ Ask each venue for a **complete breakdown** of all fees before signing a contrac
 
 ### 6. Use Online Tools and Local Resources  
 
-SEO‑friendly search terms like “affordable wedding reception venues in [city]”, “budget-friendly banquet halls”, and “cheap wedding venues with kitchen” can surface hidden gems on Google, WeddingWire, and The Knot. Don’t overlook **local Facebook groups**, **community bulletin boards**, and **municipal event calendars**, which often list low‑cost spaces that aren’t advertised on major wedding sites.
+Search terms like “affordable wedding reception venues in [city]”, “budget-friendly banquet halls”, and “cheap wedding venues with kitchen” can surface hidden gems on Google, WeddingWire, and The Knot. Don’t overlook **local Facebook groups**, **community bulletin boards**, and **municipal event calendars**, which often list low‑cost spaces that aren’t advertised on major wedding sites.
 
 If you have a **friend or family member** who recently married, ask for referrals. Personal recommendations often include details about hidden costs and vendor experiences that you won’t find online.
 

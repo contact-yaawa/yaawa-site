@@ -1,5 +1,5 @@
 ---
-title: "Did you get your fiancé a gift after getting engaged?"
+title: "Should you give your fiancé a gift after getting engaged?"
 slug: did-you-get-your-fianc
 category: "gifts"
 excerpt: "Giving your fiancé a gift after you get engaged is a thoughtful gesture, but it isn’t a hard‑and‑fast rule."

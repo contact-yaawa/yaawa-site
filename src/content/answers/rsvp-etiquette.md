@@ -1,5 +1,5 @@
 ---
-title: "RSVP etiquette?"
+title: "What is proper wedding RSVP etiquette?"
 slug: rsvp-etiquette
 category: "etiquette"
 excerpt: "RSVP etiquette means giving guests clear, courteous instructions on how and when to respond, and then respecting those responses by planning accordingly."

@@ -1,5 +1,5 @@
 ---
-title: "Having a hard time finding a moody/cool tone makeup artist?"
+title: "How do you find a makeup artist for a moody, cool-toned bridal look?"
 slug: having-a-hard-time
 category: "fashion"
 excerpt: "Finding a moody, cool‑tone makeup artist for your wedding is totally doable—you just need to broaden your search beyond the usual bridal‑glam crowd, tap into niche talent pools, and be crystal clear about the look you want."

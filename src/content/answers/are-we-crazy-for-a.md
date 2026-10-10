@@ -1,5 +1,5 @@
 ---
-title: "Are we crazy for a November wedding?"
+title: "Is November a good month for a wedding?"
 slug: are-we-crazy-for-a
 category: "planning-timeline"
 excerpt: "A November wedding isn’t crazy at all – it can be magical, more affordable, and uniquely yours."

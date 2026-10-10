@@ -1,5 +1,5 @@
 ---
-title: "Wedding MUA trial?"
+title: "How do you prepare for a wedding makeup trial?"
 slug: wedding-mua-trial
 category: "vendors"
 excerpt: "A wedding MUA (make‑up artist) trial is a scheduled session where you and your bridal party test the makeup look you plan to wear on the big day."
@@ -123,8 +123,4 @@ If you notice any irritation during or after the trial, alert the MUA immediatel
 Ask the MUA to use a long‑wear foundation, waterproof mascara, and a high‑quality setting spray. A “full‑day” test during the trial can reveal any areas that need extra control, such as oil‑absorbing powders for the T‑zone or a touch‑up plan for the lips.  
 
 **Is it worth paying extra for a “trial plus wedding day” package?**  
-Often, yes. Bundled packages can lock in a lower overall price, guarantee the artist’s availability, and reduce the risk of hidden fees on the wedding day. However, compare the total cost, included services, and cancellation policies before committing.  
-
----  
-
-Planning your wedding makeup trial may feel like another checklist item, but it’s a valuable rehearsal that turns uncertainty into confidence. By choosing the right artist, scheduling wisely, and communicating clearly, you’ll walk down the aisle feeling beautiful, comfortable, and ready to celebrate every precious moment.
+Often, yes. Bundled packages can lock in a lower overall price, guarantee the artist’s availability, and reduce the risk of hidden fees on the wedding day. However, compare the total cost, included services, and cancellation policies before committing.

@@ -1,5 +1,5 @@
 ---
-title: "Heel recommendations!?"
+title: "How do you choose comfortable heels for your wedding?"
 slug: heel-recommendations
 category: "fashion"
 excerpt: "Choosing wedding heels is all about balancing style, comfort, and the practicalities of your ceremony and reception."

@@ -1,5 +1,5 @@
 ---
-title: "Am engaged but can't handle the feeling of jewelry, need ideas?"
+title: "What are the alternatives to an engagement ring if you can't stand wearing jewelry?"
 slug: am-engaged-but-cant-handle
 category: "fashion"
 excerpt: "It’s completely normal to feel uneasy about wedding jewelry, especially when the pressure to sparkle can feel overwhelming."
@@ -78,8 +78,4 @@ Start by noting the **color and material** of your veil or hairpiece. If you hav
 Yes! The most important thing is that you feel **confident and comfortable**. Many modern brides choose to forgo traditional jewelry and instead wear a **family heirloom brooch**, a **custom cuff**, or even a **meaningful charm bracelet**. If you’re opting for a minimal look, let your dress, makeup, and smile be the stars. Communicate your choice to photographers and vendors so they can plan lighting accordingly.
 
 **How can I stay within my jewelry budget without compromising style?**  
-Start with a **budget cap** and explore **rental services**, **lab‑grown stones**, or **vintage finds** that often cost less than brand‑new pieces. Consider **mix‑and‑match**—a simple gold band paired with a single statement earring can create impact without a full set. Finally, remember that **sentimental value** can outweigh price; a modest family heirloom often carries more emotional weight than an expensive new diamond. 
-
---- 
-
-By approaching wedding jewelry with honesty, research, and a willingness to think outside the box, you can transform a source of stress into an expression of your unique love story. Embrace the process, trust your instincts, and enjoy the sparkle—whether it comes from a diamond, a pearl, or the joy in your eyes. Happy planning!
+Start with a **budget cap** and explore **rental services**, **lab‑grown stones**, or **vintage finds** that often cost less than brand‑new pieces. Consider **mix‑and‑match**—a simple gold band paired with a single statement earring can create impact without a full set. Finally, remember that **sentimental value** can outweigh price; a modest family heirloom often carries more emotional weight than an expensive new diamond.

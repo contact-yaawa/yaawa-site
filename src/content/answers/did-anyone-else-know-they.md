@@ -1,5 +1,5 @@
 ---
-title: "Did anyone else know they were getting engaged?"
+title: "Is it common to know you're about to get engaged?"
 slug: did-anyone-else-know-they
 category: "planning-timeline"
 excerpt: "Yes—many couples discover that the person proposing already knows they’re about to get engaged, whether through subtle hints, family gossip, or a well‑timed surprise."

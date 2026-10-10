@@ -1,5 +1,5 @@
 ---
-title: "How much did you pay for a day of coordinator?"
+title: "How much does a day-of coordinator cost?"
 slug: how-much-did-you-pay
 category: "budget"
 excerpt: "The cost of a day‑of coordinator typically ranges from **$800 to $2,500**, depending on location, the coordinator’s experience, and the size and complexity of your wedding."
@@ -121,8 +121,4 @@ Policies vary. Most contracts include a **cancellation clause** that outlines re
 Generally, no. Their primary responsibility is logistics, not financial transactions. However, many coordinators will **confirm receipt of deposits** and **verify that vendors have the correct arrival times**. If you want someone to manage payments, you might need to upgrade to a **partial or full planning package**.  
 
 **How can I tell if a coordinator’s price is fair for my market?**  
-Research local averages (wedding blogs, venue recommendations, and forums like The Knot or WeddingWire often list price ranges). Compare at least **three quotes** that detail what’s included. If a quote seems significantly lower, ask for references and a portfolio; if it’s higher, inquire about the coordinator’s unique expertise (e.g., multilingual services, specialty lighting coordination) that may justify the premium.  
-
----  
-
-By understanding the factors that shape a day‑of coordinator’s fee, weighing the pros and cons, and matching the service level to your wedding’s size and style, you can allocate your budget wisely and enjoy a stress‑free celebration. Happy planning!
+Research local averages (wedding blogs, venue recommendations, and forums like The Knot or WeddingWire often list price ranges). Compare at least **three quotes** that detail what’s included. If a quote seems significantly lower, ask for references and a portfolio; if it’s higher, inquire about the coordinator’s unique expertise (e.g., multilingual services, specialty lighting coordination) that may justify the premium.

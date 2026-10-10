@@ -1,5 +1,5 @@
 ---
-title: "Parents not coming to wedding — advice/support needed?"
+title: "How do you cope when your parents won't come to your wedding?"
 slug: parents-not-coming-to-wedding
 category: "family-issues"
 excerpt: "When parents can’t attend your wedding, it’s natural to feel hurt, but you can still create a meaningful celebration by acknowledging their absence, communicating openly, and finding alternative ways to include them."

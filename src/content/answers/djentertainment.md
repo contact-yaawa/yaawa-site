@@ -1,5 +1,5 @@
 ---
-title: "DJ/Entertainment?"
+title: "How do you choose a wedding DJ or other entertainment?"
 slug: djentertainment
 category: "vendors"
 excerpt: "Choosing the right DJ or entertainment option is one of the most impactful decisions for your wedding reception."

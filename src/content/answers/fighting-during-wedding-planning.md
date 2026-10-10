@@ -5,7 +5,7 @@ category: "planning-timeline"
 excerpt: "Conflict during wedding planning is **very common**—most couples experience at least a few disagreements about budget, priorities, or family involvement."
 created: 2026-10-04
 updated: 2026-10-04
-quickAnswer: "Conflict during wedding planning is **very common**—most couples experience at least a few disagreements about budget, priorities, or family involvement. The intensity varies, but research shows that 70‑80 % of engaged partners report “stressful moments” or “mini‑tiffs” while organizing their big day. The good news is that, when handled constructively, these conflicts can actually strengthen communication and help you create a wedding that truly reflects both of your values."
+quickAnswer: "Conflict during wedding planning is **very common**—most couples experience at least a few disagreements about budget, priorities, or family involvement. The good news is that, when handled constructively, these conflicts can actually strengthen communication and help you create a wedding that truly reflects both of your values."
 pros:
   - "Encourages early communication about money, expectations, and boundaries."
   - "Helps each partner understand the other’s priorities and love languages."

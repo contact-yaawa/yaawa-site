@@ -1,7 +1,7 @@
 ---
 title: "How can I track my wedding planning progress?"
 slug: wedding-planning-progress
-category: "vendors"
+category: "planning-timeline"
 excerpt: "Tracking your wedding planning progress is easiest when you combine a master timeline, a detailed budget spreadsheet, and a digital checklist app."
 created: 2026-10-05
 updated: 2026-10-05

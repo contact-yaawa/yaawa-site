@@ -1,5 +1,5 @@
 ---
-title: "Are you creating wedding mockups at home?"
+title: "Should you create a wedding décor mockup at home?"
 slug: wedding-mockup-setup
 category: "planning-timeline"
 excerpt: "Yes, you can create wedding mockups at home, and many couples find them a cost‑effective way to visualize décor, colour palettes, and flow before committing to large purchases."

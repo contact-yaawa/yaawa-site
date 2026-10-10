@@ -1,5 +1,5 @@
 ---
-title: "Should I message the bride and groom to apologise for accidentally wearing the same colour as the bridesmaids to their wedding?"
+title: "Should you apologize for accidentally wearing the bridesmaids' color to a wedding?"
 slug: should-i-message-the-bride
 category: "etiquette"
 excerpt: "Yes, it’s courteous to send a brief, heartfelt message to the bride and groom apologising for unintentionally matching the bridesmaids’ colour."

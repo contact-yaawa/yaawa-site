@@ -1,5 +1,5 @@
 ---
-title: "Need opinions on hair trial?"
+title: "How do you judge your bridal hair trial?"
 slug: need-opinions-on-hair-trial
 category: "fashion"
 excerpt: "A hair trial is an essential step for most brides because it lets you see how your chosen style works with your dress, veil, and overall wedding look before the big day."

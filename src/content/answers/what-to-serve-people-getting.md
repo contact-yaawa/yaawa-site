@@ -1,5 +1,5 @@
 ---
-title: "What to serve people getting hair/makeup done?"
+title: "What food should you serve while everyone gets hair and makeup done?"
 slug: what-to-serve-people-getting
 category: "vendors"
 excerpt: "During the hair‑and‑makeup session, keep the menu light, hydrating, and easy to eat without touching the face."

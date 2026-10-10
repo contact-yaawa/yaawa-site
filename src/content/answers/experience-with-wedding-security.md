@@ -1,5 +1,5 @@
 ---
-title: "Experience with Wedding Security?"
+title: "Should you hire security for your wedding?"
 slug: experience-with-wedding-security
 category: "vendors"
 excerpt: "Wedding security is more than just a “muscle” presence; it’s about creating a safe, smooth, and stress‑free environment for you, your guests, and your venue."

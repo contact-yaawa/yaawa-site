@@ -1,5 +1,5 @@
 ---
-title: "alternative wedding dress online shops?"
+title: "Where can you buy alternative wedding dresses online?"
 slug: alternative-wedding-dress-online-shops
 category: "fashion"
 excerpt: "Yes—there are plenty of reputable online retailers and marketplaces that offer beautiful, affordable, and even sustainable wedding dresses beyond the traditional bridal boutiques."

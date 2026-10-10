@@ -1,7 +1,7 @@
 ---
-title: "Marquee letters help?"
+title: "How do you use marquee letters at a wedding?"
 slug: marquee-letters-help
-category: "fashion"
+category: "vendors"
 excerpt: "Marquee letters can add a striking, personalized touch to your wedding décor, especially for photo backdrops, entrance signage, and cocktail tables."
 created: 2026-07-20
 updated: 2026-07-20
@@ -116,8 +116,4 @@ During bright daylight, the LED illumination is less noticeable. However, the le
 If you’re using metal frames, secure them to a sturdy backdrop or a weighted base. Many vendors sell **ground stakes** or **sandbags** specifically for outdoor marquee letters. Acrylic letters are lighter but can be more prone to bending, so a solid support structure is essential. Always check the weather forecast and have a contingency plan (e.g., moving the letters indoors) if strong winds are expected.  
 
 **Can I use marquee letters for signage beyond my names, like a hashtag or menu?**  
-Yes! Because the letters are interchangeable, you can spell out your wedding hashtag, a short welcome phrase, or even the word “MENU” near the food stations. Just be mindful of legibility—choose a simple font and adequate spacing to ensure guests can read the text from a distance.  
-
----  
-
-Marquee letters are a versatile, eye‑catching way to personalize your wedding décor while adding a subtle glow that enhances photography and ambiance. By weighing the costs, logistical needs, and style compatibility, you can decide whether they’re the right fit for your celebration. With thoughtful planning, these illuminated letters can become a cherished visual signature of your special day.
+Yes! Because the letters are interchangeable, you can spell out your wedding hashtag, a short welcome phrase, or even the word “MENU” near the food stations. Just be mindful of legibility—choose a simple font and adequate spacing to ensure guests can read the text from a distance.

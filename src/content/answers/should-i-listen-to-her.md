@@ -1,5 +1,5 @@
 ---
-title: "Should I listen to her? - honest opinions please!?"
+title: "How much should you listen to other people's wedding advice?"
 slug: should-i-listen-to-her
 category: "etiquette"
 excerpt: "Yes—listen, but filter."

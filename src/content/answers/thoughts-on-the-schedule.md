@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on the schedule I want to display where guests will arrive? Is the \"Goodbye\" a good nod on when we would like everyone to leave, or should I reword it?"
+title: "How should you word the end of the day on a wedding schedule for guests?"
 slug: thoughts-on-the-schedule
 category: "planning-timeline"
 excerpt: "Yes, displaying a clear, guest‑focused schedule is a great idea, and most couples replace a “Goodbye” label with something softer—such as “Send‑off,” “Last Dance,” or “Farewell.” The wording should gently signal the evening’s end without sounding like an invitation to leave early, while still giving your venue staff and guests a helpful timeline to follow."
@@ -23,8 +23,6 @@ recommendation: "Create a concise, friendly timeline that highlights arrival, ce
 ## Detailed Explanation
 ### Why a Guest‑Focused Schedule Works  
 From the moment the first guests step onto the venue lawn until the last toast is raised, a wedding is a marathon of moving parts. Even the most organized couples can’t control traffic flow, music cues, or the timing of a surprise flash‑mob. A printed schedule—often tucked into a welcome board, placed on each table, or displayed on a stylish easel—acts as a silent coordinator. It tells guests when to arrive, when to find their seats, when the cocktail hour begins, and when the “official” program (first dance, cake cutting, bouquet toss) will happen.  
-
-Search engines love “wedding timeline” and “wedding schedule” content because couples regularly type those phrases into Google while planning. By explaining the why and how of a schedule, you’re not only answering the user’s immediate question but also boosting the page’s SEO relevance for those high‑traffic keywords.
 
 ### The “Goodbye” Dilemma  
 The word “Goodbye” is perfectly polite in everyday conversation, but on a wedding timeline it can feel like an abrupt curtain call. Many guests—especially older relatives or those with children—interpret it as a cue that the party is officially over, prompting them to gather their coats early. This can clash with the natural flow of a reception, where the last dance or sparkler send‑off is meant to be a climactic, lingering moment.  
@@ -119,8 +117,4 @@ Print a few extra copies of a simple “Updates” card and keep a QR code on th
 Both have merits. A printed schedule is tactile and visible to all ages, while a digital version can be updated instantly. Offering both—print for the venue and a QR‑linked digital copy for smartphones—covers every guest preference.
 
 **Can I use “Goodnight” instead of “Goodbye” or “Send‑off”?**  
-“Goodnight” carries a similar connotation to “Goodbye” and can still feel final. If you prefer a softer touch, “Last dance & goodnight” is a compromise, but “Send‑off” remains the most celebratory and least likely to prompt early departures.  
-
----  
-
-By thoughtfully crafting your wedding timeline and choosing warm, inclusive wording for the final moments, you’ll guide guests smoothly through the day, keep vendors on schedule, and preserve the joyous flow of your celebration. Happy planning!
+“Goodnight” carries a similar connotation to “Goodbye” and can still feel final. If you prefer a softer touch, “Last dance & goodnight” is a compromise, but “Send‑off” remains the most celebratory and least likely to prompt early departures.

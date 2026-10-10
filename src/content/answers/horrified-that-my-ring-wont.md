@@ -1,5 +1,5 @@
 ---
-title: "Horrified that my ring won’t fit during proposal?"
+title: "What happens if the engagement ring doesn't fit during the proposal?"
 slug: horrified-that-my-ring-wont
 category: "etiquette"
 excerpt: "If your engagement ring won’t fit during the proposal, stay calm and keep the moment focused on the love you’re celebrating."

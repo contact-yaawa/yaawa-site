@@ -1,7 +1,7 @@
 ---
-title: "Not having a DJ question?"
+title: "Can you have a wedding without a DJ?"
 slug: not-having-a-dj
-category: "budget"
+category: "vendors"
 excerpt: "Skipping a professional DJ can free up a sizable part of your wedding budget, but it also places the responsibility for music flow, timing, and crowd energy squarely on you or your chosen alternative."
 created: 2026-07-17
 updated: 2026-07-17

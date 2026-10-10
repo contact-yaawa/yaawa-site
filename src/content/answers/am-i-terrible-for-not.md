@@ -1,5 +1,5 @@
 ---
-title: "Am I terrible for not wanting to invite my mother to my own wedding?"
+title: "Is it okay not to invite your mother to your wedding?"
 slug: am-i-terrible-for-not
 category: "family-issues"
 excerpt: "Choosing not to invite your mother to your own wedding is a deeply personal decision and not automatically “terrible.” It can be the healthiest choice for your mental well‑being and for the overall tone of the celebration, especially if the relationship is consistently toxic or abusive."

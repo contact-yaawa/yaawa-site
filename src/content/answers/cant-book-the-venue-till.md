@@ -1,5 +1,5 @@
 ---
-title: "Can't book the venue till at least 2027 - what can I do in the meantime?"
+title: "What can you plan while you wait to book your wedding venue?"
 slug: cant-book-the-venue-till
 category: "venues"
 excerpt: "If you can’t lock down your dream venue until 2027, focus on securing a date, building a contingency plan, and using the extra time to solidify the rest of your wedding details."

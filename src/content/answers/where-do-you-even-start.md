@@ -1,5 +1,5 @@
 ---
-title: "Where do you even start?"
+title: "Where do you start with wedding planning?"
 slug: where-do-you-even-start
 category: "planning-timeline"
 excerpt: "Start with a **big‑picture conversation** about your vision, budget, and timeline, then lock down the three pillars that drive every wedding: **date, venue, and guest list**."

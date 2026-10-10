@@ -1,5 +1,5 @@
 ---
-title: "Best Wedding Registry? Looking for Recommendations (and Freebies!)?"
+title: "What is the best wedding registry site?"
 slug: best-wedding-registry-looking-for
 category: "gifts"
 excerpt: "The best wedding registry blends the convenience of an online platform with the flexibility to add both traditional and experiential gifts, while also offering free perks like welcome kits or discount codes."

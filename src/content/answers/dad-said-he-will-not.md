@@ -1,5 +1,5 @@
 ---
-title: "Dad said he will not be going to my wedding?"
+title: "What should you do if your dad says he won't come to your wedding?"
 slug: dad-said-he-will-not
 category: "family-issues"
 excerpt: "If your dad says he won’t attend your wedding, first take a breath and try to understand his reasons before reacting."

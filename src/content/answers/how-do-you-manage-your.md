@@ -1,5 +1,5 @@
 ---
-title: "How do you manage your guest list ?"
+title: "How do you manage your wedding guest list?"
 slug: how-do-you-manage-your
 category: "guest-list"
 excerpt: "Managing your wedding guest list is a step‑by‑step process that starts with setting a realistic budget, defining your venue capacity, and then prioritizing guests by relationship and importance."

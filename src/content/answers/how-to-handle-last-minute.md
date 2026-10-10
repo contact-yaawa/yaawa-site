@@ -1,5 +1,5 @@
 ---
-title: "How to handle last minute guest's place card?"
+title: "How do you handle a place card for a last-minute guest?"
 slug: how-to-handle-last-minute
 category: "guest-list"
 excerpt: "When a guest confirms at the last minute, adjust your seating plan with flexibility: keep a few “open” seats at each table, use a printable placeholder place card, and, if needed, re‑seat nearby guests discreetly on the day of the wedding."
@@ -23,7 +23,7 @@ recommendation: "Create a flexible seating strategy **before** the wedding by le
 
 ## Detailed Explanation
 ### 1. Why Last‑Minute Guests Happen  
-Even with a well‑managed RSVP system, it’s common for couples to receive a late confirmation. Reasons range from travel delays, work commitments, or simply forgetting to respond until the final days before the wedding. According to a 2023 survey of 2,000 couples, **28 %** reported at least one guest confirming within two weeks of the ceremony. Understanding that this is a normal part of wedding planning helps you approach the situation with calm and practicality.
+Even with a well‑managed RSVP system, it’s common for couples to receive a late confirmation. Reasons range from travel delays, work commitments, or simply forgetting to respond until the final days before the wedding. Understanding that this is a normal part of wedding planning helps you approach the situation with calm and practicality.
 
 ### 2. The Importance of a Flexible Seating Plan  
 
@@ -113,8 +113,4 @@ A good rule of thumb is **5 % of your total guest count**. For a 150‑guest w
 Absolutely. Choose a design that works well with both printed text and elegant handwriting. Use the same font style, color palette, and cardstock to keep the look cohesive, whether you print or write the name.
 
 **Is it okay to seat a last‑minute guest at a table of strangers?**  
-If you have no better option, it’s acceptable, but try to place them near guests with similar interests or relationships to the couple. A brief introduction by the best man or maid of honor can ease any discomfort and foster conversation.  
-
----  
-
-By planning ahead, keeping a few flexible seats, and having a quick method for producing extra place cards, you can handle last‑minute guests smoothly and maintain the elegance of your wedding day. Remember, the goal is to make every attendee feel welcomed while preserving the overall flow of your celebration. Happy planning!
+If you have no better option, it’s acceptable, but try to place them near guests with similar interests or relationships to the couple. A brief introduction by the best man or maid of honor can ease any discomfort and foster conversation.

@@ -1,5 +1,5 @@
 ---
-title: "Yay, finally engaged!!?"
+title: "What should you do first after getting engaged?"
 slug: yay-finally-engaged
 category: "planning-timeline"
 excerpt: "Congratulations on your engagement!"

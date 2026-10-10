@@ -1,5 +1,5 @@
 ---
-title: "Yellowing wedding on Friday🥲?"
+title: "How do you plan a yellow-themed Friday wedding?"
 slug: yellowing-wedding-on-friday
 category: "fashion"
 excerpt: "A yellow‑themed wedding on a Friday can be stunning, affordable, and memorable—just plan the color flow, lighting, and guest logistics early."

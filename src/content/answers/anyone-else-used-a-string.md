@@ -1,5 +1,5 @@
 ---
-title: "Anyone else used a string quartet/violinist/musician rather than a DJ?"
+title: "Should you hire a string quartet or live musicians instead of a DJ?"
 slug: anyone-else-used-a-string
 category: "vendors"
 excerpt: "Yes—many couples swap a traditional DJ for a string quartet, violinist, or other live musicians to create a more intimate, elegant soundscape."
@@ -31,8 +31,6 @@ recommendation: "If your wedding vision leans toward elegance, romance, and a cu
 ## Detailed Explanation
 ### Why Couples Choose Live Musicians Over a DJ  
 The decision to replace a DJ with a string quartet, violinist, or other live performer is often rooted in the emotional tone a couple wants to set. Live strings instantly evoke a sense of classic romance; the gentle swell of a cello or the bright timbre of a violin can make the moment you walk down the aisle feel like a scene from a movie. Moreover, live music is perceived as a “personal touch”—musicians can learn your favorite love songs, incorporate family heritage tunes, and even write bespoke arrangements that a DJ would simply cue from a playlist.
-
-From an SEO perspective, couples frequently search for “live wedding music ideas,” “string quartet for wedding ceremony,” and “wedding musicians vs DJ.” These keywords reflect a growing trend toward experiential, sensory‑rich weddings rather than a solely dance‑floor‑focused celebration.
 
 ### Acoustic Considerations: Venue, Size, and Sound  
 Live musicians rely on the natural acoustics of the space. An elegant ballroom with high ceilings and hard surfaces can amplify a quartet beautifully, while a small garden or rustic barn may need subtle amplification to avoid sounding thin. Conversely, a DJ’s powered speakers can dominate any space, but they also risk overwhelming a delicate ceremony if not managed properly.

@@ -121,8 +121,4 @@ It depends on your comfort level and the dynamics of your social circle. If the 
 Review each contract’s cancellation and modification clauses. Many vendors allow date changes for a fee, while others may retain deposits. Communicate early, explain the situation, and negotiate a mutually agreeable solution. In some cases, you can transfer deposits to a new date or even to a different service (e.g., using a floral deposit for décor instead of bouquets). Maintaining professionalism preserves relationships and may even earn you a discount for the new timeline.
 
 **Is it okay to have a small “re‑engagement” party before the official proposal?**  
-Yes, a low‑key celebration with close friends or family can be a beautiful way to mark the transition from pause to commitment. Just ensure the main proposal remains personal and meaningful for you both. A pre‑proposal gathering can also serve as a confidence boost and give you a supportive audience before the big moment.  
-
----  
-
-Navigating a proposal after a paused engagement requires honesty, intentional planning, and a willingness to turn past challenges into future strengths. By communicating openly, addressing practical concerns, and crafting a proposal that honors your unique journey, you can transform a pause into a powerful prelude to a marriage built on resilience and love.
+Yes, a low‑key celebration with close friends or family can be a beautiful way to mark the transition from pause to commitment. Just ensure the main proposal remains personal and meaningful for you both. A pre‑proposal gathering can also serve as a confidence boost and give you a supportive audience before the big moment.

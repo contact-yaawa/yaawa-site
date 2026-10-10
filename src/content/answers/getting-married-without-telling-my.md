@@ -1,5 +1,5 @@
 ---
-title: "Getting married without telling my friends?"
+title: "Is it okay to get married without telling your friends?"
 slug: getting-married-without-telling-my
 category: "etiquette"
 excerpt: "Yes, you can legally and ethically get married without telling your friends first, but doing so will affect relationships, expectations, and future celebrations."

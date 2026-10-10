@@ -32,8 +32,6 @@ recommendation: "If you’re a hands‑on bride who loves crafting, have a clear
 
 A Cricut is essentially a computer‑controlled cutting plotter. What sets it apart from a regular home printer or a pair of scissors is its ability to slice almost any thin material along complex, vector‑based paths. For a wedding, this translates into crisp, repeatable results for items that traditionally require a graphic designer or a specialty printer. Think of perfectly cut monograms on napkins, layered vinyl letters for a backdrop, or delicate lace‑like patterns on a bridal veil—all achievable in your living room.
 
-From an SEO standpoint, terms like “Cricut wedding invitations,” “DIY wedding signage,” and “budget wedding decorations” frequently appear in search queries. By incorporating the Cricut into your planning, you not only address these keywords but also position yourself as a resourceful bride who can deliver high‑quality, personalized details without inflating the budget.
-
 ### Cost Breakdown and ROI  
 
 The entry‑level Cricut Explore 3 retails for roughly $300, while the more advanced Cricut Maker 3 sits near $400. Both come with a fine‑point blade and a cutting mat, but you’ll quickly discover consumables are an ongoing expense:
@@ -77,7 +75,7 @@ Many local craft stores and maker spaces offer Cricut rentals at $15–$30 per d
 
 ### Environmental Considerations  
 
-DIY often aligns with sustainability goals. By cutting only the material you need, you reduce waste compared to bulk‑ordered printed items that may come with excess packaging. Additionally, using recyclable cardstock and vinyl that can be reclaimed for future projects further lowers your wedding’s environmental footprint—a point that resonates with eco‑conscious couples and can be a compelling SEO keyword (“eco‑friendly wedding DIY”).
+DIY often aligns with sustainability goals. By cutting only the material you need, you reduce waste compared to bulk‑ordered printed items that may come with excess packaging.
 
 ### Integration with Other Wedding Planning Tools  
 

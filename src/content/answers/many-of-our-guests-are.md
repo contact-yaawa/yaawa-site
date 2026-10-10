@@ -1,5 +1,5 @@
 ---
-title: "Many of our guests are quite a bit older or are physically disabled, what are some reception ideas to accommodate them?"
+title: "How can you make a reception comfortable for older and disabled guests?"
 slug: many-of-our-guests-are
 category: "venues"
 excerpt: "Yes – you can create a wedding reception that’s comfortable, enjoyable, and safe for older guests and those with physical disabilities by choosing an accessible venue, planning thoughtful layouts, and incorporating inclusive details like easy‑to‑reach seating, clear signage, and helpful staff."

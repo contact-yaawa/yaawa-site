@@ -1,5 +1,5 @@
 ---
-title: "Do you think it’s ok for your family to share your engagement news?"
+title: "Is it okay for family to share your engagement news?"
 slug: do-you-think-its-ok
 category: "etiquette"
 excerpt: "Yes, it’s generally fine for your family to share your engagement news, but the “right” approach depends on your personal comfort level, cultural expectations, and the timing of the announcement."

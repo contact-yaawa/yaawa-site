@@ -1,5 +1,5 @@
 ---
-title: "My fiancé proposed to me without asking my parents and need help telling them?"
+title: "How do you tell your parents your fiancé proposed without asking them first?"
 slug: my-fianc-proposed-to-me
 category: "family-issues"
 excerpt: "Tell your parents the news in a way that respects both their feelings and your fiancé’s surprise, choosing a calm, private moment, and be honest about why the proposal didn’t involve them."

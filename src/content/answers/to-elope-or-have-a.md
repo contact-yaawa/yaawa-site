@@ -1,5 +1,5 @@
 ---
-title: "To elope or have a micro wedding?"
+title: "Should you elope or have a micro wedding?"
 slug: to-elope-or-have-a
 category: "planning-timeline"
 excerpt: "Whether you choose to elope or have a micro wedding depends on your priorities: budget, guest list size, desired atmosphere, and logistical comfort."
@@ -29,10 +29,10 @@ recommendation: "If your top priorities are budget friendliness, flexibility, an
 ### Defining the Terms  
 An **elopement** traditionally meant a secret marriage, often with just the couple and a witness. Today, many couples use “eloping” to describe a small, destination‑focused ceremony that may include a few friends or family members, but still stays well under 20 guests. A **micro wedding**, on the other hand, is a deliberately small celebration—typically 20‑50 guests—held at a venue that can accommodate a traditional ceremony and reception but on a reduced scale.
 
-Both formats have surged in popularity since 2020, driven by rising wedding costs, pandemic‑induced venue restrictions, and a cultural shift toward experiences over extravagance. Search engines now frequently pair the phrases “elope vs micro wedding” and “small wedding ideas,” so incorporating those keywords naturally throughout this guide will help couples find the information they need.
+Both formats have surged in popularity since 2020, driven by rising wedding costs, pandemic‑induced venue restrictions, and a cultural shift toward experiences over extravagance.
 
 ### Budget Considerations  
-Cost is often the first deciding factor. According to recent industry data, the average U.S. wedding costs about $30,000. An elopement can shrink that number dramatically—sometimes under $5,000—because you’re paying for a ceremony location, a photographer, a simple outfit, and perhaps a celebratory dinner. A micro wedding typically lands in the $10,000‑$20,000 range, depending on venue, catering, and décor.  
+Cost is often the first deciding factor. An elopement can shrink that number dramatically—sometimes under $5,000—because you’re paying for a ceremony location, a photographer, a simple outfit, and perhaps a celebratory dinner. A micro wedding typically lands in the $10,000‑$20,000 range, depending on venue, catering, and décor.  
 
 **Where the money goes:**  
 - **Venue:** Elopements often use natural settings (beaches, mountains, city rooftops) that require a permit fee only. Micro weddings need a rental space—garden, boutique hotel, or small banquet hall—so venue cost becomes a larger line item.  

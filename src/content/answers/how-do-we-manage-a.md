@@ -1,5 +1,5 @@
 ---
-title: "How do we manage a kleptomaniac relative at a budget wedding....?"
+title: "How do you manage a relative who steals at a wedding?"
 slug: how-do-we-manage-a
 category: "family-issues"
 excerpt: "If a kleptomaniac relative is likely to cause trouble at your budget wedding, address the issue early, set clear boundaries, and create a low‑risk environment for the ceremony and reception."

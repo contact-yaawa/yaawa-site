@@ -1,5 +1,5 @@
 ---
-title: "How to stand out as the groom from the groomsmen?"
+title: "How can the groom stand out from the groomsmen?"
 slug: how-to-stand-out-as
 category: "fashion"
 excerpt: "Yes, you can stand out as the groom without stealing the spotlight from your groomsmen by choosing subtle yet distinctive touches—think personalized accessories, a tailored silhouette, and a color accent that ties into the wedding palette while respecting the overall dress code."

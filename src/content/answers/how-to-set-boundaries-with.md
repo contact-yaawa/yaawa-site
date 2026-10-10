@@ -1,5 +1,5 @@
 ---
-title: "How to set boundaries with my mother / Vent?"
+title: "How do you set boundaries with your mother during wedding planning?"
 slug: how-to-set-boundaries-with
 category: "family-issues"
 excerpt: "Setting boundaries with your mother during wedding planning is about clear, compassionate communication, consistent follow‑through, and respecting both your needs and hers."
@@ -153,8 +153,4 @@ While a face‑to‑face (or video) conversation is ideal for clarity, a thought
 Re‑establish the conversation after the wedding, acknowledging the shift and reminding her of the earlier agreement. Highlight that the same respect you asked for during the wedding will help maintain a healthy post‑marriage relationship. If patterns persist, consider involving a neutral mediator or therapist.  
 
 **How do I keep the tone loving and not “authoritarian”?**  
-Language is crucial. Use gentle phrasing, avoid “you must” statements, and focus on collaborative wording (“Let’s figure out a way together”). Sprinkle sincere gratitude throughout the dialogue, and keep eye contact (or video presence) to convey empathy.  
-
----  
-
-Setting boundaries with your mother as you plan your wedding is a delicate balance of love, respect, and self‑preservation. By clarifying your needs, communicating them compassionately, and establishing practical tools for follow‑through, you protect your relationship, reduce stress, and create a celebration that truly reflects both of you. Remember: boundaries are not walls; they are gentle fences that keep the garden of your marriage thriving while still allowing the beautiful blossoms of family love to shine. Happy planning!
+Language is crucial. Use gentle phrasing, avoid “you must” statements, and focus on collaborative wording (“Let’s figure out a way together”). Sprinkle sincere gratitude throughout the dialogue, and keep eye contact (or video presence) to convey empathy.

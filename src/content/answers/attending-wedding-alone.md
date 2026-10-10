@@ -1,5 +1,5 @@
 ---
-title: "Attending wedding alone?"
+title: "Is it okay to attend a wedding alone?"
 slug: attending-wedding-alone
 category: "etiquette"
 excerpt: "Yes, you can attend a wedding alone, but it’s best to consider the couple’s expectations, the formality of the event, and your own comfort level."

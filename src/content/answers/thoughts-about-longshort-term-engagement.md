@@ -1,5 +1,5 @@
 ---
-title: "Thoughts about long/short term engagement?"
+title: "Is a long or short engagement better?"
 slug: thoughts-about-longshort-term-engagement
 category: "planning-timeline"
 excerpt: "Both long and short engagements have their own strengths and challenges."

@@ -1,5 +1,5 @@
 ---
-title: "VENT - I didn't want a wedding in the first place but here we are?"
+title: "How do you cope with planning a wedding you never wanted?"
 slug: vent-i-didnt-want
 category: "family-issues"
 excerpt: "It’s completely normal to feel conflicted when a wedding slips into your life despite not wanting one."

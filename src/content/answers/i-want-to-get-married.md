@@ -1,5 +1,5 @@
 ---
-title: "I want to get married in my family’s empty cemetery?"
+title: "Can you get married in a family cemetery?"
 slug: i-want-to-get-married
 category: "venues"
 excerpt: "Yes, you can host your wedding in your family’s empty cemetery, but it requires careful planning, respect for local regulations, and thoughtful design to honor both the celebration and the site’s solemn nature."

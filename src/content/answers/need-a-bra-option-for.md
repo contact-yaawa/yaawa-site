@@ -1,5 +1,5 @@
 ---
-title: "Need a bra option for my wedding?"
+title: "What bra options work under a wedding dress?"
 slug: need-a-bra-option-for
 category: "fashion"
 excerpt: "Choosing the right bra for your wedding is all about balancing support, comfort, and invisibility under your dress."

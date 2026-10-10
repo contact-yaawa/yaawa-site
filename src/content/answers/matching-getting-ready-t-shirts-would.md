@@ -1,5 +1,5 @@
 ---
-title: "Matching Getting-Ready T Shirts: Would you wear again?"
+title: "Are matching getting-ready shirts worth it?"
 slug: matching-getting-ready-t-shirts-would
 category: "fashion"
 excerpt: "Yes, many couples choose to wear matching getting‑ready T‑shirts again because they’re comfortable, photograph well, and add a playful touch to the wedding morning."

@@ -1,5 +1,5 @@
 ---
-title: "Mother of the Bride and Step Mother of the Bride?"
+title: "How do you handle roles for the mother and stepmother of the bride?"
 slug: mother-of-the-bride-and
 category: "family-issues"
 excerpt: "Navigating the roles of the bride’s biological mother and her step‑mother can feel like walking a tightrope, but clear communication, shared responsibilities, and a spirit of inclusion usually smooth the path."

@@ -1,5 +1,5 @@
 ---
-title: "For those of you who are not hiring a DJ and playing from a playlist, how is your curating going?"
+title: "How do you curate a wedding playlist without a DJ?"
 slug: for-those-of-you-who
 category: "vendors"
 excerpt: "If you’re skipping a professional DJ and relying on a curated playlist, start by mapping out the flow of your day, choosing songs that match each moment, and then building a diverse, crowd‑pleasing list on a reliable streaming platform."

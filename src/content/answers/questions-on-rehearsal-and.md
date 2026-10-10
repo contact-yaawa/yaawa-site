@@ -1,5 +1,5 @@
 ---
-title: "Questions on rehearsal and dinner vs casual meetup?"
+title: "Should you have a rehearsal dinner or a casual meetup?"
 slug: questions-on-rehearsal-and
 category: "ceremony"
 excerpt: "A traditional rehearsal dinner and a casual meetup both have merit; the best choice depends on your budget, guest list, venue logistics, and the vibe you want to set for your wedding day."
@@ -124,8 +124,4 @@ Absolutely. Many couples merge the two to streamline scheduling and reduce costs
 Treat attendance as optional. Send a polite note that you understand schedules vary and that you’ll share photos and a short video recap afterward. The key is to make those who can attend feel appreciated, without making anyone feel excluded.
 
 **How do I handle alcohol if I’m hosting a casual meetup?**  
-Offer a limited selection—perhaps a signature cocktail, wine, and a non‑alcoholic option. You can also provide a “cash bar” for those who want additional drinks, but keep the overall focus on food and conversation rather than heavy drinking.  
-
----  
-
-Planning the rehearsal event—whether a classic dinner or a relaxed meetup—doesn’t have to be a source of stress. By clarifying your priorities, budgeting wisely, and communicating clearly with your loved ones, you’ll create a meaningful pre‑wedding gathering that sets the perfect tone for the celebration to follow. Happy planning!
+Offer a limited selection—perhaps a signature cocktail, wine, and a non‑alcoholic option. You can also provide a “cash bar” for those who want additional drinks, but keep the overall focus on food and conversation rather than heavy drinking.

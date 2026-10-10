@@ -1,5 +1,5 @@
 ---
-title: "Family trying to talk me out of a Photographer?"
+title: "What should you do when family tries to talk you out of hiring a photographer?"
 slug: family-trying-to-talk-me
 category: "family-issues"
 excerpt: "If your family is trying to talk you out of the photographer you love, take a step back, gather the facts, and have an open conversation about priorities, budget, and style."

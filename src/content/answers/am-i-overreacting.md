@@ -1,5 +1,5 @@
 ---
-title: "Am I overreacting?"
+title: "How do you tell real wedding venue red flags from normal worries?"
 slug: am-i-overreacting
 category: "venues"
 excerpt: "You’re not necessarily overreacting—wedding venue worries often stem from legitimate stakes like budget, capacity, and contract clauses."

@@ -1,5 +1,5 @@
 ---
-title: "Inattentive videographer?"
+title: "What should you do about an inattentive wedding videographer?"
 slug: inattentive-videographer
 category: "vendors"
 excerpt: "If your wedding videographer seems inattentive—missing key moments, wandering off, or delivering sub‑par footage—you’ll need to address the issue promptly."

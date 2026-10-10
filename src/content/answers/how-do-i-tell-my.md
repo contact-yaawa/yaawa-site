@@ -1,5 +1,5 @@
 ---
-title: "How do I tell my friend they aren't invited to my wedding? He asked me to be one of his groomsmen?"
+title: "How do you tell a friend he isn't invited when he asked you to be a groomsman?"
 slug: how-do-i-tell-my
 category: "etiquette"
 excerpt: "If you need to let a friend know they won’t be attending your wedding, be honest, kind, and timely."

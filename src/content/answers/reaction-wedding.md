@@ -1,5 +1,5 @@
 ---
-title: "How did you react to your wedding?"
+title: "What emotions do couples feel on their wedding day?"
 slug: reaction-wedding
 category: "family-issues"
 excerpt: "Reacting to your wedding is a deeply personal experience that can be a mix of intense emotions, from pure joy and elation to moments of stress and even tears."

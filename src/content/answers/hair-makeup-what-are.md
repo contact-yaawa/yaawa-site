@@ -1,7 +1,7 @@
 ---
-title: "Hair. Makeup. What are the less-skilled brides who still want to be 🤩 doing?"
+title: "How can you do your own wedding hair and makeup if you're not skilled at it?"
 slug: hair-makeup-what-are
-category: "budget"
+category: "fashion"
 excerpt: "Even with a $10,000 total wedding budget, brides who aren’t professional beauty experts can still achieve a stunning look by combining smart hiring choices (like junior artists, beauty‑school graduates, or off‑season pros) with a few do‑it‑yourself (DIY) tricks, trial runs, and strategic borrowing."
 created: 2026-08-12
 updated: 2026-08-12
@@ -89,9 +89,6 @@ Even the best‑prepared brides can encounter a mishap—think a sudden rainstor
 
 This example leaves over $8,500 for venue, dress, food, and everything else, illustrating how a thoughtful hybrid approach keeps you within budget while delivering a polished look.
 
-### 7. SEO‑Friendly Keywords (naturally woven)  
-Throughout this guide we’ve integrated terms couples often search for: **budget wedding hair and makeup**, **DIY wedding hair**, **affordable bridal makeup**, **wedding beauty on a budget**, **junior makeup artist**, **beauty school bridal trial**, and **low‑cost bridal hair styling**. Using these phrases helps search engines connect the content to the exact question you’re asking.
-
 ### 8. Managing Stress on the Day  
 
 - **Set a Timeline:** Allocate 45‑60 minutes for hair, 30‑45 minutes for makeup, and 15 minutes for final touch‑ups.  
@@ -140,8 +137,4 @@ If you’re nervous about the look fading, a 30‑minute touch‑up can be a lif
 Start with a strong base: use a volumizing mousse before styling, secure the style with bobby pins hidden in the hairline, and finish with a humidity‑resistant hairspray. Carry a small comb and a travel‑size hairspray for quick fixes. If possible, choose a style that incorporates accessories (pins, a veil, a flower crown) that naturally hold the hair in place. 
 
 **What if my friend messes up the makeup on the day?**  
-Give them a clear, illustrated “look‑book” from the trial, and run through the steps together the night before. Keep a backup kit of the exact products you used, so you can quickly correct any mistakes. Most importantly, stay calm—mistakes are easy to fix with a little extra powder or a touch of concealer.  
-
----  
-
-By blending professional expertise with thoughtful DIY work, less‑skilled brides can still step into the aisle looking radiant, confident, and fully within a $10,000 wedding budget. The secret is planning, practicing, and knowing exactly where to spend the money for maximum impact. Happy planning, and may your day be as beautiful as the love you share!
+Give them a clear, illustrated “look‑book” from the trial, and run through the steps together the night before. Keep a backup kit of the exact products you used, so you can quickly correct any mistakes. Most importantly, stay calm—mistakes are easy to fix with a little extra powder or a touch of concealer.

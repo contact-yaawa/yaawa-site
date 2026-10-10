@@ -1,5 +1,5 @@
 ---
-title: "What was the best/cutest engagement gift you received?"
+title: "What are the best engagement gifts?"
 slug: what-was-the-bestcutest-engagement
 category: "gifts"
 excerpt: "The cutest engagement gift I ever received was a handcrafted “first‑letter” scrapbook filled with notes, photos, and tiny keepsakes from our friends and family—personal, sentimental, and instantly printable on a coffee‑table."
@@ -29,8 +29,6 @@ The visual and tactile variety kept the experience fresh. Flipping through the p
 
 ### Personalization Beats Generic “Nice” Gifts  
 Searches for “engagement gift ideas” often return generic suggestions—wine glasses, picture frames, or gift cards. While these items are useful, they rarely elicit the “awww” factor that makes a gift truly cute. Personalization is the secret sauce. Whether it’s engraving the couple’s initials on a wooden cutting board, having a portrait painted in a whimsical style, or creating a custom playlist with songs that define the relationship, adding that personal touch signals that the giver really knows the couple.  
-
-SEO tip: Phrases like “personalized engagement gifts,” “custom engagement keepsake,” and “unique engagement present ideas” rank high for couples searching for inspiration. Incorporating these keywords naturally into your gift description helps your story appear in search results, making it easier for other couples to discover similar ideas.  
 
 ### Budget‑Friendly vs. Luxury Options  
 Not every couple has a sprawling budget, and that’s okay. The beauty of a handmade scrapbook is that the cost can be adjusted. You can:

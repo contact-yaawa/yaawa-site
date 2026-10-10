@@ -1,5 +1,5 @@
 ---
-title: "Where do you put your stuff as a bridesmaid during the wedding? And what bag do you bring?"
+title: "Where should bridesmaids keep their belongings during the wedding?"
 slug: where-do-you-put-your
 category: "fashion"
 excerpt: "During the wedding, a bridesmaid should keep her essentials in a small, organized clutch or tote that can be tucked into her dress or hidden under a seat."

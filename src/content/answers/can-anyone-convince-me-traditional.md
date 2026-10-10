@@ -1,5 +1,5 @@
 ---
-title: "Can anyone convince me traditional wedding vs micro wedding?"
+title: "Should you have a traditional wedding or a micro wedding?"
 slug: can-anyone-convince-me-traditional
 category: "planning-timeline"
 excerpt: "Both traditional weddings and micro weddings have genuine appeal, but the “right” choice hinges on your priorities: the size of your guest list, budget, cultural expectations, and the type of experience you want to create."

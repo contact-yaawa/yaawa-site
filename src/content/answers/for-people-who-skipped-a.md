@@ -1,5 +1,5 @@
 ---
-title: "For people who skipped a wedding videographer: do you regret it?"
+title: "Do couples regret skipping a wedding videographer?"
 slug: for-people-who-skipped-a
 category: "vendors"
 excerpt: "Skipping a wedding videographer can feel like a budget win on the day, but many couples later realize they miss having moving memories of the vows, laughter, and dance floor energy."
@@ -83,8 +83,4 @@ Hiring an audio specialist to record the ceremony’s sound (vows, readings, mus
 Generally, no. Video coverage isn’t a contractual requirement unless you specifically included it in vendor agreements. However, if you’re signing a venue contract that mandates a certain number of vendors or equipment, double‑check to ensure a videographer isn’t listed as mandatory.
 
 **How far in advance should I book a videographer if I decide to add one later?**  
-Peak wedding season (May‑October) fills up 9‑12 months in advance. If you’re adding a videographer after the date is set, start the search immediately; you may need to consider off‑season or weekday options, which can be more affordable and have higher availability.  
-
----  
-
-By weighing the emotional value of moving memories against your budget and priorities, you can make a confident decision about whether to include a wedding videographer. Whether you choose a full‑day documentary, a concise highlight, or a DIY approach, the goal is to preserve the day’s essence in a way that feels right for you—both now and for the years to come.
+Peak wedding season (May‑October) fills up 9‑12 months in advance. If you’re adding a videographer after the date is set, start the search immediately; you may need to consider off‑season or weekday options, which can be more affordable and have higher availability.

@@ -1,5 +1,5 @@
 ---
-title: "Pre-wedding beauty prep: what did you do?"
+title: "What pre-wedding beauty prep is worth doing?"
 slug: pre-wedding-beauty-prep-what-did
 category: "fashion"
 excerpt: "Start your pre‑wedding beauty prep at least six months before the big day by building a solid skincare routine, scheduling professional trials for hair and makeup, and incorporating gentle fitness and nutrition habits."

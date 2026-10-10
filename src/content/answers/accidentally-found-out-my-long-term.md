@@ -1,7 +1,7 @@
 ---
-title: "Accidentally found out my long-term BF is going to propose on our upcoming trip… How do I play it cool?! 😅 ​?"
+title: "What should you do if you find out your partner is planning to propose?"
 slug: accidentally-found-out-my-long-term
-category: "etiquette"
+category: "planning-timeline"
 excerpt: "Finding out about a surprise proposal ahead of time can feel like a breach of the “big moment” magic, but the best way to stay cool is to keep the excitement genuine, give your partner space to enjoy the plan, and focus on the love that led to this milestone."
 created: 2026-08-13
 updated: 2026-08-13

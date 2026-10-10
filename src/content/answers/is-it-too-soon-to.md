@@ -1,5 +1,5 @@
 ---
-title: "Is it too soon to be buying resale wedding items for summer 2027?"
+title: "Is it too early to buy resale wedding items a year before the wedding?"
 slug: is-it-too-soon-to
 category: "planning-timeline"
 excerpt: "Yes, you can start shopping for resale wedding items now for a summer 2027 celebration, but it’s smart to balance excitement with timing."
@@ -63,7 +63,7 @@ A common worry is that a resale item may feel “dated” by 2027. The trick is 
 
 ### Sustainability and the Emotional Value  
 
-Choosing resale aligns with the growing desire for **eco‑conscious weddings**. According to a 2023 survey by The Knot, 42 % of couples said sustainability influenced at least one major purchase. Reusing items not only cuts waste but also adds a story element to your day. Imagine guests admiring a grandfather’s silver candelabra or a dress that once graced another wedding, creating a lineage of love.  
+Choosing resale aligns with the growing desire for **eco‑conscious weddings**. Reusing items not only cuts waste but also adds a story element to your day. Imagine guests admiring a grandfather’s silver candelabra or a dress that once graced another wedding, creating a lineage of love.  
 
 ### Managing Risks  
 

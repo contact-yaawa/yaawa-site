@@ -1,5 +1,5 @@
 ---
-title: "Justifying Cost of Wedding?"
+title: "How do you justify the cost of a wedding?"
 slug: justifying-cost-of-wedding
 category: "budget"
 excerpt: "Yes – you can justify the cost of your wedding by aligning every expense with your shared values, priorities, and long‑term financial goals."

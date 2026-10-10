@@ -1,5 +1,5 @@
 ---
-title: "Double booked photographer?"
+title: "What should you do if your wedding photographer double-booked your date?"
 slug: double-booked-photographer
 category: "vendors"
 excerpt: "If your wedding photographer has double‑booked you, stay calm, gather all the facts, and negotiate a solution that protects your big day."

@@ -1,11 +1,11 @@
 ---
 title: "How to avoid theme-related jokes at a wedding?"
 slug: themed-wedding-jokes
-category: "fashion"
-excerpt: "The best way to keep theme‑related jokes off the guest‑list is to set clear expectations early, choose inclusive wording for invitations and speeches, and brief anyone who might be tempted to riff on the décor."
+category: "etiquette"
+excerpt: "The best way to keep theme‑related jokes out of toasts and speeches is to set clear expectations early, choose inclusive wording for invitations and speeches, and brief anyone who might be tempted to riff on the décor."
 created: 2026-10-05
 updated: 2026-10-05
-quickAnswer: "The best way to keep theme‑related jokes off the guest‑list is to set clear expectations early, choose inclusive wording for invitations and speeches, and brief anyone who might be tempted to riff on the décor. By communicating politely but firmly, you protect the atmosphere you’ve worked so hard to create while still allowing guests to share genuine, heartfelt laughter."
+quickAnswer: "The best way to keep theme‑related jokes out of toasts and speeches is to set clear expectations early, choose inclusive wording for invitations and speeches, and brief anyone who might be tempted to riff on the décor. By communicating politely but firmly, you protect the atmosphere you’ve worked so hard to create while still allowing guests to share genuine, heartfelt laughter."
 pros:
   - "Creates a respectful and inclusive atmosphere for all ages."
   - "Keeps the focus on the couple’s love story rather than the décor."

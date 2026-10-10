@@ -25,7 +25,7 @@ recommendation: "Start by breaking down the $25,000 budget into the core categor
 
 ## Detailed Explanation
 ### 1. Understanding the $25K Baseline  
-A $25,000 wedding budget is often considered a “mid‑range” figure in the United States. According to recent industry data, the average American wedding costs about $30,000, with venue and catering typically consuming the largest slices of the pie. When you opt for a farm venue, you’re already gaining a natural setting that can shave off a significant portion of décor and lighting expenses, which are usually among the top cost drivers. However, farms rarely come with the all‑inclusive packages that city hotels or banquet halls offer, so you’ll need to account for rentals such as portable restrooms, generators, and additional lighting.
+A $25,000 wedding budget is often considered a “mid‑range” figure in the United States. When you opt for a farm venue, you’re already gaining a natural setting that can shave off a significant portion of décor and lighting expenses, which are usually among the top cost drivers. However, farms rarely come with the all‑inclusive packages that city hotels or banquet halls offer, so you’ll need to account for rentals such as portable restrooms, generators, and additional lighting.
 
 ### 2. Venue Rental: What to Look For  
 Farm venues vary widely in price, from $1,500 for a simple field to $7,000 for a fully restored barn with on‑site accommodations. The key is to locate a property that aligns with your guest count and provides the essential infrastructure:

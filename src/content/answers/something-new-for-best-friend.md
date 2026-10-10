@@ -1,5 +1,5 @@
 ---
-title: "“Something new” for best friend?"
+title: "What's a good 'something new' gift for your best friend's wedding?"
 slug: something-new-for-best-friend
 category: "gifts"
 excerpt: "Finding a “something new” gift for your best friend’s wedding means blending surprise with sentiment."
@@ -69,14 +69,6 @@ When you’re the best friend, you’re not just another guest—you’re a corn
 
 - **Neglecting Gift Registry Etiquette**  
   If the couple has a registry, it’s okay to deviate, but be aware that many guests appreciate the guidance a registry provides. Consider pairing your unique gift with a modest registry item if you’re uncertain about the couple’s needs.  
-
-### SEO Tips for Couples Searching for Ideas  
-
-- Use specific keywords like “unique wedding gift for best friend,” “personalized wedding present ideas,” and “experience gifts for newlyweds.”  
-- Include long‑tail phrases such as “how to surprise my best friend at their wedding” or “first‑year wedding kit ideas.”  
-- Incorporate location‑based terms if you’re recommending local experiences (e.g., “wine tasting in Napa for wedding gifts”).  
-
-By embedding these terms naturally, you’ll help other couples discover your thoughtful approach while also improving the article’s search visibility.
 
 ## Common Scenarios
 - **The Couple Loves Travel**  

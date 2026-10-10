@@ -1,5 +1,5 @@
 ---
-title: "Anyone else engaged but have zero money to plan a wedding?"
+title: "How do you plan a wedding with almost no money?"
 slug: anyone-else-engaged-but-have
 category: "budget"
 excerpt: "Yes—you can still have a beautiful, memorable wedding even when your bank account says “no.” By prioritizing what truly matters, leveraging free or low‑cost resources, and getting creative with friends and family, you can design a celebration that feels personal without breaking the bank."
@@ -143,4 +143,4 @@ Use a free budgeting app like Mint or a simple spreadsheet with columns for “P
 **How do I handle the “I want a big wedding” pressure from relatives?**  
 Set boundaries early. Explain your financial plan and the type of celebration you envision. Offer alternatives, such as a later “re‑union” party when finances improve, or a virtual livestream so distant relatives can still feel included without demanding an extravagant event.  
 
-By embracing creativity, leaning on your community, and staying true to what matters most, you can plan a wedding that feels lavish in love, even when the budget is lean. Happy planning!
+By embracing creativity, leaning on your community, and staying true to what matters most, you can plan a wedding that feels lavish in love, even when the budget is lean.

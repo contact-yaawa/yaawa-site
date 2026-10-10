@@ -1,5 +1,5 @@
 ---
-title: "can any brides w a 4pm ceremony share their day time lines??? TYIA?"
+title: "What does a wedding day timeline look like for a 4 p.m. ceremony?"
 slug: can-any-brides-w-a
 category: "planning-timeline"
 excerpt: "Yes—any bride with a 4 p.m."
@@ -131,8 +131,4 @@ It’s unconventional but possible. You’d need to shift dinner service later (
 In that case, plan for a swift ceremony (20 minutes) and transition immediately into a cocktail hour in a nearby lounge or outdoor patio. Coordinate with the venue’s staff to have the reception décor pre‑installed elsewhere so you don’t lose time moving furniture.  
 
 **How do I keep kids entertained during the ceremony and cocktail hour?**  
-Hire a kid‑friendly activity station (crafts, coloring, or a mini‑photo booth) near the cocktail area, or designate a trusted family member as “kids’ coordinator.” Provide a simple snack table and a quiet corner with soft lighting so children feel comfortable without disrupting the adult festivities.  
-
----  
-
-By mapping out each hour, building in generous buffers, and sharing the timeline with everyone involved, a 4 p.m. ceremony can flow effortlessly from “I do” to the final celebration. Remember that the schedule is a framework, not a prison—allow room for spontaneous laughter, a surprise dance, or an extra group photo. With thoughtful planning, your 4 p.m. wedding day will feel both elegantly timed and delightfully personal.
+Hire a kid‑friendly activity station (crafts, coloring, or a mini‑photo booth) near the cocktail area, or designate a trusted family member as “kids’ coordinator.” Provide a simple snack table and a quiet corner with soft lighting so children feel comfortable without disrupting the adult festivities.

@@ -1,5 +1,5 @@
 ---
-title: "Welcome drinks after rehearsal dinner?"
+title: "Should you host welcome drinks after the rehearsal dinner?"
 slug: welcome-drinks-after-rehearsal-dinner
 category: "etiquette"
 excerpt: "Yes—serving welcome drinks after the rehearsal dinner can be a lovely way to keep the celebration flowing, but it isn’t a requirement."

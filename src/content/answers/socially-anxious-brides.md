@@ -1,5 +1,5 @@
 ---
-title: "Socially Anxious Brides?"
+title: "How can socially anxious brides enjoy their wedding?"
 slug: socially-anxious-brides
 category: "etiquette"
 excerpt: "Yes, a socially anxious bride can still enjoy a beautiful, stress‑free wedding by planning ahead, enlisting supportive allies, and using proven anxiety‑management techniques."

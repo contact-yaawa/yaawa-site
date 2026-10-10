@@ -1,5 +1,5 @@
 ---
-title: "$400~ (¥70000) Looking for Edwardian style dresses in size US 16?"
+title: "Where can you find an Edwardian-style wedding dress in a US size 16 for about $400?"
 slug: 400-70000-looking-for-edwardian
 category: "fashion"
 excerpt: "Yes, you can find beautiful Edwardian‑style wedding dresses in a US 16 for around $400 (≈¥70,000) by shopping smartly online, checking vintage‑inspired collections, and exploring reputable second‑hand platforms."

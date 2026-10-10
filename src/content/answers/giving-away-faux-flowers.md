@@ -1,5 +1,5 @@
 ---
-title: "Giving Away Faux Flowers for Shipping Cost (US brides)?"
+title: "Can you give away used faux wedding flowers for the cost of shipping?"
 slug: giving-away-faux-flowers
 category: "vendors"
 excerpt: "Yes—you can give away faux flowers to offset shipping costs, but it works best when you plan the logistics, communicate clearly with guests, and choose affordable, high‑impact arrangements that match your wedding style."
@@ -30,7 +30,7 @@ Over the past decade, faux flowers have moved from “budget‑hack” to a legi
 
 ### Understanding the Shipping Cost Equation  
 
-Shipping cost isn’t just about distance; it’s a combination of weight, dimensions, packaging materials, and the carrier’s service level. When you give away fresh flowers, you’re essentially paying twice: once for the flowers themselves and again for the delicate handling they require. Faux flowers, being lighter and more durable, can be packed in slim cardboard tubes or flat mailers, slashing the per‑item shipping fee dramatically. According to a 2023 survey of 1,200 US brides, couples who opted for faux floral favors reported an average savings of $12‑$18 per guest compared with fresh alternatives.
+Shipping cost isn’t just about distance; it’s a combination of weight, dimensions, packaging materials, and the carrier’s service level. When you give away fresh flowers, you’re essentially paying twice: once for the flowers themselves and again for the delicate handling they require. Faux flowers, being lighter and more durable, can be packed in slim cardboard tubes or flat mailers, slashing the per‑item shipping fee dramatically.
 
 ### Choosing the Right Faux Flower  
 

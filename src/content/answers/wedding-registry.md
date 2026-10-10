@@ -53,7 +53,7 @@ These categories cover the basics while leaving room for the unique touches you 
 
 ### 3. Balancing Price Points  
 
-Research shows that about 70 % of wedding guests aim to spend within a modest range, while the remaining 30 % may opt for a higher‑priced “statement” item or a collective contribution. To accommodate both groups:
+Guests spend at very different levels, so spread your registry across price tiers:
 
 1. **Create a “Starter” tier** (≈ $20‑$50) – think kitchen utensils, mugs, or a set of coasters.  
 2. **Add a “Mid‑range” tier** (≈ $75‑$150) – such as a quality skillet, a sheet set, or a stylish lamp.  

@@ -1,5 +1,5 @@
 ---
-title: "Should I let this go or ask for a partial refund?"
+title: "Should you ask a wedding vendor for a partial refund?"
 slug: should-i-let-this-go
 category: "vendors"
 excerpt: "If a vendor has fallen short of the agreed‑upon service or delivered sub‑standard work, asking for a partial refund is reasonable and often the best way to protect your budget."

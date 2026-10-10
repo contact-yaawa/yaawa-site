@@ -1,5 +1,5 @@
 ---
-title: "Engaged but not with the proposal story I can share with others?"
+title: "What do you say when you don't want to share your proposal story?"
 slug: engaged-but-not-with-the
 category: "planning-timeline"
 excerpt: "It’s completely okay to keep the details of your proposal private, and you can still create a memorable wedding narrative that honors your love."

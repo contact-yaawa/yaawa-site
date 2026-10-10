@@ -1,5 +1,5 @@
 ---
-title: "When did people buy from your registry?"
+title: "When do guests usually buy from the wedding registry?"
 slug: when-did-people-buy-from
 category: "gifts"
 excerpt: "Most guests purchase from a wedding registry between the time they receive the invitation and the wedding day, with a noticeable spike right after they RSVP and another surge in the week leading up to the ceremony."
@@ -121,8 +121,4 @@ Standard shipping for most registry items takes 5‑7 business days within the U
 Absolutely! Registries are guides, not mandates. If you know the couple loves a specific brand, experience, or handcrafted item, a thoughtful non‑registry gift can be more meaningful. Just be sure to include a brief note mentioning the registry (if you have one) so the couple can easily track it for thank‑you cards.  
 
 **What should I do if I’m unsure about the couple’s style or needs?**  
-Reach out to a close family member or the couple’s wedding planner for subtle hints. Many couples also list “cash funds” for honeymoon, home down‑payment, or charitable donations—these options are perfect when you’re uncertain about specific items.  
-
----  
-
-By understanding the typical timeline of registry purchases and communicating clearly with your guests, you can help ensure that gifts arrive when they’re most useful, reduce stress for both sides, and create a smoother, more enjoyable wedding experience. Happy planning!
+Reach out to a close family member or the couple’s wedding planner for subtle hints. Many couples also list “cash funds” for honeymoon, home down‑payment, or charitable donations—these options are perfect when you’re uncertain about specific items.

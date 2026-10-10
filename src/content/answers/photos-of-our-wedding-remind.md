@@ -1,5 +1,5 @@
 ---
-title: "Photos of our wedding remind me how horrible parts were?"
+title: "What if your wedding photos remind you of the bad parts of the day?"
 slug: photos-of-our-wedding-remind
 category: "vendors"
 excerpt: "Seeing wedding photos that trigger painful memories is normal, but you don’t have to relive the whole day."

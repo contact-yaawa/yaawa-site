@@ -1,5 +1,5 @@
 ---
-title: "Can I find a specific dress within my budget?"
+title: "How do you find a specific wedding dress within your budget?"
 slug: budget-dress-shopping
 category: "fashion"
 excerpt: "Yes—you can absolutely find a specific wedding dress that fits your style and budget, but it takes research, flexibility, and strategic planning."

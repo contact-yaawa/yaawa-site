@@ -1,5 +1,5 @@
 ---
-title: "($200) Low Stim Table Activities?"
+title: "What are good low-stimulation table activities for a wedding reception?"
 slug: 200-low-stim-table-activities
 category: "planning-timeline"
 excerpt: "Low‑stim table activities are inexpensive, sensory‑friendly ways to keep guests entertained without overwhelming them."

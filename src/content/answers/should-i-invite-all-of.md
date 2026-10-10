@@ -1,5 +1,5 @@
 ---
-title: "Should I invite all of my cousins, none of them, or only the ones I like?"
+title: "Should you invite all of your cousins to your wedding?"
 slug: should-i-invite-all-of
 category: "guest-list"
 excerpt: "Deciding whether to invite all, none, or only the cousins you’re close to depends on your overall guest‑list budget, family dynamics, and the kind of wedding experience you want."
@@ -130,8 +130,4 @@ If the cost of adding a few more guests is minimal and you have the space, invit
 Absolutely. Many couples use digital invitations for extended family to save on postage and printing costs, while reserving formal paper invites for close family and the bridal party. Just ensure the tone remains warm and the information (date, venue, RSVP details) is clear, regardless of the format.  
 
 **What if I’m unsure whether a cousin counts as “close enough” to invite?**  
-Create a simple rating system: 1 = frequent contact, 2 = occasional contact, 3 = rare contact. Set a cutoff—say, only rating 1 qualifies for an invitation. This objective method can ease guilt and provide a clear rationale you can share with family if needed.  
-
----  
-
-Choosing whether to invite all, none, or only the cousins you like is a balancing act between love, logistics, and legacy. By establishing firm numbers, communicating openly with parents, and extending kindness to those you can’t accommodate, you protect both your wedding vision and your family relationships. Happy planning!
+Create a simple rating system: 1 = frequent contact, 2 = occasional contact, 3 = rare contact. Set a cutoff—say, only rating 1 qualifies for an invitation. This objective method can ease guilt and provide a clear rationale you can share with family if needed.

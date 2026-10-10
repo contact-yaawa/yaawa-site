@@ -1,7 +1,7 @@
 ---
-title: "Are Weddings Worth It? Honest Pros and Cons"
+title: "Are weddings worth it? Honest pros and cons"
 slug: honest-opinions-wedding
-category: "fashion"
+category: "budget"
 excerpt: "An honest look at wedding pros and cons, from family meaning and memories to cost, stress, expectations, and planning pressure."
 created: 2026-06-20
 updated: 2026-06-20

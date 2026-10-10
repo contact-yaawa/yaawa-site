@@ -1,5 +1,5 @@
 ---
-title: "Wedding for $5k in the midwest?"
+title: "Can you have a wedding for $5K in the Midwest?"
 slug: wedding-for-5k-in-the
 category: "budget"
 excerpt: "Yes – a beautiful wedding for $5,000 is doable in the Midwest if you focus on a few key cost‑savvy strategies: pick a low‑price venue (often a public park or a family home), limit the guest list, prioritize DIY décor and food, and tap into local vendor discounts."
