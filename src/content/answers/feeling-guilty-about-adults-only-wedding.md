@@ -1,5 +1,5 @@
 ---
-title: "Feeling Guilty About Adults-Only Wedding?"
+title: "Should you feel guilty about having an adults-only wedding?"
 slug: feeling-guilty-about-adults-only-wedding
 category: "etiquette"
 excerpt: "Feeling guilty about an adults‑only wedding is natural, but you’re not obligated to invite every family member or friend."

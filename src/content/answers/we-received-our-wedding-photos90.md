@@ -1,5 +1,5 @@
 ---
-title: "We received our wedding photos—90% of which are lovely—but *all* the family photos are blown out. How to handle?"
+title: "What should you do if your family wedding photos are overexposed?"
 slug: we-received-our-wedding-photos90
 category: "vendors"
 excerpt: "If the family photos are over‑exposed (“blown out”), first talk to your photographer about a redo or a professional rescue edit."

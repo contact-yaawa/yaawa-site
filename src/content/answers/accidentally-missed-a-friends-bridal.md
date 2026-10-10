@@ -1,5 +1,5 @@
 ---
-title: "Accidentally missed a friends bridal shower?"
+title: "What should you do if you accidentally missed a friend's bridal shower?"
 slug: accidentally-missed-a-friends-bridal
 category: "etiquette"
 excerpt: "If you accidentally missed a friend’s bridal shower, reach out immediately with a sincere apology, send a thoughtful gift (or a “late” one), and let the bride know you’re still excited to celebrate her big day."

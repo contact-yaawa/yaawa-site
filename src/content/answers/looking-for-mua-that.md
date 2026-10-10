@@ -1,5 +1,5 @@
 ---
-title: "Looking for MUA that does alternative style in Los Angeles?"
+title: "How do you find an alternative-style wedding makeup artist in Los Angeles?"
 slug: looking-for-mua-that
 category: "vendors"
 excerpt: "Finding a Los Angeles makeup artist (MUA) who specializes in alternative wedding looks is entirely doable—just start by researching portfolios that showcase edgy, avant‑garde, or non‑traditional styles, reach out for consultations, and check reviews from other alternative‑bride couples."

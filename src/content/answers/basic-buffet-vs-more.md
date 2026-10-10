@@ -1,5 +1,5 @@
 ---
-title: "Basic buffet vs more of an upgrade?"
+title: "Should you choose a basic wedding buffet or upgrade the menu?"
 slug: basic-buffet-vs-more
 category: "budget"
 excerpt: "A basic buffet can be a smart, budget‑friendly choice that still delights guests, but an upgraded menu adds wow factor, flexibility, and can better match a themed or upscale wedding."

@@ -1,5 +1,5 @@
 ---
-title: "how is everyone affording their wedding?"
+title: "How do couples afford their weddings?"
 slug: how-is-everyone-affording-their
 category: "budget"
 excerpt: "Couples afford their weddings by blending smart budgeting, strategic savings, and creative funding sources—think a mix of early‑stage savings plans, selective spending, help from family, and occasionally modest credit."

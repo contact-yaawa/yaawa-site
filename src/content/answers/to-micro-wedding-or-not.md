@@ -1,5 +1,5 @@
 ---
-title: "To micro wedding or not..?"
+title: "Should you have a micro wedding?"
 slug: to-micro-wedding-or-not
 category: "guest-list"
 excerpt: "A micro wedding can be a magical way to celebrate your love with the people who matter most, but it isn’t the right fit for every couple."
@@ -98,8 +98,4 @@ Yes. A smaller cake can actually be a design advantage—it allows for intricate
 Legal requirements vary by state or country. Most U.S. states require at least two witnesses, but many officiants will bring their own or count guests as witnesses. Confirm the local regulations early to avoid any last‑minute issues.
 
 **What technology can I use to include guests who can’t attend in person?**  
-High‑definition livestream platforms (YouTube Live, Vimeo, or specialized wedding streaming services) are popular. Pair the stream with a real‑time chat or a virtual “guest book” where remote attendees can leave messages. For an extra touch, consider a “virtual table” where guests receive a small welcome kit mailed ahead of time.  
-
----  
-
-Choosing whether to go micro is a deeply personal decision, but by weighing these factors, you can design a celebration that feels true to you, respects your loved ones, and stays within your means. Whatever you decide, remember that the day’s magic comes from the love you share—not the number of chairs around the table. Happy planning!
+High‑definition livestream platforms (YouTube Live, Vimeo, or specialized wedding streaming services) are popular. Pair the stream with a real‑time chat or a virtual “guest book” where remote attendees can leave messages. For an extra touch, consider a “virtual table” where guests receive a small welcome kit mailed ahead of time.

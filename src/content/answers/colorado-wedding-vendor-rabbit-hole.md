@@ -1,5 +1,5 @@
 ---
-title: "Colorado wedding vendor rabbit hole, spreadsheet linked?"
+title: "How do you organize your search for Colorado wedding vendors?"
 slug: colorado-wedding-vendor-rabbit-hole
 category: "vendors"
 excerpt: "Finding Colorado wedding vendors can feel like falling down a rabbit hole, but a well‑structured spreadsheet can keep you grounded."

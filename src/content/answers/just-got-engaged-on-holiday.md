@@ -1,5 +1,5 @@
 ---
-title: "Just got engaged on holiday! How did you tell your friends/family?"
+title: "How should you tell friends and family you got engaged on vacation?"
 slug: just-got-engaged-on-holiday
 category: "planning-timeline"
 excerpt: "Tell your friends and family in a way that feels true to you—whether that’s a surprise photo from the beach, a quick phone call, or a relaxed dinner back home."

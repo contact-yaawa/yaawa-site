@@ -1,5 +1,5 @@
 ---
-title: "Trying to decide on wedding cake without breaking the bank?"
+title: "How do you choose a wedding cake without overspending?"
 slug: trying-to-decide-on-wedding
 category: "budget"
 excerpt: "Choosing a wedding cake that looks and tastes great without draining your budget is absolutely doable."

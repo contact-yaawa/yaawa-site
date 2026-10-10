@@ -105,8 +105,4 @@ Absolutely. High‑resolution files give you flexibility for large prints, canva
 Ideally, 9–12 months before the wedding, especially if you’re planning a popular date or a destination venue. Early booking secures your preferred photographer and often locks in a lower rate.
 
 **What should I do on the wedding day to help the photographer capture the best images?**  
-Communicate your timeline clearly, keep an eye on lighting (avoid harsh midday sun if possible), and trust the photographer’s direction. Relax, be yourself, and allow natural moments to unfold; the photographer will guide you through poses when needed.  
-
----  
-
-By treating professional photography as an essential investment rather than an optional add‑on, you’ll safeguard the most priceless part of your wedding—the memories that live on long after the last dance. Remember, a well‑captured image can turn a fleeting smile into a timeless keepsake, making it the most worthwhile expense you almost skipped.
+Communicate your timeline clearly, keep an eye on lighting (avoid harsh midday sun if possible), and trust the photographer’s direction. Relax, be yourself, and allow natural moments to unfold; the photographer will guide you through poses when needed.

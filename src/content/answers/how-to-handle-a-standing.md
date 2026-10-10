@@ -1,5 +1,5 @@
 ---
-title: "How to handle a standing only wedding when i struggle to stand for long periods of time?"
+title: "How do you handle a standing-only ceremony if you can't stand for long?"
 slug: how-to-handle-a-standing
 category: "ceremony"
 excerpt: "If you’re planning a standing‑only wedding but have difficulty standing for long stretches, you can still create a comfortable, elegant ceremony by incorporating subtle seating options, planning strategic breaks, and communicating your needs with vendors and guests."

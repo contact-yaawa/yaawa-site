@@ -1,5 +1,5 @@
 ---
-title: "Do I suck for choosing the same wedding dress as my coworker?"
+title: "Is it okay to choose the same wedding dress as a coworker?"
 slug: do-i-suck-for-choosing
 category: "fashion"
 excerpt: "Choosing the same wedding dress as a coworker doesn’t make you a “sucker,” but it does raise a few practical and emotional considerations."
@@ -26,7 +26,7 @@ recommendation: "If the dress truly makes you feel beautiful, go ahead and claim
 The idea that a wedding dress must be completely unique is a relatively modern myth, fueled by Hollywood glamour and the wedding industry’s marketing of “designer exclusivity.” Historically, brides often wore dresses that were passed down through families or purchased from local seamstresses, and many of those gowns looked remarkably similar. The anxiety today stems less from actual duplication and more from the cultural narrative that a bride’s dress is a personal, once‑in‑a‑lifetime statement piece. When you discover a coworker wearing the same dress, it can feel like your individuality is being compromised, even if the dress is still a perfect fit for you.
 
 ### How common is it, really?  
-The bridal market is surprisingly concentrated. In the United States, the top three bridal designers account for roughly 60 % of sales, meaning many brides end up choosing from a relatively small pool of styles. A 2022 survey by The Knot found that 22 % of brides reported seeing another bride in a similar dress within the last five years. So, you’re far from alone—your coworker is simply part of a broader pattern of shared styles.
+The bridal market is surprisingly concentrated. In the United States, the top three bridal designers account for roughly 60 % of sales, meaning many brides end up choosing from a relatively small pool of styles. So, you’re far from alone—your coworker is simply part of a broader pattern of shared styles.
 
 ### Practical benefits of a popular dress  
 When a dress is in demand, manufacturers often keep more inventory on hand, which can translate to faster shipping and easier access to matching accessories (veil, shoes, jewelry). Additionally, popular silhouettes—think A‑line with a sweetheart neckline or a simple mermaid cut—have been tried and tested on a wide range of body types. That means you’ll likely find plenty of online reviews, alteration tips, and even second‑hand options if you ever need a backup. From a budgeting standpoint, a dress that is widely available may also be more likely to have promotional discounts or seasonal sales.

@@ -1,5 +1,5 @@
 ---
-title: "Is this too dressy for an engagement photoshoot?"
+title: "How dressy should you be for an engagement photoshoot?"
 slug: engagement-photoshoot-dress-code
 category: "fashion"
 excerpt: "Choosing an outfit for your engagement photoshoot is a personal decision, and it's important to strike a balance between looking your best and feeling comfortable."

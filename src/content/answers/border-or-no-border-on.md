@@ -1,5 +1,5 @@
 ---
-title: "Border or no border on veil swallows?"
+title: "Should your wedding veil have a border?"
 slug: border-or-no-border-on
 category: "fashion"
 excerpt: "Choosing a border for your veil’s swallows (the decorative “tails” that cascade down) is a personal style decision."

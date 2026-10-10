@@ -1,5 +1,5 @@
 ---
-title: "Size 5-5.5 ladies oval solitaire 🔔 Help me!?"
+title: "How does an oval solitaire look on a size 5 finger?"
 slug: size-5-55-ladies-oval-solitaire
 category: "fashion"
 excerpt: "If you wear a size 5–5.5, an oval solitaire engagement ring will look elegant and elongating on your finger, but you’ll need to confirm the exact size, consider setting style, and think about comfort for daily wear."

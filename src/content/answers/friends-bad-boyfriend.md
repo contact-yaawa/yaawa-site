@@ -1,5 +1,5 @@
 ---
-title: "Friends bad boyfriend??"
+title: "Do you have to invite a friend's boyfriend you don't like to your wedding?"
 slug: friends-bad-boyfriend
 category: "guest-list"
 excerpt: "If a close friend’s boyfriend is likely to cause drama or make you or other guests uncomfortable, it’s okay to ask the friend to attend without him or to set clear expectations about behavior."
@@ -118,8 +118,4 @@ Stay calm. Have a trusted friend or coordinator discreetly approach the couple, 
 If the friend is comfortable, offering an alternative plus‑one can be a diplomatic solution. It signals you still want them fully included while steering clear of the problematic partner.  
 
 **Should I involve my parents or the wedding party in this conversation?**  
-Only if you feel they can provide constructive support without escalating the issue. Generally, keep the discussion between you and the friend to maintain privacy and avoid turning it into a family feud.  
-
----  
-
-Navigating the delicate balance between honoring friendships and protecting the harmony of your wedding day can feel overwhelming. By approaching the conversation early, speaking with empathy, and planning practical safeguards, you can keep the focus on love, celebration, and the memories you’ll cherish for a lifetime. Remember: a thoughtful, honest dialogue today will help ensure that your wedding remains the joyful, drama‑free milestone you both envisioned.
+Only if you feel they can provide constructive support without escalating the issue. Generally, keep the discussion between you and the friend to maintain privacy and avoid turning it into a family feud.

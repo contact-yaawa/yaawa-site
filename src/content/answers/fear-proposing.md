@@ -1,7 +1,7 @@
 ---
 title: "Is it normal to fear proposing?"
 slug: fear-proposing
-category: "budget"
+category: "planning-timeline"
 excerpt: "Yes, it’s completely normal to feel fear or anxiety when you’re about to propose."
 created: 2026-08-08
 updated: 2026-08-08

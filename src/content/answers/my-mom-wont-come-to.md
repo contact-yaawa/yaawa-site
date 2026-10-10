@@ -1,5 +1,5 @@
 ---
-title: "My mom won’t come to my wedding shower?"
+title: "What should you do if your mom won't come to your bridal shower?"
 slug: my-mom-wont-come-to
 category: "family-issues"
 excerpt: "It’s painful when a mother can’t attend your bridal shower, but the situation can often be resolved—or at least softened—through clear communication, empathy, and a few creative compromises."

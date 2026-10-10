@@ -23,7 +23,7 @@ recommendation: "Start by listing the three moments that matter most to you—ho
 
 ## Detailed Explanation
 ### 1. Why “Wedding Style” Matters  
-The term “wedding style” is more than a visual hashtag; it’s a framework that influences every decision from venue selection to the color palette, music, and even the flow of the day. Search engines love clear, specific language, so terms like *traditional wedding*, *rustic barn wedding*, *modern minimalist ceremony*, and *destination beach wedding* are valuable for couples who type those phrases into Google. By defining a style early, you give yourself a reference point that keeps the planning process organized and reduces the overwhelm of endless options.
+The term “wedding style” is more than a visual hashtag; it’s a framework that influences every decision from venue selection to the color palette, music, and even the flow of the day. By defining a style early, you give yourself a reference point that keeps the planning process organized and reduces the overwhelm of endless options.
 
 ### 2. Classic Styles and What They Offer  
 
@@ -93,7 +93,7 @@ If you have cultural traditions, they can become the cornerstone of your wedding
 
 ### 8. The “Best” Style Is the One That Serves You  
 
-SEO‑wise, couples often search for “best wedding style for small wedding,” “budget‑friendly rustic wedding,” or “modern wedding ideas.” The answer lies in aligning the style with the size of the guest list, the amount you’re comfortable spending, and the story you want to tell. A 50‑person micro‑wedding might thrive in an intimate garden with a bohemian vibe, while a 300‑guest celebration could benefit from a classic ballroom’s grandeur. The “best” style is therefore situational, not universal.
+The answer lies in aligning the style with the size of the guest list, the amount you’re comfortable spending, and the story you want to tell. A 50‑person micro‑wedding might thrive in an intimate garden with a bohemian vibe, while a 300‑guest celebration could benefit from a classic ballroom’s grandeur. The “best” style is therefore situational, not universal.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rental faux floral companies?"
+title: "Should you rent faux flowers for your wedding?"
 slug: rental-faux-floral-companies
 category: "vendors"
 excerpt: "Yes—rental faux floral companies can be a smart choice for many couples who want stunning, low‑maintenance wedding décor without the price tag or seasonal limitations of fresh flowers."

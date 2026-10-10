@@ -1,5 +1,5 @@
 ---
-title: "Drama?"
+title: "How do you handle family drama during wedding planning?"
 slug: drama
 category: "family-issues"
 excerpt: "Family drama is common during wedding planning, but it doesn’t have to derail your big day."
@@ -104,8 +104,4 @@ Absolutely. Investing in a neutral professional can prevent small sparks from be
 Approach the conversation as a collaborative problem‑solver. Ask open‑ended questions: *“What does this tradition mean to you?”* and *“How can we honor its spirit while staying true to our values?”* Often, you can adapt the ritual—perhaps by incorporating a symbolic gesture that satisfies both sides. If adaptation isn’t possible, kindly explain your boundaries and suggest an alternative way to celebrate that tradition at another time (e.g., a post‑wedding gathering).
 
 **Can I still have a “family‑first” wedding if drama keeps popping up?**  
-Yes. A family‑first wedding doesn’t mean you must accommodate every request; it means you prioritize love, respect, and inclusion while safeguarding your own vision. By setting clear expectations early, staying consistent, and showing genuine appreciation for each family’s role, you create an environment where drama is minimized and the focus remains on the union you’re celebrating.  
-
----  
-
-Navigating family drama during wedding planning is challenging, but with intentional communication, firm boundaries, and a united front as a couple, you can transform potential conflict into an opportunity for growth. Keep your love story at the center, and let the rest fall into place. Happy planning!
+Yes. A family‑first wedding doesn’t mean you must accommodate every request; it means you prioritize love, respect, and inclusion while safeguarding your own vision. By setting clear expectations early, staying consistent, and showing genuine appreciation for each family’s role, you create an environment where drama is minimized and the focus remains on the union you’re celebrating.

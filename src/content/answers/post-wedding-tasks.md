@@ -1,7 +1,7 @@
 ---
 title: "What are essential post-wedding tasks?"
 slug: post-wedding-tasks
-category: "vendors"
+category: "planning-timeline"
 excerpt: "After the wedding, couples often have a long list of tasks to complete, from thanking vendors and sending thank-you notes to managing post-wedding finances."
 created: 2026-09-03
 updated: 2026-09-03

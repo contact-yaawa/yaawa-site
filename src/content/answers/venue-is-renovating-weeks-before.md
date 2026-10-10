@@ -1,5 +1,5 @@
 ---
-title: "Venue is renovating weeks before our event...and its ugly?"
+title: "What can you do if your venue starts renovating weeks before your wedding?"
 slug: venue-is-renovating-weeks-before
 category: "venues"
 excerpt: "If your chosen venue is still under renovation a few weeks before your wedding and looks far from picture‑perfect, you still have options."

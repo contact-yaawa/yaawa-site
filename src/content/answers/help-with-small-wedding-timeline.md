@@ -1,5 +1,5 @@
 ---
-title: "Help with small wedding timeline (2 locations)?"
+title: "How do you plan a small wedding timeline across two locations?"
 slug: help-with-small-wedding-timeline
 category: "planning-timeline"
 excerpt: "For a small wedding that moves between two locations, keep the timeline tight but flexible: start with a brief ceremony at the first venue, allow 30‑45 minutes for photos, then allocate 30 minutes for guests to travel, and finish with a relaxed reception at the second venue."

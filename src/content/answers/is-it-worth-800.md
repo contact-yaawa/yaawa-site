@@ -1,5 +1,5 @@
 ---
-title: "Is It Worth $800 to Hem My Dress?"
+title: "Is it worth paying $800 to hem a wedding dress?"
 slug: is-it-worth-800
 category: "fashion"
 excerpt: "If your wedding dress is already the perfect style and silhouette, spending $800 to hem it can be worth it for a flawless, runway‑ready look on your big day."

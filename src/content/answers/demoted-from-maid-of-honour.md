@@ -1,5 +1,5 @@
 ---
-title: "Demoted from Maid of Honour — how do I tactfully drop out of the wedding?"
+title: "How do you tactfully drop out of a wedding after being demoted from maid of honour?"
 slug: demoted-from-maid-of-honour
 category: "etiquette"
 excerpt: "If you’ve been demoted from maid of honour, the kindest way to step away is to have an honest, private conversation with the bride as soon as possible."

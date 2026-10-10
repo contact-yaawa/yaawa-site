@@ -1,5 +1,5 @@
 ---
-title: "Wedding Officiant Issue?"
+title: "What should you do if you can't find the right wedding officiant?"
 slug: wedding-officiant-issue
 category: "ceremony"
 excerpt: "If you’re having trouble securing the right wedding officiant, start by clarifying your ceremony goals, checking legal requirements in your jurisdiction, and expanding your search to include both traditional and non‑traditional options."

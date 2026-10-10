@@ -1,5 +1,5 @@
 ---
-title: "Engagement ceremony’s dais decorations?"
+title: "How do you decorate the dais for an engagement ceremony?"
 slug: engagement-ceremonys-dais-decorations
 category: "vendors"
 excerpt: "A beautifully decorated dais sets the tone for your engagement ceremony, creating a focal point that highlights the couple and reflects your style."

@@ -1,5 +1,5 @@
 ---
-title: "Will guests use specific wedding items?"
+title: "Will guests wear the accessories you suggest for your wedding?"
 slug: guests-use-wedding-items
 category: "fashion"
 excerpt: "Most guests will wear the clothing items you suggest—especially if you provide clear guidance and make the items practical for the venue, season, and dress code."
@@ -114,8 +114,4 @@ Inviting guests to incorporate a **family heirloom** (such as a brooch or tie) c
 Update your guests promptly via your wedding website, email, or a group messaging app. A brief note like, “We’ve received an updated forecast predicting cooler temps—feel free to bring a light coat or sweater,” shows you’re proactive and caring. Providing a **real‑time weather widget** on your site can also help guests make last‑minute decisions without feeling caught off guard.
 
 **Do we need to enforce the dress code at the door?**  
-Enforcement should be gentle and low‑key. A designated **welcome host** can discreetly offer a shawl or coat to guests who appear uncomfortable, rather than policing outfits. Remember that the celebration’s spirit is about joy and togetherness; a strict gatekeeping approach can create tension and detract from the festive atmosphere.  
-
----  
-
-By thoughtfully balancing clear, practical recommendations with flexibility and empathy, you’ll guide your guests toward attire that keeps them comfortable, aligns with your wedding’s aesthetic, and respects individual style. This approach not only enhances the visual harmony of your big day but also leaves guests feeling valued and confident—an essential ingredient for any unforgettable celebration.
+Enforcement should be gentle and low‑key. A designated **welcome host** can discreetly offer a shawl or coat to guests who appear uncomfortable, rather than policing outfits. Remember that the celebration’s spirit is about joy and togetherness; a strict gatekeeping approach can create tension and detract from the festive atmosphere.

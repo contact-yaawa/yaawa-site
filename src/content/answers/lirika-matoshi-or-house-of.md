@@ -1,5 +1,5 @@
 ---
-title: "Lirika Matoshi or House of CB dress?"
+title: "Should you choose a Lirika Matoshi or a House of CB dress?"
 slug: lirika-matoshi-or-house-of
 category: "fashion"
 excerpt: "Both Lirika Matoshi and House of CB create stunning, body‑conscious gowns that can make a bridal look feel modern and confident."

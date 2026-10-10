@@ -1,5 +1,5 @@
 ---
-title: "For everyone who didn’t have a bachelorette, did you regret it?"
+title: "Do brides regret skipping a bachelorette party?"
 slug: for-everyone-who-didnt-have
 category: "etiquette"
 excerpt: "Skipping a bachelorette party isn’t automatically a cause for regret; many couples feel perfectly content without one, while others later wish they’d celebrated that tradition."
@@ -25,7 +25,7 @@ recommendation: "If you’re unsure whether to have a bachelorette, talk openly 
 The bachelorette party, also known as a “hen night,” has become a staple of modern wedding culture, but it is not a mandatory rite of passage. Its origins lie in ancient fertility rites and later evolved into a celebration of a woman’s transition from single life to marriage. In today’s diverse society, the meaning and execution of a bachelorette vary widely—some view it as a night of carefree revelry, others as a chance for intimate bonding, and still others see it as an outdated tradition that doesn’t match their personalities.
 
 ### Why Some Couples Skip the Bachelorette  
-**Financial considerations** are often at the forefront. A full‑blown weekend in a city, complete with travel, accommodation, and high‑end activities, can quickly drain a wedding budget. According to a 2023 survey by The Knot, nearly 30 % of couples reported cutting back on pre‑wedding events to allocate more funds toward the ceremony or honeymoon. If you’ve already invested heavily in venues, attire, and vendors, the extra expense of a bachelorette can feel unnecessary.
+**Financial considerations** are often at the forefront. A full‑blown weekend in a city, complete with travel, accommodation, and high‑end activities, can quickly drain a wedding budget. If you’ve already invested heavily in venues, attire, and vendors, the extra expense of a bachelorette can feel unnecessary.
 
 **Timing and stress** also play a role. The months leading up to a wedding are notoriously hectic—finalizing guest lists, confirming timelines, and handling RSVPs can consume every spare hour. Organizing a bachelorette party adds another layer of coordination, especially if the bride’s friends are spread across the country or have conflicting work schedules. For couples who thrive on structure and low‑stress planning, eliminating the bachelorette can be a welcome simplification.
 

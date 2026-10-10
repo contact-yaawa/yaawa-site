@@ -1,5 +1,5 @@
 ---
-title: "3 days out and it finally feels real?"
+title: "What should you do three days before your wedding?"
 slug: 3-days-out-and-it
 category: "planning-timeline"
 excerpt: "Three days out, the excitement is real and the to‑do list can feel overwhelming."
@@ -26,8 +26,6 @@ recommendation: "Set aside a dedicated “final‑week” block of time—ideall
 ## Detailed Explanation
 ### 1. Why the Three‑Day Mark Is a Turning Point  
 When the wedding is just three days away, the abstract idea of “getting married” becomes concrete. Psychologically, the brain shifts from long‑term planning to short‑term execution. That’s why many couples experience a mix of exhilaration and nerves. Understanding this mental shift helps you channel the adrenaline into focused action instead of frantic scrambling.
-
-From an SEO perspective, people searching for “what to do three days before wedding” or “last minute wedding checklist” are often looking for concise, actionable steps. By breaking the remaining tasks into categories—vendors, timeline, personal preparation, and contingency—you’ll address the most common concerns and rank well for those queries.
 
 ### 2. The Core Checklist: What Absolutely Must Be Done  
 

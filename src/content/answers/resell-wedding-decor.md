@@ -95,8 +95,4 @@ Use natural light, a neutral background, and a high‑resolution camera or smart
 Yes, but be transparent that the item was originally a rental. Some rental companies have policies prohibiting resale, so verify your agreement first. If the piece is a standard, non‑branded item (e.g., a generic wooden chair), you can list it without issue. For branded rentals, consider donating or returning them to avoid potential penalties.
 
 **Should I include shipping costs in the price or list them separately?**  
-Both methods work, but many buyers prefer “free shipping” because it simplifies the decision‑making process. If you choose free shipping, factor the cost into your asking price. Alternatively, list the item price alone and add calculated shipping at checkout; this can make the base price appear more attractive, especially for bulk buyers.  
-
----  
-
-By evaluating the size, style, and condition of your wedding décor, and by leveraging a mix of online marketplaces, local consignment options, and community‑driven events, you can turn those cherished pieces into cash, reduce waste, and help another couple create their perfect celebration. Happy reselling!
+Both methods work, but many buyers prefer “free shipping” because it simplifies the decision‑making process. If you choose free shipping, factor the cost into your asking price. Alternatively, list the item price alone and add calculated shipping at checkout; this can make the base price appear more attractive, especially for bulk buyers.

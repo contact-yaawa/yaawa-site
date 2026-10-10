@@ -1,5 +1,5 @@
 ---
-title: "is it possible to have a wedding under 10k (>10k?"
+title: "Is it possible to have a wedding for under $10K?"
 slug: is-it-possible-to-have
 category: "budget"
 excerpt: "Yes, a beautiful, memorable wedding can absolutely be planned for under $10,000 (or even well below that) if you approach the budget strategically, prioritize what matters most to you, and are willing to get creative with venue, décor, and vendor choices."

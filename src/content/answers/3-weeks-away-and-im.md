@@ -1,5 +1,5 @@
 ---
-title: "3 weeks away and I'm crashing out HARD. Anyone else??"
+title: "Is it normal to feel overwhelmed three weeks before your wedding?"
 slug: 3-weeks-away-and-im
 category: "planning-timeline"
 excerpt: "Yes, feeling overwhelmed three weeks out is completely normal—most couples hit a panic point at this stage."
@@ -21,10 +21,10 @@ recommendation: "Create a three‑week “crash‑course” master list, break i
 
 ## Detailed Explanation
 ### 1. Acknowledge the “Three‑Week Panic” Phenomenon  
-It’s not a myth—research shows that 68 % of couples report a spike in stress during the final month of planning. The combination of ticking clocks, family expectations, and the desire for perfection creates a perfect storm. Recognizing that this feeling is common helps you stop blaming yourself and start solving the problem.
+The combination of ticking clocks, family expectations, and the desire for perfection creates a perfect storm. Recognizing that this feeling is common helps you stop blaming yourself and start solving the problem.
 
 ### 2. Reset Your Mindset: From “Crisis” to “Countdown”  
-Instead of viewing the next three weeks as a deadline you’re trying to survive, reframe it as a countdown to celebration. Use language that energizes you: “Day 1 of my final‑prep sprint” rather than “Day 1 of wedding chaos.” Positive framing reduces cortisol (the stress hormone) and improves focus, according to a 2022 study from the Journal of Positive Psychology.
+Instead of viewing the next three weeks as a deadline you’re trying to survive, reframe it as a countdown to celebration. Use language that energizes you: “Day 1 of my final‑prep sprint” rather than “Day 1 of wedding chaos.”
 
 ### 3. Build a Master Timeline – The “Big‑Picture” Checklist  
 Start with a single spreadsheet or printable checklist that captures every task still pending. Divide the list into three categories:

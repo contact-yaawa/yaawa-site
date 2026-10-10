@@ -1,5 +1,5 @@
 ---
-title: "Ph.D. Student & Bride-to-Be: What questions should I ask before agreeing to be a bridesmaid?"
+title: "What should you ask before agreeing to be a bridesmaid?"
 slug: phd-student-and-bride-to-be-what
 category: "etiquette"
 excerpt: "Before saying “yes” to a bridesmaid role, ask about the timeline, financial expectations, your specific duties, and how the bridal party plans to handle any conflicts with your academic schedule."

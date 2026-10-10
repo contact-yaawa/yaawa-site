@@ -1,5 +1,5 @@
 ---
-title: "Wedding Venues Near Shenandoah Valley?"
+title: "What are good wedding venues in the Shenandoah Valley?"
 slug: wedding-venues-near-shenandoah
 category: "venues"
 excerpt: "Yes—there are beautiful wedding venues in the Shenandoah Valley that can host a memorable celebration for under $10,000."

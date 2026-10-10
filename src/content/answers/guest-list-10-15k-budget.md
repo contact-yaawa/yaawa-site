@@ -1,6 +1,6 @@
 ---
-title: "($10-$15K) Guest List Help?"
-slug: 10-15k-guest-list-help
+title: "How do you build a guest list for a $10–15K wedding?"
+slug: guest-list-10-15k-budget
 category: "guest-list"
 excerpt: "Yes – you can build a beautiful wedding within a $10‑15K budget by carefully curating your guest list, prioritising intimate venues, and making strategic trade‑offs on food, décor and entertainment."
 created: 2026-08-30
@@ -122,8 +122,4 @@ Absolutely. A simple, single‑tier cake from a local bakery can cost $150‑$30
 When faced with a per‑person catering model, calculate the exact cost before finalising the guest list. If the venue charges $40 per head for food and you’re targeting $85 per guest total, you’ll have $45 left for drinks, décor, and other expenses. In such cases, you may need to trim the guest list or look for a venue with a flat‑rate rental to keep numbers flexible.
 
 **Is it okay to invite children for free?**  
-Yes, many couples include children in the Must‑Invite tier at no extra cost, especially when they’re grandchildren or close family. However, remember that each child still adds to the per‑person cost for food and seating. If your budget is tight, you might set a limit (e.g., “children under 12 are welcome, but no extra seat required”) or ask families to bring a small, pre‑packed snack for younger kids.  
-
----  
-
-By thoughtfully categorising your guests, setting a clear per‑person cost, and employing creative cost‑saving measures, you can craft a wedding that feels both intimate and celebratory—all while staying comfortably inside a $10‑15K budget. Happy planning!
+Yes, many couples include children in the Must‑Invite tier at no extra cost, especially when they’re grandchildren or close family. However, remember that each child still adds to the per‑person cost for food and seating. If your budget is tight, you might set a limit (e.g., “children under 12 are welcome, but no extra seat required”) or ask families to bring a small, pre‑packed snack for younger kids.

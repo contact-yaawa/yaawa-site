@@ -1,7 +1,7 @@
 ---
 title: "What are the essential steps in wedding planning?"
 slug: wedding-planning-help
-category: "vendors"
+category: "planning-timeline"
 excerpt: "Wedding planning involves a series of essential steps to ensure your special day is both memorable and enjoyable."
 created: 2026-08-01
 updated: 2026-08-01

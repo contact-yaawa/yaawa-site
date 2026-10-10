@@ -1,5 +1,5 @@
 ---
-title: "Red veil ideas that go with dream dress?"
+title: "How do you choose a red veil to go with your wedding dress?"
 slug: red-veil-ideas-that-go
 category: "fashion"
 excerpt: "A red veil can be a stunning, unexpected accent that elevates a dream wedding dress, especially when you choose a style, fabric, and length that complement the silhouette and color palette of your gown."

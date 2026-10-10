@@ -1,5 +1,5 @@
 ---
-title: "When to dress shop?"
+title: "When should you start wedding dress shopping?"
 slug: when-to-dress-shop
 category: "fashion"
 excerpt: "The ideal time to start wedding dress shopping is 9–12 months before your ceremony, with final fittings scheduled 2–3 weeks beforehand."
@@ -115,8 +115,4 @@ You can, but it adds complexity. Ensure the dress is from a reputable designer t
 A simple, form‑fitting undergarment (strapless bra, seamless panties) and a pair of nude or flesh‑tone shoes. This allows the boutique staff to see the dress’s true silhouette without interference from bulky clothing or high heels.  
 
 **How do I handle dress shopping if my partner is nervous about the process?**  
-Invite them to a low‑stakes “preview” session where you browse dresses without trying them on. Emphasize that the dress is a personal expression of the bride’s style, and reassure them that their support matters more than their opinion on every detail.  
-
----  
-
-Planning the perfect moment to dress shop is about balancing timing, budget, and emotions. By starting 9–12 months ahead, booking thoughtful appointments, and allowing ample room for alterations, you’ll walk down the aisle feeling confident, comfortable, and truly radiant. Happy dress hunting!
+Invite them to a low‑stakes “preview” session where you browse dresses without trying them on. Emphasize that the dress is a personal expression of the bride’s style, and reassure them that their support matters more than their opinion on every detail.

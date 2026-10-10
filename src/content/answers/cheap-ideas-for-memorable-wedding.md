@@ -1,5 +1,5 @@
 ---
-title: "Cheap ideas for memorable wedding?"
+title: "What are cheap ideas for a memorable wedding?"
 slug: cheap-ideas-for-memorable-wedding
 category: "budget"
 excerpt: "Yes, you can create a truly unforgettable wedding without breaking the bank."

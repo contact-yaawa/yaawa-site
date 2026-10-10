@@ -1,5 +1,5 @@
 ---
-title: "Can I have “goofy” elements in a black tie wedding?"
+title: "Can you have goofy elements at a black-tie wedding?"
 slug: can-i-have-goofy-elements
 category: "etiquette"
 excerpt: "Yes—you can weave “goofy” touches into a black‑tie wedding, but the key is to balance humor with the formality the dress code demands."

@@ -1,5 +1,5 @@
 ---
-title: "Ladies, have you ever been (asked to be) the best woman to the groom?"
+title: "Can a woman be the groom's best woman?"
 slug: ladies-have-you-ever-been
 category: "etiquette"
 excerpt: "Yes, it’s perfectly acceptable for a groom to ask a close female friend, sister, or cousin to be his “best woman” – a role that mirrors the maid‑of‑honor but focuses on the groom’s side of the family."

@@ -27,7 +27,7 @@ recommendation: "Pick a focused set of high‑quality, theme‑aligned props—t
 ### Why Props Matter in a Wedding Photo Booth  
 A wedding photo booth is more than a backdrop; it’s a micro‑stage where guests become the stars of the night. Research in event psychology shows that interactive elements—especially those that tap into visual humor or nostalgia—lower social barriers and increase guest satisfaction scores. Props serve as visual prompts that turn a static pose into a story: a pair of oversized sunglasses can transform a shy aunt into a runway model, while a chalkboard sign with “Just Married!” invites spontaneous group shots.
 
-From an SEO standpoint, couples often search for “wedding photo booth ideas” or “best photo booth props for weddings.” By incorporating well‑chosen props, you not only satisfy those search intents but also create shareable content that can boost your wedding hashtag’s visibility. Guests love to post their booth pictures on Instagram, Pinterest, or Facebook, and when the props are distinctive, they become a talking point that spreads your wedding’s brand organically.
+Guests love to post their booth pictures on Instagram, Pinterest, or Facebook, and when the props are distinctive, they become a talking point that spreads your wedding’s brand organically.
 
 ### Matching Props to Your Wedding Theme  
 The most successful photo‑booth experiences are those where the props feel like an extension of the overall décor. Here’s how to align them:

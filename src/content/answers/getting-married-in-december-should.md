@@ -1,5 +1,5 @@
 ---
-title: "Getting married in December. Should we order wedding cards online or visit a showroom in Hyderabad?"
+title: "Should you order wedding cards online or from a showroom in Hyderabad?"
 slug: getting-married-in-december-should
 category: "vendors"
 excerpt: "If you’re getting married in December and are based in Hyderabad, both ordering wedding cards online and visiting a physical showroom have merit."
@@ -36,7 +36,7 @@ December weddings in Hyderabad are a blend of cool evenings, festive lights, and
 ### The Online Ordering Experience  
 Online invitation platforms have matured dramatically over the past few years. They now offer high‑resolution 3D mock‑ups, colour‑accurate digital proofs, and a suite of customisation tools that let you tweak fonts, layouts, and embellishments in real time. For tech‑savvy couples, this can be a fun, collaborative process—especially if you’re coordinating with family members in different cities.  
 
-SEO‑wise, search terms like “custom wedding invitation printing Hyderabad” or “online wedding card designers” will pull up vendors that specialise in fast turn‑around and bulk discounts. Many of these sites also provide bulk‑order pricing tiers, which can be a boon for larger guest lists typical of December celebrations.  
+Many of these sites also provide bulk‑order pricing tiers, which can be a boon for larger guest lists typical of December celebrations.  
 
 However, the digital environment has its blind spots. Colours that appear vibrant on a screen may print slightly muted due to the CMYK conversion process. Most reputable platforms mitigate this by sending a physical sample kit for a small fee, allowing you to compare the exact shades and paper textures before committing to the full order. If you choose this route, order the sample kit early—ideally by early November—to give yourself enough time for revisions.
 

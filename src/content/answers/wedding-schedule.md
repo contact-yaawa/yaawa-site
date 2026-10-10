@@ -94,15 +94,6 @@ These blocks form the backbone of any wedding day schedule, regardless of size o
 - **Plan for Weather** – If you have an outdoor component, have a backup plan and allocate extra minutes for moving equipment or guests indoors.  
 - **Stay Flexible** – The timeline is a guide, not a law. If a speech runs long and guests are still engaged, consider trimming the after‑party rather than forcing an early exit.
 
-### 6. SEO‑Friendly Checklist for Your Wedding Day Timeline  
-
-- **Keyword‑Rich Header:** “Comprehensive Wedding Day Schedule Template”  
-- **Meta Description (for reference):** “Learn how to craft the perfect wedding day timeline, from hair & makeup to the final send‑off. Includes buffers, vendor coordination tips, and customizable schedule examples for every wedding style.”  
-- **Internal Links:** (When publishing on YAAWA, link to related articles on “first look ideas,” “wedding day photography checklist,” and “how to choose a day‑of coordinator.”)  
-- **Alt Text for Images:** Use descriptive tags like “wedding day timeline example,” “bride getting ready schedule,” and “cocktail hour layout.”  
-
-By embedding these SEO elements naturally, your article not only serves couples seeking guidance but also ranks well in search results, helping more people find reliable advice.
-
 ## Common Scenarios
 - **Scenario 1: The Late‑Arriving Groom** – If the groom’s travel from a different city may cause a delay, schedule the first look later in the morning and build a 30‑minute buffer before the ceremony.  
 - **Scenario 2: A Large Family Photo Session** – With a wedding party of 20+ people, allocate an extra 30 minutes after the ceremony for a group portrait; inform the photographer in advance so they can plan lighting.  

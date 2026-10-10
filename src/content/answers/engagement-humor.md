@@ -1,7 +1,7 @@
 ---
 title: "Is joking about engagement problematic?"
 slug: engagement-humor
-category: "budget"
+category: "etiquette"
 excerpt: "Joking about engagement can be a double-edged sword."
 created: 2026-07-03
 updated: 2026-07-03

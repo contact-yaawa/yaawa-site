@@ -1,5 +1,5 @@
 ---
-title: "[wedding vendor rant] WP not mentioning me on posts and blogs?"
+title: "What can vendors do when a wedding planner doesn't credit them?"
 slug: wedding-vendor-rant-wp-not
 category: "vendors"
 excerpt: "If a wedding planner (WP) isn’t mentioning you on their blog or social‑media posts, it’s usually a mix of timing, communication, and contract details—not a personal slight."

@@ -1,5 +1,5 @@
 ---
-title: "Brewery wedding advice?"
+title: "What should you know before having a brewery wedding?"
 slug: brewery-wedding-advice
 category: "venues"
 excerpt: "A brewery can be a memorable, fun, and budget‑friendly wedding venue that blends industrial charm with craft‑beer flair."
@@ -31,8 +31,6 @@ recommendation: "If you and your partner love craft beer, value a relaxed yet st
 ## Detailed Explanation
 ### Why Breweries Are Trending as Wedding Venues  
 Over the past decade, the “industrial chic” aesthetic has moved from loft apartments to wedding venues, and breweries sit perfectly at the intersection of style and substance. Their exposed brick, high ceilings, stainless‑steel tanks, and reclaimed wood create a backdrop that feels both modern and timeless. For couples who want a venue that tells a story—perhaps you met over a pint or share a love of local hops—the brewery becomes more than a space; it becomes part of the narrative.
-
-From an SEO perspective, terms like “brewery wedding venues,” “craft beer wedding,” and “industrial wedding locations” are high‑search queries. By highlighting these keywords naturally throughout the article, couples searching for alternatives to traditional churches or ballrooms will land on this guide and find the information they need.
 
 ### Budget Considerations  
 One of the biggest draws of a brewery wedding is cost. Unlike historic mansions that charge premium rates for the building itself, many breweries offer a venue rental fee that includes tables, chairs, and basic lighting. Some even bundle the bar service, allowing you to negotiate a per‑person beer package that can be cheaper than a full‑service open bar at a hotel. However, keep an eye on hidden fees: cleaning charges, overtime rates for music after a certain hour, and extra costs for outside catering if the brewery does not provide in‑house food.

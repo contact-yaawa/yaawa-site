@@ -1,5 +1,5 @@
 ---
-title: "Advice needed! Relocating wedding + out of town guests?"
+title: "How do you relocate a wedding when you have out-of-town guests?"
 slug: advice-needed-relocating-wedding
 category: "venues"
 excerpt: "Relocating your wedding to a new town can be magical, but it requires thoughtful planning for out‑of‑town guests."

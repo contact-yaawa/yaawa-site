@@ -43,4 +43,16 @@ export const answerRedirects = {
   '/answers/lt10k-i-finished-my-dress':            '/answers/i-finished-my-dress',
   '/answers/lt10k-wedding-venues-near-shenandoah': '/answers/wedding-venues-near-shenandoah',
   '/answers/phd-student-amp-bride-to-be-what':     '/answers/phd-student-and-bride-to-be-what',
+
+  // 2026-10 content cleanup: remaining budget-flair slugs renamed, and two
+  // near-duplicate answers (the same Reddit post published twice) merged.
+  '/answers/10-15k-did-i-find-the':                '/answers/right-wedding-dress',
+  '/answers/8-10k-photographer-not-providing-sneak':'/answers/photographer-no-sneak-peeks',
+  '/answers/10-15k-guest-list-help':               '/answers/guest-list-10-15k-budget',
+  '/answers/10-15k-is-a-doc-needed':               '/answers/do-you-need-a-dj',
+  '/answers/10-15k-run-out-of-budget':             '/answers/out-of-budget-wedding-rings',
+  '/answers/6-8k-hidden-costs-60-person':          '/answers/hidden-costs-60-person-wedding',
+  '/answers/7-10k-how-did-you-do':                 '/answers/ceremony-seating-table-setup',
+  '/answers/parent-gift-design-for':               '/answers/parent-gift-design',
+  '/answers/flowers-diy-or-no':                    '/answers/flowers-diy-or-not',
 };

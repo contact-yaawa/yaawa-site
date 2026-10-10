@@ -1,5 +1,5 @@
 ---
-title: "Wedding abroad- partner not invited?"
+title: "What if your partner isn't invited to a wedding abroad?"
 slug: wedding-abroad-partner-not-invited
 category: "guest-list"
 excerpt: "If you’re planning a wedding abroad and your partner’s family members are not on the guest list, it’s a delicate situation that requires clear communication, cultural sensitivity, and thoughtful compromise."
@@ -66,9 +66,6 @@ By taking proactive steps, you can often turn a potential rift into an opportuni
 
 ### 7. When Exclusion Becomes a Red Flag  
 If a partner’s family insists on being present despite clear logistical impossibility, or if they demand a larger guest list as a condition for supporting the marriage, this may signal deeper relational dynamics that need attention. In such cases, consider couples counseling to explore expectations around family involvement, respect, and compromise. A healthy partnership should allow both parties to feel heard and respected, even when the final decision isn’t perfectly satisfying for everyone.
-
-### 8. SEO Keywords Integrated Naturally  
-Throughout this guide we’ve addressed “wedding abroad guest list,” “destination wedding etiquette,” “partner not invited,” “how to handle family exclusions,” and “budget-friendly overseas wedding.” These terms help search engines match this advice with couples searching for practical solutions to the same dilemma.
 
 ## Common Scenarios
 - **Scenario 1: Small venue, large family** – The chosen destination has a maximum capacity of 50 guests, but both families combined total 120.  

@@ -1,5 +1,5 @@
 ---
-title: "For those who rented a VFW or similar hall for reception - where did you have your ceremony?"
+title: "Where should you hold the ceremony if your reception is in a VFW or community hall?"
 slug: for-those-who-rented
 category: "ceremony"
 excerpt: "Couples who rent a VFW hall or a similar community venue for the reception often choose a nearby park, a charming backyard, a historic church, or even a second rental space for the ceremony."

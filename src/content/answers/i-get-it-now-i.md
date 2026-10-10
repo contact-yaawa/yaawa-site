@@ -1,5 +1,5 @@
 ---
-title: "I get it now, I didn’t before, but I understand now.?"
+title: "Why does the wedding planning timeline matter so much?"
 slug: i-get-it-now-i
 category: "planning-timeline"
 excerpt: "Once the “aha” moment hits and you finally grasp the wedding‑planning timeline, you can turn that clarity into concrete actions: lock in your key dates, prioritize the biggest budget items, and use a month‑by‑month checklist to keep stress at bay."

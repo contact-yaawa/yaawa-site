@@ -1,5 +1,5 @@
 ---
-title: "Worried about mics outdoor. Any ideas??"
+title: "How do you make sure guests can hear an outdoor ceremony?"
 slug: worried-about-mics-outdoor-any
 category: "ceremony"
 excerpt: "Yes—you can get crystal‑clear sound for an outdoor ceremony with the right microphone plan."
@@ -150,8 +150,4 @@ Having a backup plan is essential. Keep a wired handheld mic (or a second wirele
 Often you can, especially at parks or gardens that provide a basic speaker. However, you’ll need to confirm that the system has a mic input, that it can handle a wireless receiver, and that you have control over volume and EQ. Test it well in advance; if the venue’s system is limited, renting a small portable speaker may be more reliable.
 
 **How do I prevent feedback when using a microphone outdoors?**  
-Feedback occurs when the mic picks up sound from the speaker and re‑amplifies it. To avoid it: place the speaker behind the audience, aim it away from the mic, keep the mic volume moderate, and use a cardioid‑pattern speaker that focuses sound forward. If feedback still appears, engage a built‑in feedback suppressor or slightly lower the high‑frequency EQ on the speaker.  
-
----  
-
-By thoughtfully selecting the right microphone type, protecting it from wind, managing power, and rehearsing on site, you’ll ensure that every word of your outdoor ceremony is heard as beautifully as it’s spoken. Happy planning, and enjoy the day when love, nature, and crystal‑clear sound come together in perfect harmony.
+Feedback occurs when the mic picks up sound from the speaker and re‑amplifies it. To avoid it: place the speaker behind the audience, aim it away from the mic, keep the mic volume moderate, and use a cardioid‑pattern speaker that focuses sound forward. If feedback still appears, engage a built‑in feedback suppressor or slightly lower the high‑frequency EQ on the speaker.

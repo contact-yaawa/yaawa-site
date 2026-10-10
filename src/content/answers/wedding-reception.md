@@ -1,7 +1,7 @@
 ---
-title: "Wedding reception?"
+title: "What happens at a wedding reception?"
 slug: wedding-reception
-category: "vendors"
+category: "planning-timeline"
 excerpt: "A wedding reception is the celebratory party that follows the ceremony, where you and your guests enjoy food, drinks, music, and meaningful moments together."
 created: 2026-07-06
 updated: 2026-07-06

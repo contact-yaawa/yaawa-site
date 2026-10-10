@@ -1,5 +1,5 @@
 ---
-title: "Question about these boutonnieres?"
+title: "How do you choose wedding boutonnieres?"
 slug: question-about-these-boutonnieres
 category: "fashion"
 excerpt: "Boutonnieres are a small but powerful way to tie your wedding’s color palette, theme, and personal style together."

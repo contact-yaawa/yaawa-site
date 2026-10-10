@@ -1,5 +1,5 @@
 ---
-title: "Is it OK to NOT do a best man speech?"
+title: "Is it okay not to give a best man speech?"
 slug: is-it-ok-to-not
 category: "etiquette"
 excerpt: "Yes, it’s perfectly acceptable for a best man to skip giving a speech, especially if the couple, the best man, or the audience would be better served by a different format."
@@ -58,11 +58,6 @@ Your invitation wording and wedding website can subtly set expectations. If you�
 - **The “Silent Reception”** – A couple in New York chose a speech‑free evening, replacing toasts with a curated playlist and a photo wall. The best man organized a surprise flash‑mob dance, which became the highlight.  
 - **The “Video‑First” Wedding** – A couple in Sydney asked all their speakers to pre‑record short videos. The best man’s video included a montage of childhood photos, a joke, and a heartfelt wish—delivered flawlessly without live pressure.  
 - **The “Family‑Led Toast”** – In a traditional Indian wedding, the groom’s brother (acting as best man) opted out of a speech, letting the parents give blessings instead. The brother’s role shifted to coordinating the ceremonial rites, keeping him central to the celebration.
-
-### SEO‑Friendly Takeaways  
-- Use keywords naturally: “best man speech,” “wedding etiquette,” “skip best man toast,” “alternatives to best man speech,” “wedding reception timeline,” “public speaking anxiety wedding.”  
-- Include internal linking prompts (e.g., “Read more about managing wedding timelines” or “How to help a nervous speaker”).  
-- Ensure meta description (not shown here) highlights the question: “Is it okay to not do a best man speech? Find balanced advice, alternatives, and etiquette tips.”
 
 ## Common Scenarios
 - **Best Man Is Terrified of Public Speaking** – Offer a pre‑recorded video or let him write a letter read by someone else.  

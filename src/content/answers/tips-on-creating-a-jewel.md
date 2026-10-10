@@ -1,5 +1,5 @@
 ---
-title: "Tips on creating a jewel toned colour scheme (without red!) please?"
+title: "How do you create a jewel-toned wedding color scheme without red?"
 slug: tips-on-creating-a-jewel
 category: "fashion"
 excerpt: "A jewel‑toned wedding palette without red blends rich emerald, sapphire, amethyst, and gold accents for a luxurious, timeless look."

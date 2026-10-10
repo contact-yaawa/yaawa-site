@@ -1,7 +1,7 @@
 ---
-title: "What are experiences with DIY wedding hair and makeup?"
+title: "Is DIY wedding hair and makeup a good idea?"
 slug: diy-wedding-hair-makeup
-category: "budget"
+category: "fashion"
 excerpt: "DIY wedding hair and makeup can be a cost-effective and personalized way to prepare for your special day."
 created: 2026-08-02
 updated: 2026-08-02

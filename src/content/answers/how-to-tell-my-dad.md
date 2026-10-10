@@ -1,5 +1,5 @@
 ---
-title: "How to tell my dad I want my brother to walk me down the aisle instead?"
+title: "How do you tell your dad you want your brother to walk you down the aisle?"
 slug: how-to-tell-my-dad
 category: "family-issues"
 excerpt: "Talk to your dad with love and honesty, explaining why you’d cherish your brother walking you down the aisle."

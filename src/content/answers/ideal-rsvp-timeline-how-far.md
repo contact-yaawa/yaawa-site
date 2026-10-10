@@ -1,5 +1,5 @@
 ---
-title: "Ideal RSVP timeline- how far out is too far out?"
+title: "How far before the wedding should the RSVP deadline be?"
 slug: ideal-rsvp-timeline-how-far
 category: "planning-timeline"
 excerpt: "An RSVP deadline that falls **3–4 weeks before your ceremony** is generally ideal: it gives you enough time to finalize headcounts, confirm catering numbers, and arrange seating, while still feeling early enough for guests to plan their own travel and accommodations."

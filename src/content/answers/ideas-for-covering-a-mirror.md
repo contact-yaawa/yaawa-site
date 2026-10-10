@@ -1,5 +1,5 @@
 ---
-title: "Ideas for covering a mirror at the end of the aisle?"
+title: "How can you cover a mirror at the end of the wedding aisle?"
 slug: ideas-for-covering-a-mirror
 category: "ceremony"
 excerpt: "Covering a mirror at the end of the aisle can be as simple as draping a soft veil or as elaborate as creating a full‑size flower wall."

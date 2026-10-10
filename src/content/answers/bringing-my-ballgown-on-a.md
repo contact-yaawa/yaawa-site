@@ -1,5 +1,5 @@
 ---
-title: "Bringing my ballgown on a plane?"
+title: "How do you bring a ballgown wedding dress on a plane?"
 slug: bringing-my-ballgown-on-a
 category: "fashion"
 excerpt: "Yes, you can bring your ballgown on a plane, but the key is careful planning."

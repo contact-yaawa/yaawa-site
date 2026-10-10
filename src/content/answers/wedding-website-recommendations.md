@@ -1,5 +1,5 @@
 ---
-title: "Wedding Website Recommendations?"
+title: "What's the best wedding website platform?"
 slug: wedding-website-recommendations
 category: "vendors"
 excerpt: "Choosing a wedding website that balances ease‑of‑use, design flexibility, and essential features (RSVP, guest list management, registry links, and photo galleries) will save you time and keep guests informed."

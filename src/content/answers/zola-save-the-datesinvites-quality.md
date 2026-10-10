@@ -1,5 +1,5 @@
 ---
-title: "Zola Save the Dates/Invites Quality?"
+title: "Is Zola's save-the-date and invitation print quality good?"
 slug: zola-save-the-datesinvites-quality
 category: "vendors"
 excerpt: "Zola’s save‑the‑date cards and wedding invitations are solid, affordable options that combine modern design flexibility with reliable printing quality."

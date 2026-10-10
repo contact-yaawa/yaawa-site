@@ -1,5 +1,5 @@
 ---
-title: "Finally happened, dreaded MIL fight?"
+title: "How do you recover from a fight with your future mother-in-law?"
 slug: finally-happened-dreaded-mil-fight
 category: "family-issues"
 excerpt: "A mother‑in‑law fight is stressful, but it can become a turning point for healthier boundaries and deeper understanding."

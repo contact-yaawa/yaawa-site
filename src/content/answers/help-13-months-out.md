@@ -1,5 +1,5 @@
 ---
-title: "?) HELP (13 months out)?"
+title: "How do you build a wedding budget 13 months out?"
 slug: help-13-months-out
 category: "budget"
 excerpt: "You have 13 months left, which is an ideal window to build a realistic wedding budget, prioritize your biggest expenses, and start tracking every cost."

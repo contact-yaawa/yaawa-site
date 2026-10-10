@@ -78,7 +78,7 @@ Different cultures have distinct expectations around invitation timing. For inst
 
 ### The Psychological Impact on Guests  
 
-Psychology research shows that people are more likely to commit to an event when the notice period is **short enough to keep the event salient**, but **long enough to manage logistics**. A 2‑month window hits this sweet spot for most adult guests. Anything beyond that may shift the invitation from “must‑attend” to “maybe later,” reducing overall attendance rates.  
+Invitations need to arrive early enough for guests to arrange travel and time off, but not so early that the date slips out of mind. For most adult guests, a window of about two months balances those two needs.  
 
 ### Managing Post‑Invitation Updates  
 

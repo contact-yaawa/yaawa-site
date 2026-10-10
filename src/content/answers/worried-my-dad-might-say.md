@@ -1,5 +1,5 @@
 ---
-title: "Worried my dad might say something offensive at wedding?"
+title: "What can you do if a parent might say something offensive at your wedding?"
 slug: worried-my-dad-might-say
 category: "etiquette"
 excerpt: "If you’re worried your dad might say something offensive at your wedding, the best approach is to have a gentle, private conversation with him well before the big day."

@@ -1,7 +1,7 @@
 ---
-title: "What help do you need for an engagement party?"
+title: "How do you plan an engagement party?"
 slug: engagement-party-help
-category: "venues"
+category: "planning-timeline"
 excerpt: "Planning an engagement party is a team effort."
 created: 2026-06-29
 updated: 2026-07-08

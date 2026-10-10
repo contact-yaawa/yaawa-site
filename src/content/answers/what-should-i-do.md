@@ -1,5 +1,5 @@
 ---
-title: "What should I do…?"
+title: "How do you resolve a wedding etiquette dilemma?"
 slug: what-should-i-do
 category: "etiquette"
 excerpt: "When you’re stuck on a wedding‑etiquette dilemma, pause, prioritize what matters most to you and your partner, and then make a decision that feels respectful, realistic, and true to your vision."

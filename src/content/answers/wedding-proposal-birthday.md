@@ -66,9 +66,6 @@ Proposing on a birthday gives you a **built‑in anniversary marker**. Your enga
 - **Emotional Overload** – If you suspect the day might feel too intense, plan a **post‑proposal “cool‑down”**—perhaps a quiet walk, a private dessert, or a short getaway the next day. This allows you both to process the emotions separately.
 - **Unexpected Reactions** – Even the most thoughtful proposals can be met with surprise, tears, or laughter. Keep the tone light and flexible; remember that the moment belongs to you both, not to a perfect script.
 
-### SEO‑Friendly Keywords in Context  
-Throughout this guide, we’ve woven in terms couples often search for when considering this idea: “propose on a birthday,” “birthday proposal etiquette,” “wedding proposal ideas,” “wedding planning timeline,” and “relationship milestones.” Including these phrases naturally helps the article rank well for those looking for advice on combining birthday celebrations with a proposal.
-
 ## Common Scenarios
 - **A close‑friend’s birthday party** – You want to propose to your partner who’s also friends with the birthday honoree. Consider a private moment before the party starts, or a surprise after the birthday cake is cut, making sure the birthday guest feels included in the celebration.  
 - **A milestone birthday (30th, 40th, etc.)** – The significance of the age can add extra weight to the proposal. You might incorporate a “30 reasons I love you” list or a timeline of your relationship as part of the speech, tying the birthday milestone to your future together.  
@@ -90,8 +87,4 @@ It depends on your partner’s personality. If they love being surrounded by lov
 Choose a **unified color palette**—for example, gold and blush—or incorporate subtle symbols like heart‑shaped balloons alongside birthday balloons. Use a simple “Happy Birthday” banner and add a small “Will You Marry Me?” sign on the dessert table. This approach feels cohesive and avoids visual clutter.
 
 **Is it okay to propose on a birthday that isn’t my partner’s (e.g., a sibling’s or friend’s birthday)?**  
-Yes, as long as you’re respectful of the primary celebration. A good practice is to **wait until after the birthday’s main events**—like after cake cutting—to propose. This ensures you’re not diverting attention away from the birthday honoree while still taking advantage of the gathered crowd and festive atmosphere. 
-
----  
-
-Planning a proposal on a birthday is a delightful way to merge two cherished milestones, but it works best when you tailor the experience to your partner’s preferences and the day’s flow. By weighing the pros and cons, choosing the right moment, and thoughtfully coordinating guests, décor, and budget, you can create a seamless, heartfelt celebration that honors both the birthday and the beginning of your lifelong partnership. Happy planning, and may your special day be filled with love, laughter, and unforgettable memories!
+Yes, as long as you’re respectful of the primary celebration. A good practice is to **wait until after the birthday’s main events**—like after cake cutting—to propose. This ensures you’re not diverting attention away from the birthday honoree while still taking advantage of the gathered crowd and festive atmosphere.

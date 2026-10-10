@@ -1,5 +1,5 @@
 ---
-title: "My (25F) boyfriend (27M) suggested he wears an engagement ring if/when we get engaged. What are my options?"
+title: "What are the options if your boyfriend wants to wear an engagement ring too?"
 slug: my-25f-boyfriend-27m-suggested
 category: "fashion"
 excerpt: "Yes—you have plenty of options!"

@@ -1,5 +1,5 @@
 ---
-title: "Unique ways to honor/include my late mom in my wedding?"
+title: "How can you honor a late mother at your wedding?"
 slug: unique-ways-to-honorinclude-my
 category: "family-issues"
 excerpt: "Yes—you can lovingly weave your late mother’s memory into your wedding through meaningful rituals, personalized décor, and subtle tributes that keep her spirit present without overwhelming the celebration."

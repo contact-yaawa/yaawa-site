@@ -1,5 +1,5 @@
 ---
-title: "I have barely anyone to invite?"
+title: "What if you have barely anyone to invite to your wedding?"
 slug: i-have-barely-anyone-to
 category: "guest-list"
 excerpt: "If you’re working with a very small guest list, focus on what truly matters to you as a couple—intimacy, personal touches, and a celebration that feels authentic rather than forced."

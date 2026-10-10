@@ -1,5 +1,5 @@
 ---
-title: "Wedding coordinator giving out my number?"
+title: "What if your wedding coordinator gives out your phone number?"
 slug: wedding-coordinator-giving-out-my
 category: "etiquette"
 excerpt: "Yes, a wedding coordinator may share your phone number with vendors — but only with your explicit permission and for a clear, limited purpose."

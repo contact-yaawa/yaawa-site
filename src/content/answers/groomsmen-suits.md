@@ -1,5 +1,5 @@
 ---
-title: "Groomsmen suits?"
+title: "How do you choose groomsmen suits?"
 slug: groomsmen-suits
 category: "fashion"
 excerpt: "Choosing groomsmen suits is about finding a balance between the couple’s vision, the wedding theme, and the comfort and budget of the party."

@@ -1,5 +1,5 @@
 ---
-title: "Did you share any details about your dress with your partner?"
+title: "Should you share details about your wedding dress with your partner?"
 slug: did-you-share-any-details
 category: "fashion"
 excerpt: "Sharing details about your wedding dress with your partner is a personal choice, but most couples find that open communication strengthens the planning process and prevents misunderstandings."

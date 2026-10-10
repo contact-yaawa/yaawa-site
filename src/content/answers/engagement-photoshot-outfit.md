@@ -1,5 +1,5 @@
 ---
-title: "engagement photoshot outfit?"
+title: "What should you wear for engagement photos?"
 slug: engagement-photoshot-outfit
 category: "fashion"
 excerpt: "Choosing outfits for your engagement photoshoot is all about reflecting your personalities, complementing each other’s style, and matching the setting while staying comfortable."
@@ -26,7 +26,7 @@ recommendation: "Pick two to three outfits that share a harmonious color scheme,
 Engagement photos are more than pretty pictures; they’re a visual narrative of how you see yourselves as a couple. Ask yourself: Do you want a romantic, dreamy feel, a bold, modern edge, or a relaxed, everyday vibe? The answer will guide every wardrobe decision. For a classic romance, think soft pastels, flowing fabrics, and subtle details like lace or chiffon. For a contemporary vibe, crisp whites, structured silhouettes, and a splash of vibrant color work well. If you’re aiming for a laid‑back, lifestyle look, casual denim, relaxed shirts, and simple sneakers can feel authentic.
 
 ### 2. Choose a Cohesive Color Palette  
-Search engines love keywords like “engagement photo color palette,” and couples love the simplicity of a limited palette. Pick 2‑3 main colors that complement each other and the surroundings. Neutral bases—cream, ivory, light gray, or soft taupe—provide a timeless canvas. Pair them with one or two accent colors that echo the season or venue (e.g., dusty rose for spring, deep navy for a cityscape, mustard yellow for autumn foliage). Avoid overly bright neons unless they’re a signature part of your style, as they can dominate the frame and distract from faces.
+Pick 2‑3 main colors that complement each other and the surroundings. Neutral bases—cream, ivory, light gray, or soft taupe—provide a timeless canvas. Pair them with one or two accent colors that echo the season or venue (e.g., dusty rose for spring, deep navy for a cityscape, mustard yellow for autumn foliage). Avoid overly bright neons unless they’re a signature part of your style, as they can dominate the frame and distract from faces.
 
 ### 3. Mind the Location and Season  
 Your venue dictates texture, layering, and even shoe choice. For a beach shoot, light linens, flowy dresses, and barefoot or simple sandals keep the look airy and practical. In a forest or park, think earth tones, knit cardigans, and boots that won’t sink into mud. Urban settings pair nicely with sleek tailoring, leather jackets, or structured dresses that contrast the city’s hard lines. Seasonal considerations matter too: heavy wool looks great in winter but will be uncomfortable in a sunny spring garden. Pack a lightweight jacket or shawl for cooler evenings, and consider breathable fabrics like cotton, silk, or rayon for warmth.

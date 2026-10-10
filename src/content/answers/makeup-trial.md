@@ -1,5 +1,5 @@
 ---
-title: "Makeup Trial?"
+title: "What happens at a bridal makeup trial?"
 slug: makeup-trial
 category: "fashion"
 excerpt: "A makeup trial is a scheduled session where you and your chosen makeup artist test and perfect the bridal look you’ll wear on your wedding day."

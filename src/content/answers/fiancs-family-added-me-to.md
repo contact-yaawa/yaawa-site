@@ -1,5 +1,5 @@
 ---
-title: "Fiancé’s family added me to a bunch of group chats months before wedding - do you lurk or participate?"
+title: "Should you join in on your fiancé's family group chats before the wedding?"
 slug: fiancs-family-added-me-to
 category: "etiquette"
 excerpt: "When your fiancé’s family adds you to several group chats months before the wedding, it’s generally best to participate—at least enough to stay informed and show goodwill—while setting personal boundaries that keep you from feeling overwhelmed."

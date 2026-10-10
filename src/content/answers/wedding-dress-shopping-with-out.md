@@ -1,5 +1,5 @@
 ---
-title: "Wedding Dress Shopping with Out of State Family?"
+title: "How do you go wedding dress shopping with out-of-state family?"
 slug: wedding-dress-shopping-with-out
 category: "fashion"
 excerpt: "Yes, you can definitely include out‑of‑state family in your wedding dress shopping experience—you just need a clear plan for timing, travel, and budget."

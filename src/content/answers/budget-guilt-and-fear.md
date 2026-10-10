@@ -1,5 +1,5 @@
 ---
-title: "Budget Guilt and Fear?"
+title: "How do you deal with guilt and anxiety about your wedding budget?"
 slug: budget-guilt-and-fear
 category: "budget"
 excerpt: "Feeling guilty or scared about your wedding budget is normal, but it doesn’t have to ruin your planning."

@@ -1,5 +1,5 @@
 ---
-title: "Where is everyone printing their DIY stationery and programs without breaking the bank?"
+title: "Where can you print DIY wedding stationery cheaply?"
 slug: where-is-everyone-printing-their
 category: "budget"
 excerpt: "Most couples today print their DIY wedding stationery and programs using a mix of home‑printer upgrades, local print‑shops with bulk‑discounts, and affordable online services that specialize in wedding templates."
@@ -160,8 +160,4 @@ Absolutely, especially for large orders. A printed proof costs roughly $10‑$15
 Print the address on a separate sheet, then use a simple “address‑copy” technique: place the printed sheet behind the envelope, and trace with a calligraphy pen. Alternatively, purchase a cheap laser‑printed label sheet (e.g., Avery), print the addresses, and stick the labels onto the envelopes for a clean, uniform look.
 
 **How can I incorporate a QR code without making my design look cluttered?**  
-Design a small, unobtrusive QR code (≈ 0.75‑1 in) in a corner of the invitation or program, and add a short line of text like “Scan for full menu & timeline.” Most QR‑code generators allow you to customize color to match your palette, keeping the aesthetic cohesive.  
-
----  
-
-By mixing home printing, local expertise, and strategic online orders, you can create beautiful wedding stationery and programs that look high‑end while staying comfortably within your budget. Happy designing!
+Design a small, unobtrusive QR code (≈ 0.75‑1 in) in a corner of the invitation or program, and add a short line of text like “Scan for full menu & timeline.” Most QR‑code generators allow you to customize color to match your palette, keeping the aesthetic cohesive.

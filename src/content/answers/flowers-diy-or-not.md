@@ -1,5 +1,5 @@
 ---
-title: "Flowers - DIY or not?"
+title: "Should you DIY your wedding flowers?"
 slug: flowers-diy-or-not
 category: "vendors"
 excerpt: "Choosing between DIY wedding flowers and hiring a professional florist depends on your budget, timeline, skill level, and the scale of your floral vision."
@@ -33,7 +33,7 @@ Floral design is more than just picking pretty stems; it involves color theory, 
 Each of these elements carries its own set of challenges. DIY‑friendly items usually have a low volume, simple structure, and forgiving flowers (think daisies or baby’s breath). Larger installations, tall bouquets, or arrangements that need to stay fresh for many hours often benefit from a florist’s expertise in stem conditioning, proper wiring, and humidity control.
 
 ### Budget Considerations  
-The most common reason couples contemplate DIY flowers is cost. According to recent wedding industry surveys, floral budgets can range from **5 % to 15 %** of total wedding expenses. A professional florist typically charges a markup of 2–3× on wholesale flower prices to cover design, labor, delivery, and insurance. DIY can shave off that markup, but you’ll still need to account for:
+The most common reason couples contemplate DIY flowers is cost. A professional florist typically charges a markup of 2–3× on wholesale flower prices to cover design, labor, delivery, and insurance. DIY can shave off that markup, but you’ll still need to account for:
 
 * **Wholesale flower purchases** – many florists require a minimum order; buying directly from growers or markets can lower costs but often needs a larger volume.  
 * **Supplies and rentals** – vases, foam, floral wire, ribbon, and possibly refrigeration units.  

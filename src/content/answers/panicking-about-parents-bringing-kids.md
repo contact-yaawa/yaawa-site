@@ -1,5 +1,5 @@
 ---
-title: "Panicking about parents bringing kids - did we fuck up with the invitations? How to prepare?"
+title: "What if guests assume they can bring their kids to your wedding?"
 slug: panicking-about-parents-bringing-kids
 category: "guest-list"
 excerpt: "You haven’t necessarily “messed up” with your invitations—most couples face the same dilemma when parents assume they can bring their children."

@@ -1,5 +1,5 @@
 ---
-title: "Wedding photographer blocked me on social media after I raised concerns?"
+title: "What if your wedding photographer blocks you after you raise concerns?"
 slug: wedding-photographer-blocked-me-on
 category: "vendors"
 excerpt: "If your wedding photographer blocks you on social media after you raise concerns, stay calm, document the interaction, and address the issue through professional channels—email or phone."

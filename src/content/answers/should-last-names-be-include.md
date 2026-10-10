@@ -1,5 +1,5 @@
 ---
-title: "Should last names be include on heirloom quilt?"
+title: "Should last names be included on a wedding heirloom quilt?"
 slug: should-last-names-be-include
 category: "etiquette"
 excerpt: "Including both partners’ last names on a heirloom quilt is perfectly acceptable, but it isn’t mandatory."

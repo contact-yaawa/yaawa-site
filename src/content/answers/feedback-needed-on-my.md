@@ -1,5 +1,5 @@
 ---
-title: "Feedback needed on my budget wedding ideas?"
+title: "How do you plan a wedding on a $10,000 budget?"
 slug: feedback-needed-on-my
 category: "budget"
 excerpt: "A $10,000 wedding is absolutely doable, but it requires clear priorities, smart sourcing, and a willingness to get creative with every line‑item."

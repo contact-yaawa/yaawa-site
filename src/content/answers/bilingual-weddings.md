@@ -1,5 +1,5 @@
 ---
-title: "Bilingual Weddings?"
+title: "How do you plan a bilingual wedding ceremony?"
 slug: bilingual-weddings
 category: "ceremony"
 excerpt: "A bilingual wedding is completely doable and can add a beautiful, personal touch that honors both of your families and cultures."
@@ -53,7 +53,7 @@ A well‑planned timeline prevents the ceremony from feeling like a translation 
 **Key timing rule:** Aim for a total ceremony length of 30‑40 minutes. If each segment is doubled, you risk running into venue curfew or guest fatigue. Use concise language, and consider summarizing longer passages rather than providing a word‑for‑word translation.
 
 ### Written Materials: Programs, Signs, and Slides  
-Printed or digital programs are the most reliable way to ensure every guest can follow along. Design them with side‑by‑side columns: the left column in Language A, the right column in Language B. Include phonetic guides for names that may be unfamiliar. For visual learners, a slideshow with subtitles works beautifully during readings or musical performances. SEO‑friendly terms to search for templates include “bilingual wedding program template” and “dual language wedding signage”.
+Printed or digital programs are the most reliable way to ensure every guest can follow along. Design them with side‑by‑side columns: the left column in Language A, the right column in Language B. Include phonetic guides for names that may be unfamiliar. For visual learners, a slideshow with subtitles works beautifully during readings or musical performances.
 
 ### Audio Considerations  
 If you anticipate a large crowd or a venue with poor acoustics, invest in a sound system with **dual‑channel headphones** for guests who need a live translation. Many wedding venues already have wireless microphones; ask the audio technician whether they can split the feed to a translator’s headset. This solution is especially popular for weddings with guests who are deaf or hard of hearing, as you can add captioning on a screen.
@@ -75,7 +75,7 @@ While a bilingual ceremony can be slightly pricier—especially if you hire a pr
 If you’re marrying in a jurisdiction that requires the ceremony to be conducted in the official language (e.g., many U.S. states require the legal vows in English), you can still incorporate a bilingual portion *after* the legal declaration. Verify local marriage laws early to avoid any paperwork hiccups.
 
 ### Post‑Ceremony Considerations  
-After the vows, the reception can continue the bilingual theme. Consider bilingual signage for the bar, menu, and seating chart. Even a short “Thank you” speech in both languages leaves a lasting impression. For photo captions on social media, use both languages—this not only engages your followers but also boosts SEO for terms like “bilingual wedding ideas”.
+After the vows, the reception can continue the bilingual theme. Consider bilingual signage for the bar, menu, and seating chart. Even a short “Thank you” speech in both languages leaves a lasting impression.
 
 ## Common Scenarios
 - **One partner speaks English, the other speaks Spanish, and both families are mixed.**  

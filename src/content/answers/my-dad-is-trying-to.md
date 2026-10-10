@@ -1,5 +1,5 @@
 ---
-title: "My dad is trying to control my wedding planning?"
+title: "What can you do when your dad tries to control your wedding planning?"
 slug: my-dad-is-trying-to
 category: "family-issues"
 excerpt: "It’s natural to want your dad’s love and input, but when his opinions turn into control, you and your partner need to set clear, respectful boundaries."

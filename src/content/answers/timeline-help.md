@@ -1,5 +1,5 @@
 ---
-title: "Timeline help?"
+title: "How do you build a wedding timeline backward from your date?"
 slug: timeline-help
 category: "planning-timeline"
 excerpt: "Creating a realistic wedding timeline starts with setting your ceremony date, then working backward to allocate time for each major milestone—budget, venue, guest list, vendors, and the day‑of schedule."

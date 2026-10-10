@@ -1,5 +1,5 @@
 ---
-title: "Recent immigrant (30F) and Canadian-born Punjabi (32M): How to handle a major wedding budget mismatch fairly?"
+title: "How do you handle a major wedding budget mismatch between you and your partner?"
 slug: recent-immigrant-30f-and-canadian-born
 category: "budget"
 excerpt: "Talk openly about your expectations, list every cost, and decide together which elements are non‑negotiable for each of you."

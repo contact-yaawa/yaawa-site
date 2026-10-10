@@ -1,5 +1,5 @@
 ---
-title: "Update: Did I mess up on my dress?"
+title: "What if you think you chose the wrong wedding dress?"
 slug: update-did-i-mess-up
 category: "fashion"
 excerpt: "If you’re wondering whether you “messed up” on your wedding dress, the answer is rarely a simple yes or no."

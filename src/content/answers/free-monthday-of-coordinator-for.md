@@ -1,5 +1,5 @@
 ---
-title: "Free month/day of coordinator for intimate wedding?"
+title: "Is a free month-of or day-of coordinator worth it for an intimate wedding?"
 slug: free-monthday-of-coordinator-for
 category: "vendors"
 excerpt: "A free month or day of a wedding coordinator can be a tempting way to save money on an intimate wedding, but it often comes with hidden limitations."

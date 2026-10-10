@@ -1,5 +1,5 @@
 ---
-title: "Did important people not coming affect you the day of the wedding?"
+title: "How does it feel when important people don't come to your wedding?"
 slug: did-important-people-not-coming
 category: "family-issues"
 excerpt: "Missing an important family member or close friend on your wedding day can sting, but it doesn’t have to ruin the celebration."
@@ -76,16 +76,6 @@ A wedding is a milestone, but it’s also a snapshot in a lifelong partnership. 
 ### When to Seek Professional Help  
 
 If the absence triggers severe anxiety, depression, or relationship strain, consider couples counseling or individual therapy. A professional can help you navigate grief, family conflict, and the pressure of perfection that often accompanies weddings. There’s no shame in asking for help; it’s a proactive step toward a healthier marriage.
-
-### SEO‑Friendly Takeaways  
-
-- **Keyword:** *important people not attending wedding* – Addressed throughout the article.  
-- **Keyword:** *how to handle missing guests* – Provided actionable strategies.  
-- **Keyword:** *wedding day emotional tips* – Included mindfulness and communication advice.  
-- **Keyword:** *family issues wedding* – Discussed boundary setting and mediation.  
-- **Keyword:** *virtual wedding attendance* – Suggested live‑streaming and video messages.
-
-By weaving these terms naturally into the content, the article remains readable for couples while improving its visibility for search engines.
 
 ## Common Scenarios
 - **Grandparent lives abroad and can’t get a visa** – Set up a live stream, reserve a symbolic seat with a photo, and send a personalized thank‑you note after the ceremony.  

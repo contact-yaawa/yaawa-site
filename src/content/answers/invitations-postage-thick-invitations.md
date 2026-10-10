@@ -1,5 +1,5 @@
 ---
-title: "Invitations Postage, Thick invitations?"
+title: "How much postage do thick wedding invitations need?"
 slug: invitations-postage-thick-invitations
 category: "budget"
 excerpt: "Yes, thick, heavyweight wedding invitations often require extra postage because they weigh more than standard stationery."

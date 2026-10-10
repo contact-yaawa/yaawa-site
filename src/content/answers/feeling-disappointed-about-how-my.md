@@ -1,5 +1,5 @@
 ---
-title: "Feeling disappointed about how my wedding photos turned out?"
+title: "What can you do if you're disappointed with your wedding photos?"
 slug: feeling-disappointed-about-how-my
 category: "vendors"
 excerpt: "It’s natural to feel let down when your wedding photos don’t match the vision you had in mind, but there are several constructive steps you can take—talking with your photographer, exploring editing options, and deciding whether a second‑shoot or a post‑wedding session could rescue the memories you cherish."

@@ -1,5 +1,5 @@
 ---
-title: "Chaos and Success | Recap, Budget, Timeline (~$80k, 55-person New England wedding)?"
+title: "What does the budget and timeline for an $80K, 55-guest New England wedding look like?"
 slug: chaos-and-success-recap
 category: "budget"
 excerpt: "A well‑planned $80 K wedding for 55 guests in New England can be both beautiful and stress‑free if you break down the budget early, set a realistic timeline, and prioritize the elements that matter most to you as a couple."

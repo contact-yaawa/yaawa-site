@@ -1,5 +1,5 @@
 ---
-title: "Non-traditional microwedding spots?"
+title: "What are some non-traditional micro wedding venues?"
 slug: non-traditional-microwedding-spots
 category: "venues"
 excerpt: "A non‑traditional microwedding spot is any intimate venue that breaks away from the classic church‑or‑ballroom mold—think rooftops, botanical gardens, historic barns, or even a family’s backyard."

@@ -1,5 +1,5 @@
 ---
-title: "Is it worth getting a cricut for my invitations and party favors?"
+title: "Is a Cricut worth it for wedding invitations and favors?"
 slug: is-it-worth-getting
 category: "vendors"
 excerpt: "Yes—if you enjoy DIY projects, have a clear vision for your paper‑or‑fabric details, and are comfortable spending a few hours learning the software, a Cricut can be a smart investment for creating personalized invitations and party favors on a $1,000 budget."
@@ -27,7 +27,7 @@ recommendation: "If you’re a hands‑on couple who loves crafting, have at lea
 ## Detailed Explanation
 ### Why the Cricut Became a Wedding Staple  
 
-Since its introduction, the Cricut cutting machine has transformed the wedding‑planning landscape. Its ability to cut virtually any shape—from delicate lace‑like filigrees to bold monograms—means couples can move beyond the cookie‑cutter templates offered by most print‑shops. The SEO‑friendly phrase “DIY wedding invitations” now often includes “Cricut” because the tool bridges the gap between a fully custom design and a printable file. For couples working with a $1,000 overall budget, the cost per invitation can drop dramatically when you handle the cutting and assembly yourself.
+Since its introduction, the Cricut cutting machine has transformed the wedding‑planning landscape. Its ability to cut virtually any shape—from delicate lace‑like filigrees to bold monograms—means couples can move beyond the cookie‑cutter templates offered by most print‑shops. For couples working with a $1,000 overall budget, the cost per invitation can drop dramatically when you handle the cutting and assembly yourself.
 
 ### Understanding the Real Cost  
 

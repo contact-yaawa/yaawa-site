@@ -1,5 +1,5 @@
 ---
-title: "Engagement ring advice for surprise proposal?"
+title: "How do you choose an engagement ring for a surprise proposal?"
 slug: engagement-ring-advice-for-surprise
 category: "fashion"
 excerpt: "A surprise proposal can be magical, but choosing an engagement ring for it requires a blend of secret research, thoughtful style choices, and clear communication with any trusted allies."

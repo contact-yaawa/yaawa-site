@@ -1,5 +1,5 @@
 ---
-title: "Should all Bridesmaids makeup be done professionally?"
+title: "Should all bridesmaids have their makeup done professionally?"
 slug: should-all-bridesmaids-makeup-be
 category: "fashion"
 excerpt: "Whether all bridesmaids’ makeup should be done professionally depends on your budget, style goals, and the level of consistency you want on your big day."

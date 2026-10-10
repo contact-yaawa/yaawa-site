@@ -1,5 +1,5 @@
 ---
-title: "When did wedding reception become Raves?"
+title: "Why do some wedding receptions feel like raves?"
 slug: when-did-wedding-reception-become
 category: "etiquette"
 excerpt: "The wedding reception began morphing into rave‑style celebrations in the late 1990s and early 2000s, when DJs, electronic dance music (EDM), and club culture started to replace traditional live bands."

@@ -1,5 +1,5 @@
 ---
-title: "My sister won’t stop buying stuff off my registry?"
+title: "How do you handle a sister who keeps buying things off your registry?"
 slug: my-sister-wont-stop-buying
 category: "gifts"
 excerpt: "It’s understandable to feel frustrated when a family member keeps purchasing items you already have, but before confronting your sister, take a step back to assess the situation, communicate kindly, and explore ways to keep the registry experience enjoyable for everyone."
@@ -26,7 +26,7 @@ recommendation: "Start a calm, appreciative conversation with your sister, letti
 Most siblings view wedding registries as a checklist of ways they can help their brothers or sisters start a new chapter. When your sister repeatedly selects items from your list, it’s often less about “over‑buying” and more about her desire to be part of the celebration and to give you something she believes will be useful. Recognizing this underlying intention can soften any immediate irritation and set the stage for a constructive dialogue.
 
 ### The Duplicate Dilemma  
-Duplicate gifts are a common complaint among couples. According to a 2022 survey by The Knot, about 38 % of newlyweds reported receiving at least one duplicate item from their registry. While some duplicates can be handy—think of having an extra set of wine glasses for large gatherings—others end up cluttering shelves or becoming forgotten in the back of a closet. The key is to differentiate between “nice-to‑have” duplicates and “unnecessary” ones. For example, a second set of high‑quality cookware may be useful for a growing family, whereas a third set of the same coffee maker is likely redundant.
+Duplicate gifts are a common complaint among couples. While some duplicates can be handy—think of having an extra set of wine glasses for large gatherings—others end up cluttering shelves or becoming forgotten in the back of a closet. The key is to differentiate between “nice-to‑have” duplicates and “unnecessary” ones. For example, a second set of high‑quality cookware may be useful for a growing family, whereas a third set of the same coffee maker is likely redundant.
 
 ### Registry Transparency: Tools and Tactics  
 Modern registries often include features that let you mark items as “purchased,” “reserved,” or “still needed.” Some even send automatic notifications to guests when an item is taken, reducing accidental duplicates. If your current registry lacks these capabilities, consider the following steps:

@@ -1,5 +1,5 @@
 ---
-title: "About having the ceremony and dinner in the same space?"
+title: "Can you hold the wedding ceremony and dinner in the same space?"
 slug: about-having-the-ceremony-and
 category: "venues"
 excerpt: "Yes—you can host both the ceremony and dinner in the same space, and many couples choose this option for its seamless flow, cost‑effectiveness, and intimate feel."

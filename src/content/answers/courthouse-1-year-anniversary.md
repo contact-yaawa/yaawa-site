@@ -1,5 +1,5 @@
 ---
-title: "Courthouse + 1 year anniversary wedding or wait til wedding?"
+title: "Should you marry at the courthouse now and celebrate on your first anniversary?"
 slug: courthouse-1-year-anniversary
 category: "ceremony"
 excerpt: "If you love the idea of a simple legal ceremony now and want to give yourselves a year to plan a bigger celebration, a courthouse wedding followed by a one‑year‑anniversary celebration works beautifully for many couples."
@@ -31,7 +31,7 @@ Getting married is as much about the emotional milestone as it is about the pape
 Conversely, many people associate “getting married” with a larger celebration that includes family, friends, cultural rituals, and personal touches like a first dance or a cake cutting. If you grow up with the expectation that a wedding is a communal event, postponing that experience might leave you feeling like something is missing. The key is to identify which aspect—legal commitment or celebratory ceremony—holds more weight for you right now.
 
 ### Financial Realities  
-Weddings are notoriously expensive. According to recent industry data, the average U.S. wedding costs around $30,000, but a modest ceremony can still run $10,000‑$15,000. By opting for a courthouse ceremony first, you can lock in your marriage legally for a few hundred dollars, leaving the bulk of your budget untouched for a later celebration. This approach is particularly advantageous for couples who need time to:
+Weddings are notoriously expensive. By opting for a courthouse ceremony first, you can lock in your marriage legally for a few hundred dollars, leaving the bulk of your budget untouched for a later celebration. This approach is particularly advantageous for couples who need time to:
 
 1. **Save more money** – A year gives you the chance to set aside a larger portion of your income, reduce debt, or even explore a destination wedding that might otherwise be out of reach.  
 2. **Research vendors** – You can interview photographers, caterers, and florists without the pressure of an imminent deadline, leading to better matches and possibly better rates.  

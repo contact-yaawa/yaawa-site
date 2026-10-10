@@ -1,5 +1,5 @@
 ---
-title: "Can anybody recommend any \"entertainment activities\" for the reception? We're getting a DJ and photobooth but i feel like i need one more thing... the issue is we're already over budget so we don't want anything expensive. Am i delusional?"
+title: "What are cheap reception entertainment ideas besides a DJ and photo booth?"
 slug: can-anybody-recommend-any-entertainment
 category: "vendors"
 excerpt: "Adding more entertainment activities to your wedding reception can elevate the experience for your guests without breaking the bank."

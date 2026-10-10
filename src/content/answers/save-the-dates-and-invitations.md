@@ -1,5 +1,5 @@
 ---
-title: "Save the Dates and Invitations?"
+title: "How do save-the-dates and wedding invitations work?"
 slug: save-the-dates-and-invitations
 category: "vendors"
 excerpt: "Save‑the‑dates are a friendly heads‑up that lets guests block your wedding date on their calendars, while formal invitations provide all the essential details and set the tone for the celebration."

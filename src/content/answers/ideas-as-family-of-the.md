@@ -1,5 +1,5 @@
 ---
-title: "Ideas as family of the groom?"
+title: "How can the groom's family contribute to the wedding?"
 slug: ideas-as-family-of-the
 category: "etiquette"
 excerpt: "The groom’s family can add a personal, cultural, and logistical spark to your wedding by offering ideas for traditions, helping with budgeting, and sharing tasks that suit their strengths."

@@ -1,5 +1,5 @@
 ---
-title: "Is it insane?"
+title: "How much is too much to spend on a wedding gift?"
 slug: is-it-insane
 category: "gifts"
 excerpt: "Whether a wedding gift feels “insane” depends on your budget, relationship to the couple, and cultural expectations."

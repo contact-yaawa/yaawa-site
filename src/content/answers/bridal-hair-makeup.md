@@ -78,8 +78,4 @@ Ideally, start researching and booking 6–9 months before your wedding, especia
 Even if you have a go‑to makeup routine, a trial is still valuable. Wedding lighting, high‑resolution cameras, and the long hours can change how products behave. A trial helps you discover the right foundation shade for flash photography, ensures your lipstick won’t smudge during a kiss, and confirms that your everyday look translates well to a larger audience.
 
 **What should I bring on the wedding day for my hair and makeup team?**  
-Provide a clean, organized space (or confirm the venue offers a suitable area), a mirror, and any personal items you prefer—such as a specific hairpin, veil, or a favorite lip color for touch‑ups. It’s also helpful to bring a small emergency kit (bobby pins, hairspray, blotting papers) in case the artist needs extra supplies, though most professionals will come fully stocked.  
-
----  
-
-By weighing the benefits, costs, and personal circumstances, you can decide whether professional bridal hair and makeup aligns with your wedding vision and budget. A well‑chosen artist not only elevates your look but also adds calm, confidence, and a touch of artistry to one of the most memorable days of your life.
+Provide a clean, organized space (or confirm the venue offers a suitable area), a mirror, and any personal items you prefer—such as a specific hairpin, veil, or a favorite lip color for touch‑ups. It’s also helpful to bring a small emergency kit (bobby pins, hairspray, blotting papers) in case the artist needs extra supplies, though most professionals will come fully stocked.

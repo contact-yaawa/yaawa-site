@@ -1,5 +1,5 @@
 ---
-title: "Advice on how much to spend on alcohol?"
+title: "How much should you spend on alcohol for a wedding?"
 slug: advice-on-how-much
 category: "budget"
 excerpt: "The amount you should allocate for alcohol at your wedding depends on your overall budget, guest count, and the drinking preferences of your crowd, but a common rule of thumb is to spend 8‑12 % of your total wedding budget on beverages."

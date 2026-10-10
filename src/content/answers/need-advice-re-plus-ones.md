@@ -1,5 +1,5 @@
 ---
-title: "Need advice re plus ones?"
+title: "How do you decide which guests get a plus-one?"
 slug: need-advice-re-plus-ones
 category: "guest-list"
 excerpt: "Yes, you can include plus‑ones, but do it thoughtfully."

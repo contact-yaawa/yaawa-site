@@ -1,6 +1,6 @@
 ---
-title: "(10-15k) Is a DOC needed? DJ?"
-slug: 10-15k-is-a-doc-needed
+title: "Do you need a professional DJ for your wedding?"
+slug: do-you-need-a-dj
 category: "vendors"
 excerpt: "A professional wedding DJ isn’t mandatory, but hiring one can dramatically improve the flow, energy, and overall vibe of your reception."
 created: 2026-09-14

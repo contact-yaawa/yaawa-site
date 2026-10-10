@@ -1,5 +1,5 @@
 ---
-title: "Do you regret not having a DJ?"
+title: "Do couples regret not having a DJ?"
 slug: do-you-regret-not-having
 category: "vendors"
 excerpt: "Most couples who skip a professional DJ don’t regret it if they’ve planned a solid music strategy, but many discover later that a live‑mixing expert adds spontaneity, energy, and trouble‑shooting power that a DIY playlist can’t match."

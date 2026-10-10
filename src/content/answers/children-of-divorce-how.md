@@ -1,5 +1,5 @@
 ---
-title: "Children of divorce - how did you escort mothers down the aisle?"
+title: "How do you handle escorting mothers down the aisle when parents are divorced?"
 slug: children-of-divorce-how
 category: "ceremony"
 excerpt: "When a mother is divorced and you have children from that marriage, the simplest and most inclusive way to escort her down the aisle is to have the child (or a close sibling) walk her partway, then be joined by a designated escort—often the father, a step‑parent, or a trusted family member—who takes her the rest of the way."

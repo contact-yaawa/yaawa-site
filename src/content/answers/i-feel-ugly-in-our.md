@@ -1,5 +1,5 @@
 ---
-title: "I feel ugly in our surprise proposal photos?"
+title: "What can you do if you don't like your surprise proposal photos?"
 slug: i-feel-ugly-in-our
 category: "fashion"
 excerpt: "It’s completely normal to feel a little self‑conscious in surprise‑proposal photos—especially when the moment was caught off‑guard."

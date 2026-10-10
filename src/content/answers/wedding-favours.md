@@ -1,5 +1,5 @@
 ---
-title: "Wedding Favours?"
+title: "Do you need wedding favours?"
 slug: wedding-favours
 category: "gifts"
 excerpt: "Wedding favours are a thoughtful way to thank guests for sharing your special day, but they’re not mandatory."

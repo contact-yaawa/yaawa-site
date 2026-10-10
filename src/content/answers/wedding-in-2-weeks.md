@@ -1,5 +1,5 @@
 ---
-title: "Wedding in 2 (!!) weeks?"
+title: "Can you plan a wedding in two weeks?"
 slug: wedding-in-2-weeks
 category: "planning-timeline"
 excerpt: "Yes—you can pull off a beautiful wedding in two weeks, but it will require laser‑focused prioritisation, flexible vendors, and a willingness to let go of “nice‑to‑have” details."

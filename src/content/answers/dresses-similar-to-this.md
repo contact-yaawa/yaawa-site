@@ -1,5 +1,5 @@
 ---
-title: "Dresses similar to this?"
+title: "How do you find wedding dresses similar to one you love?"
 slug: dresses-similar-to-this
 category: "fashion"
 excerpt: "If you love a particular wedding dress but can’t find the exact piece, start by breaking down its key features—silhouette, fabric, neckline, and detailing—and then use those descriptors in boutique searches, online databases, and custom‑design consultations."

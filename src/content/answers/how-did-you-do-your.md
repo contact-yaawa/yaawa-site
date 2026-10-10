@@ -1,5 +1,5 @@
 ---
-title: "How did you do your beverage math?"
+title: "How do you calculate how much alcohol to buy for a wedding?"
 slug: how-did-you-do-your
 category: "budget"
 excerpt: "Beverage math is simply the process of estimating how many drinks your guests will likely consume, then converting that into a cost that fits your overall wedding budget."

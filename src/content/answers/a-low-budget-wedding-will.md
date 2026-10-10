@@ -1,5 +1,5 @@
 ---
-title: "A low budget wedding will almost always include getting help from your community.?"
+title: "How can friends and family help with a low-budget wedding?"
 slug: a-low-budget-wedding-will
 category: "budget"
 excerpt: "Yes—when you’re planning a low‑budget wedding, tapping into the talents, time, and resources of friends, family, and local community can dramatically stretch your dollars."
@@ -25,7 +25,7 @@ recommendation: "Start by making a realistic budget, then create a “who‑can�
 
 ## Detailed Explanation
 ### 1. Why community involvement works for low‑budget weddings  
-A low‑budget wedding, by definition, has limited cash to cover the many line items that traditionally make up a wedding cost sheet: venue, catering, décor, photography, attire, and entertainment. Communities—whether that’s your family circle, neighborhood, church, cultural association, or local businesses—offer a reservoir of **in‑kind donations, skill‑shares, and discounted services**. When you borrow a grandparent’s crystal chandelier, ask a friend who is a chef to cater a dinner, or trade favors with a local florist, you replace a monetary expense with a personal one. Search engines love phrases like “low budget wedding ideas,” “community wedding help,” and “DIY wedding on a budget,” and articles that address these keywords rank well because they solve a common pain point for engaged couples.
+A low‑budget wedding, by definition, has limited cash to cover the many line items that traditionally make up a wedding cost sheet: venue, catering, décor, photography, attire, and entertainment. Communities—whether that’s your family circle, neighborhood, church, cultural association, or local businesses—offer a reservoir of **in‑kind donations, skill‑shares, and discounted services**. When you borrow a grandparent’s crystal chandelier, ask a friend who is a chef to cater a dinner, or trade favors with a local florist, you replace a monetary expense with a personal one.
 
 ### 2. Mapping wedding tasks to community strengths  
 The first practical step is **task mapping**. Write down every component of your wedding—ceremony, reception, attire, transportation, invitations, music, photography, favors, and post‑wedding clean‑up. Then, brainstorm who in your network has the relevant expertise or assets.  

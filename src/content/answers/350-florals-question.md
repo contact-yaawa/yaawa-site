@@ -1,5 +1,5 @@
 ---
-title: "($350) Florals question?"
+title: "Can you do wedding flowers on a $350 budget?"
 slug: 350-florals-question
 category: "vendors"
 excerpt: "Yes—you can create a beautiful wedding floral scheme on a $350 budget by prioritizing key pieces, using seasonal and locally‑grown blooms, and mixing in inexpensive fillers or DIY elements."
@@ -143,8 +143,4 @@ For $350, aim to **order at least 2‑3 weeks ahead** if you’re purchasing fro
 Yes, and it’s a smart way to maximize your budget. After the ceremony, gently remove any wilted petals, trim the stems, and re‑arrange the remaining blooms into reception centerpieces or table runners. This not only saves money but also creates visual continuity throughout the day.
 
 **What should I do if my DIY arrangements wilt before the reception?**  
-Keep the flowers **cool and hydrated** until the moment they’re displayed. Store them in a refrigerator or a cool, dark room, and change the water every 12‑24 hours. Adding a floral preservative packet to the water helps extend vase life. If you notice wilting early, **spritz the stems with water** and trim the ends again to revive them.  
-
----  
-
-By focusing on strategic priorities, embracing seasonal selections, and mixing professional help with thoughtful DIY effort, a $350 floral budget can still yield a wedding that feels lush, personalized, and memorable. Happy planning!
+Keep the flowers **cool and hydrated** until the moment they’re displayed. Store them in a refrigerator or a cool, dark room, and change the water every 12‑24 hours. Adding a floral preservative packet to the water helps extend vase life. If you notice wilting early, **spritz the stems with water** and trim the ends again to revive them.

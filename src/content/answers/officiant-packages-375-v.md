@@ -1,5 +1,5 @@
 ---
-title: "Officiant Packages? $375 v. $825?"
+title: "Should you choose a $375 or an $825 officiant package?"
 slug: officiant-packages-375-v
 category: "vendors"
 excerpt: "Choosing between a $375 and an $825 officiant package depends on what you value most: a simple, no‑frills ceremony or a fully customized experience with extra services."
@@ -57,7 +57,7 @@ These are non‑negotiable items and are included in both price tiers. The disti
 
 ### Budget Allocation: The Bigger Picture  
 
-Wedding budgets are often divided into categories: venue, catering, photography, attire, décor, and officiant fees. According to recent industry surveys, the average U.S. couple spends **$500‑$1,200** on an officiant. If you’re budgeting $10,000 for the entire wedding, a $825 officiant represents **8.25%** of that budget—a reasonable slice for a service that is central to the day’s emotional core.  
+Wedding budgets are often divided into categories: venue, catering, photography, attire, décor, and officiant fees. If you’re budgeting $10,000 for the entire wedding, a $825 officiant represents **8.25%** of that budget—a reasonable slice for a service that is central to the day’s emotional core.  
 
 However, if you’re working with a tighter budget (e.g., $5,000 total), that same $825 could consume **16.5%** of your funds, forcing cuts in other areas. In such cases, consider whether you can DIY certain elements—like writing your own vows or enlisting a trusted friend to officiate (with proper licensing)—to free up funds for other priorities.
 

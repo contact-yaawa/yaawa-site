@@ -129,8 +129,4 @@ Not usually. A rehearsal dinner serves a specific purpose: to rehearse the cerem
 Consider simple ice‑breaker games like “How Well Do You Know the Couple?” or a “Wedding Bingo” using moments from the ceremony. A photo slideshow, a short toast, and a group “thank‑you” circle are also easy ways to keep the atmosphere warm without demanding extensive planning.  
 
 **Is it okay to host the shower at a restaurant?**  
-Absolutely. Reserving a private room at a favorite restaurant can simplify food and cleanup. Just be sure to inform the venue that it’s a post‑wedding celebration so they can accommodate any special requests (e.g., a cake cut or a quick slideshow).  
-
----  
-
-Planning a post‑wedding shower is an opportunity to extend the love and gratitude that define your wedding day. By keeping the event purposeful, budget‑friendly, and centered on the joy of togetherness, you’ll create a memorable moment that both you and your guests will cherish long after the last dance has ended. Happy celebrating!
+Absolutely. Reserving a private room at a favorite restaurant can simplify food and cleanup. Just be sure to inform the venue that it’s a post‑wedding celebration so they can accommodate any special requests (e.g., a cake cut or a quick slideshow).

@@ -1,5 +1,5 @@
 ---
-title: "Won’t hit minimum, what should we do?"
+title: "What can you do if you won't hit your venue's minimum spend?"
 slug: wont-hit-minimum-what-should
 category: "budget"
 excerpt: "If your wedding won’t meet the venue’s minimum spend, you have three main routes: negotiate a lower minimum, adjust your plans to reach it, or switch to a more flexible location."

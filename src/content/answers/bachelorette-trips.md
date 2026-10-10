@@ -1,5 +1,5 @@
 ---
-title: "Bachelorette Trips?"
+title: "How do you plan a bachelorette trip the bride will enjoy?"
 slug: bachelorette-trips
 category: "etiquette"
 excerpt: "A bachelorette trip can be a fun, memorable way to celebrate a bride‑to‑be, but it works best when the bride’s personality, budget, and comfort level are front‑and‑center."

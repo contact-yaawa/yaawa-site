@@ -1,5 +1,5 @@
 ---
-title: "DIY Wedding Invitations: When They Save Money"
+title: "Are DIY wedding invitations cheaper?"
 slug: invites-were-too-expensive-so
 category: "budget"
 excerpt: "DIY wedding invitations can save money, but only if printing, supplies, time, and mistakes do not erase the savings. Here is how to decide."

@@ -1,7 +1,7 @@
 ---
-title: "15 days out and everything going wrong?"
+title: "What should you do when everything goes wrong two weeks before the wedding?"
 slug: 15-days-out-and-everything
-category: "family-issues"
+category: "planning-timeline"
 excerpt: "When you’re 15 days from the big day and everything feels like it’s falling apart, the best move is to pause, prioritize the most critical items, delegate wisely, and communicate openly with family and vendors."
 created: 2026-08-11
 updated: 2026-08-11
@@ -23,7 +23,7 @@ recommendation: "Take a deep breath, then create a concise 15‑day “crisis‑
 
 ## Detailed Explanation
 ### 1. Acknowledge the Reality, Then Reset Your Mindset  
-The first instinct when a cascade of problems hits is panic. In reality, most weddings encounter at least one unexpected snag—venue delays, vendor miscommunications, family disagreements, or weather worries. Recognizing that you’re not alone eases the mental pressure. Research shows couples who reframe stress as a “challenge to solve” rather than a “catastrophe” retain more emotional bandwidth for decision‑making (Harvard Business Review, 2022).  
+The first instinct when a cascade of problems hits is panic. In reality, most weddings encounter at least one unexpected snag—venue delays, vendor miscommunications, family disagreements, or weather worries. Recognizing that you’re not alone eases the mental pressure.
 
 Take five minutes to write down every issue that feels urgent. Seeing the list on paper (or a digital note) externalizes the chaos, making it less overwhelming and more actionable.
 

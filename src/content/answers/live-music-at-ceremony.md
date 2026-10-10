@@ -1,5 +1,5 @@
 ---
-title: "Live music at ceremony, reception or both.?"
+title: "Should you have live music at the ceremony, the reception, or both?"
 slug: live-music-at-ceremony
 category: "vendors"
 excerpt: "Live music can elevate both the ceremony and the reception, but whether you choose one, the other, or both depends on your budget, venue acoustics, and the atmosphere you want to create."
@@ -102,7 +102,7 @@ Many musicians are accustomed to outdoor gigs and will bring weather‑proof cas
 
 ### 8. The Emotional Impact of Seeing Musicians Perform  
 
-Research shows that live performance triggers higher levels of dopamine, the “feel‑good” neurotransmitter, compared to recorded music. Watching a saxophonist’s breath, a vocalist’s expression, or a percussionist’s rhythmic precision adds a visual narrative that reinforces the song’s emotional message. This is especially potent during the ceremony, where the visual focus is already on the couple.  
+Watching a saxophonist’s breath, a vocalist’s expression, or a percussionist’s rhythmic precision adds a visual narrative that reinforces the song’s emotional message. This is especially potent during the ceremony, where the visual focus is already on the couple.  
 
 If you’re concerned about space, consider **musician placement**: a small ensemble positioned near the altar or on a side stage can be both intimate and unobtrusive. At the reception, a “band in the corner” setup allows guests to see the performers without blocking the dance floor.
 

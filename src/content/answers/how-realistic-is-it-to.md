@@ -1,5 +1,5 @@
 ---
-title: "How realistic is it to find my wedding dress in 1 weekend?"
+title: "Can you find your wedding dress in one weekend?"
 slug: how-realistic-is-it-to
 category: "fashion"
 excerpt: "Finding a wedding dress in a single weekend is possible, but it hinges on several factors: your budget, the style you have in mind, the availability of local boutiques or trunk‑show venues, and how flexible you are about alterations and customizations."

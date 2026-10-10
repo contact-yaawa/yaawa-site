@@ -1,5 +1,5 @@
 ---
-title: "I have a question: What's the most promising/useful wedding souvenir you have ever received?"
+title: "What wedding favors do guests actually find useful?"
 slug: i-have-a-question-whats
 category: "gifts"
 excerpt: "The most useful wedding souvenir you’ll ever receive is a thoughtfully personalized, functional keepsake that your guests can actually use after the celebration—think custom engraved glassware, a high‑quality reusable tote, or a beautifully designed photo‑strip strip."

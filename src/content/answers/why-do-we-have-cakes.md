@@ -1,5 +1,5 @@
 ---
-title: "Why do we have cakes in weddings?"
+title: "Why do weddings have cakes?"
 slug: why-do-we-have-cakes
 category: "etiquette"
 excerpt: "Wedding cakes are a centuries‑old tradition that blends symbolism, celebration, and practicality."

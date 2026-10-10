@@ -1,5 +1,5 @@
 ---
-title: "Engaged, and suddenly everyone has an opinion about my ring and timeline?"
+title: "How do you handle everyone's opinions about your ring and wedding timeline?"
 slug: engaged-and-suddenly-everyone-has
 category: "etiquette"
 excerpt: "When everyone suddenly has an opinion about your engagement ring and the timeline for buying it, take a deep breath, thank them for caring, and then prioritize what feels right for you as a couple."
@@ -129,8 +129,4 @@ Absolutely. Many jewelers offer free consultations that focus on education rathe
 Yes. An appraisal provides an official valuation for insurance purposes and can be useful if you ever need to claim loss or damage. Most jewelers will give a free appraisal at purchase; otherwise, a certified appraiser can do it for a modest fee.
 
 **What if my wedding date moves up and the ring isn’t ready yet?**  
-Contact the jeweler immediately. Some can expedite production for an additional fee, while others may have a ready‑made inventory that matches your specifications. If expediting isn’t possible, consider a temporary placeholder ring (e.g., a simple band) for the ceremony and swap in the final piece later.  
-
----  
-
-Navigating a sea of opinions about your engagement ring and its timeline can feel daunting, but by grounding yourself in clear priorities, establishing a sensible schedule, and communicating with kindness, you’ll turn the chatter into a helpful chorus rather than a stressful storm. Remember, the ring is a promise you make to each other—let that promise guide every decision. Happy planning!
+Contact the jeweler immediately. Some can expedite production for an additional fee, while others may have a ready‑made inventory that matches your specifications. If expediting isn’t possible, consider a temporary placeholder ring (e.g., a simple band) for the ceremony and swap in the final piece later.

@@ -1,5 +1,5 @@
 ---
-title: "Thank you cards?"
+title: "How do you write wedding thank-you cards?"
 slug: thank-you-cards
 category: "gifts"
 excerpt: "Sending thank‑you cards after your wedding is both a gracious tradition and a practical way to show appreciation for the love, time, and gifts you received."
@@ -146,8 +146,4 @@ If the specific item escapes you, focus on the gesture and the relationship: “
 Yes. Attendance itself is a gift of time and presence, especially if guests traveled a long distance. A simple note like, “Thank you for celebrating with us and making our day even more special,” is perfectly appropriate.  
 
 **How can I stay organized and avoid missing anyone?**  
-Create a gift‑tracking spreadsheet right after the wedding. Include columns for guest names, gifts, and a “card sent” checkbox. Set calendar reminders for each batch of cards you plan to mail. If you’re using a digital system, many apps can automatically generate a “thank‑you” list based on your registry and RSVP data.  
-
----  
-
-Sending thoughtful thank‑you cards is a timeless way to close the wedding chapter with gratitude and grace. By planning ahead, using a simple tracking system, and choosing a style that fits your personality and budget, you’ll turn this post‑wedding task into an enjoyable celebration of the love and support that surrounded your special day. Happy writing!
+Create a gift‑tracking spreadsheet right after the wedding. Include columns for guest names, gifts, and a “card sent” checkbox. Set calendar reminders for each batch of cards you plan to mail. If you’re using a digital system, many apps can automatically generate a “thank‑you” list based on your registry and RSVP data.
